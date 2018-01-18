@@ -26,7 +26,8 @@
   </colgroup>
 　<tr>
   　<td>落格</td>
-    <td colspan=2>xkjd6_落格_yaml</td>
+    <td>單詞混合</td>
+    <td>xkjd6_落格_yaml</td>
     <td>mac / ios</td>
 　</tr>
   <colgroup>
