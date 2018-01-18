@@ -12,7 +12,7 @@
 # :bookmark: 項目簡介
     
 1. 本項目僅提供由個人維護的**碼表繁體版**，可導入其他輸入法平台使用
-2. 項目所提供之碼表本質皆是純文字檔，但為求使用上便利，分為下列檔案供下載:
+2. 項目所提供之碼表本質皆是純文字檔，主要以 RIME 及落格平台適用之格式為優先；其他平台請自行更改
 <table style="border-top:2px  solid;border-bottom:2px solid;border-right:1px hidden;border-left:1px hidden;" cellpadding="10" border='1'>
   <colgroup>
     <col style="border-right:1px hidden">
@@ -21,12 +21,6 @@
   　<th align="center" valign="center">輸入法</th>
   　<th align="center" valign="center" colspan=2>輸入法檔案</th>
   　<th align="center" valign="center">輸入法支持平台</th>
-　</tr>
-　<tr>
-  　<td>RIME</td>
-    <td colspan=2>xkjd6.tr.dict.yaml</td>
-    <td>win / mac / ios / android/</td>
-　</tr>
   <colgroup>
     <col style="border-right:1px hidden">
   </colgroup>
@@ -39,14 +33,14 @@
     <col style="border-right:1px hidden">
     </colgroup>
 <tr style='border-bottom:2px hidden;'>
-  　<td rowspan="2">其他</td>
+  　<td rowspan="2">RIME</td>
   　<td>單字</td>
-  　<td>xkjd6_word_tr.txt</td>
-  　<td rowspan="2">視輸入法平台而定</td>
+  　<td>xkjd6.ftdanzi.dict.yaml</td>
+  　<td rowspan="2">win / mac / ios / android/</td>
 　</tr>
 　<tr>
   　<td>詞組</td>
-  　<td>xkjd6_phrase_tr.txt</td>
+  　<td>xkjd6.ftcizu.dict.yaml</td>
 　</tr>
 </table>
 
