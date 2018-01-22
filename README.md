@@ -27,7 +27,7 @@
 　<tr>
   　<td>落格</td>
     <td>單詞混合</td>
-    <td>xkjd6_落格_yaml</td>
+    <td>xkjd6_落格.txt</td>
     <td>mac / ios</td>
 　</tr>
   <colgroup>
