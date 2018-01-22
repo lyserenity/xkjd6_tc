@@ -36,12 +36,12 @@
 <tr style='border-bottom:2px hidden;'>
   　<td rowspan="2">RIME</td>
   　<td>單字</td>
-  　<td>xkjd6.ftdanzi.dict.yaml</td>
+  　<td>rimeDict/xkjd6_tc.danzi.dict.yaml</td>
   　<td rowspan="2">win / mac / ios / android/</td>
 　</tr>
 　<tr>
   　<td>詞組</td>
-  　<td>xkjd6.ftcizu.dict.yaml</td>
+  　<td>rimeDict/xkjd6_tc.cizu.dict.yaml</td>
 　</tr>
 </table>
 
