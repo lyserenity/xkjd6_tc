@@ -34,13 +34,17 @@
     <col style="border-right:1px hidden">
     </colgroup>
 <tr style='border-bottom:2px hidden;'>
-  　<td rowspan="2">RIME</td>
+  　<td rowspan="3">RIME</td>
   　<td>單字</td>
   　<td>rimeDict/xkjd6_tc.danzi.dict.yaml</td>
-  　<td rowspan="2">win / mac / ios / android/</td>
+  　<td rowspan="3">win / mac / ios / android/</td>
 　</tr>
 　<tr>
   　<td>詞組</td>
+  　<td>rimeDict/xkjd6_tc.cizu.dict.yaml</td>
+　</tr>
+<tr>
+  　<td>630声笔(笔)詞組</td>
   　<td>rimeDict/xkjd6_tc.cizu.dict.yaml</td>
 　</tr>
 </table>
