@@ -44,7 +44,7 @@
   　<td>rimeDict/xkjd6_tc.cizu.dict.yaml</td>
 　</tr>
 <tr>
-  　<td>630声笔(笔)詞組</td>
+  　<td>630聲筆(筆)詞組</td>
   　<td>rimeDict/xkjd6_tc.cizu.dict.yaml</td>
 　</tr>
 </table>
