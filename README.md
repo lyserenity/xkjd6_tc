@@ -11,8 +11,8 @@
 
 # :bookmark: 項目簡介
     
-1. 本項目僅提供由個人維護的**碼表繁體版**，可導入其他輸入法平台使用
-2. 項目所提供之碼表本質皆是純文字檔，主要以 RIME 及落格平台適用之格式為優先；其他平台請自行更改
+1. 本項目僅提供由個人維護的**碼表繁體版**，可導入其他輸入法平台使用.
+2. 項目所提供之碼表本質皆是純文字檔，主要以 RIME 及落格平台適用之格式為優先；須適用其他平台請自行更改.
 <table style="border-top:2px  solid;border-bottom:2px solid;border-right:1px hidden;border-left:1px hidden;" cellpadding="10" border='1'>
   <colgroup>
     <col style="border-right:1px hidden">
@@ -48,6 +48,8 @@
   　<td>rimeDict/xkjd6_tc.cizu.dict.yaml</td>
 　</tr>
 </table>
+
+> 請注意: 落格碼表不含偏旁部首、標點符號編碼
 
 3. 繁體碼表基於鍵道規則編碼，由於繁體字形較為繁複，且未經方案作者的審核，
 恐有缺字、編碼錯落或理解有誤的地方，也歡迎各位提出。
