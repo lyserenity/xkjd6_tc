@@ -8,7 +8,7 @@
 #   -「東」、「車」二字及以其為偏旁的字：維持 va 編碼
 ---
 name : xkjd6_tc.danzi
-version : 2018.02.27
+version : 2018.03.03
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -1104,7 +1104,7 @@ use_preset_vocabulary: false
 怛	dsoo	300	dsoooi
 憚	dsooo	300	dsoooo
 嗲	dsou	300	dsouou
-炟	dsouoi	28	dsouoi
+炟	dsouo	28	dsouoi
 噠	dsov	300	dsovoo
 疸	dsovo	300	dsovoi
 答	dsu	300	dsuviv
@@ -1673,7 +1673,7 @@ use_preset_vocabulary: false
 酎	fdvi	300	fdvivi
 碡	fdvu	300	fdvuvv
 不	fdvui	300	fdvuio
-著	fe	300	fe
+著	fe	300	feiiuo
 浙	fea	300	feaiuu
 折	fei	300	feiuuu
 蔗	feii	300	feiiov
@@ -2735,9 +2735,9 @@ use_preset_vocabulary: false
 翬	hbaoo	29	hbaooa
 回	hbi	300	hbiaoo
 蛔	hbia	300	hbiaia
-虫	hbia	300	hbiavi
 迴	hbiao	300	hbiaoa
-蟪	hbiav	300	hbiavi
+虫	hbiav	300	hbiavi
+蟪	hbiavi	300	hbiavi
 薈	hbii	300	hbiiiv
 茴	hbiii	300	hbiiia
 蕙	hbiiv	300	hbiivi
@@ -3735,6 +3735,7 @@ use_preset_vocabulary: false
 笄	jkuvvv	300	jkuvvv
 基	jkv	300	jkvivo
 輯	jkva	300	jkvaov
+檵	jkvaa	27	jkvaao
 擊	jkvi	300	jkviiu
 繫	jkvia	300	jkviaa
 革	jkvii	300	jkviia
@@ -3818,7 +3819,6 @@ use_preset_vocabulary: false
 雛	jluaio	300	jluaio
 鮈	jluau	27	jluaua
 腒	jluav	28	jluavu
-舉	jlui	300	jluivv
 麴	jluo	300	jluoua
 朐	jluu	300	jluuao
 扃	jluui	300	jluuia
@@ -3829,7 +3829,8 @@ use_preset_vocabulary: false
 秬	jluvva	28	jluvva
 巨	jlv	300	jlvava
 橘	jlva	300	jlvaoa
-車	jlvav	300	jlvavi
+舉	jlvav	300	jlvavv
+車	jlvavi	300	jlvavi
 椐	jlvavu	300	jlvavu
 聚	jlvi	300	jlviui
 醵	jlvii	300	jlviiv
@@ -3841,7 +3842,7 @@ use_preset_vocabulary: false
 枸	jlvu	300	jlvuao
 砠	jlvui	28	jlvuia
 桔	jlvv	300	jlvvoo
-櫸	jlvva	300	jlvvai
+櫸	jlvva	300	jlvvau
 琚	jlvvav	300	jlvvav
 柜	jlvvi	300	jlvvia
 間	jm	300	jmoioi
@@ -4145,7 +4146,7 @@ use_preset_vocabulary: false
 鬈	jtiv	300	jtivou
 券	jto	300	jtouau
 鵑	jtoa	300	jtoaui
-悛	jtooa	300	jtooao
+悛	jtoo	300	jtooao
 眷	jtou	300	jtouia
 蠲	jtoui	300	jtouia
 焆	jtouo	29	jtouou
@@ -7753,8 +7754,8 @@ use_preset_vocabulary: false
 哃	tyoi	28	tyoiav
 曈	tyoio	28	tyoiov
 慟	tyoo	300	tyoouv
-恫	tyooia	300	tyooia
-烔	tyoui	29	tyouia
+恫	tyooi	300	tyooia
+烔	tyou	29	tyouia
 童	tyov	300	tyovia
 𦒍	tyova	27	tyovao
 筒	tyu	300	tyuvia
@@ -9625,7 +9626,7 @@ use_preset_vocabulary: false
 椅	ykvv	300	ykvvuo
 杙	ykvva	28	ykvvao
 一	ykvvv	300	ykvvv
-與	yl	300	yluiuo
+與	yl	300	ylvauo
 預	yla	300	ylaovu
 澦	ylaa	28	ylaaoa
 潏	ylaao	28	ylaaoa
@@ -9727,7 +9728,6 @@ use_preset_vocabulary: false
 輿	ylui	300	yluiuo
 禹	yluia	300	yluiav
 鄅	yluiai	28	yluiai
-譽	yluio	300	yluioa
 臾	yluiv	300	yluiva
 腧	yluivu	300	yluivu
 舁	yluivu	300	yluivu
@@ -9744,6 +9744,7 @@ use_preset_vocabulary: false
 毓	yluvv	300	yluvva
 雨	ylv	300	ylviai
 育	ylva	300	ylvauu
+譽	ylvao	300	ylvaoa
 歟	ylvau	300	ylvaua
 敔	ylvi	28	ylviuv
 榆	ylviv	300	ylvivu
