@@ -1,3 +1,4 @@
 # 忽略以下文件
 .DS_Sore
 makeDict.sh
+update_Rime_dict.sh
