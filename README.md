@@ -1,3 +1,25 @@
+
+[**項目簡介**](#title-1)
+- [雙拼方案說明](#title-1.1)
+- [繁體字碼表說明](#title-1.2)
+
+[**繁體碼表使用須知**](#title-2) 
+- [說明](#title-2.1)
+    - [單字](#title-2.1.1)
+    - [詞組](#title-2.1.2)
+
+[**待處理**](#title-3)
+
+---
+<br>
+
+<a name="title-1"></a>
+
+# :bookmark: 項目簡介
+
+<a name="title-1.1"></a>
+## 雙拼方案說明
+
 星空鍵道6.0輸入方案作者：吅吅大山（大牛），該方案的教程、簡介或特點可至以下連結一探究竟:
   - [鍵道網盤][ys168]
   - [鍵道官網](https://xkjd.coding.me/)
@@ -6,11 +28,9 @@
 > 如果真的還有疑問，也可至大牛雙拼 QQ 群 ( [320053116](https://jq.qq.com/?_wv=1027&k=5sTEYIQ) )
 > 與眾多群友一同討論。
 
----
-<br>
-
-# :bookmark: 項目簡介
-    
+<a name="title-1.2"></a>
+## 繁體字碼表說明
+ 
 1. 本項目僅提供由個人維護的**碼表繁體版**，可導入其他輸入法平台使用.
 2. 項目所提供之碼表本質皆是純文字檔，主要以 RIME 及落格平台適用之格式為優先；須適用其他平台請自行更改.
 <table style="border-top:2px  solid;border-bottom:2px solid;border-right:1px hidden;border-left:1px hidden;" cellpadding="10" border='1'>
@@ -45,7 +65,7 @@
 　</tr>
 <tr>
   　<td>630聲筆(筆)詞組</td>
-  　<td>rimeDict/xkjd6_tc.cizu.dict.yaml</td>
+  　<td>rimeDict/xkjd6_tc.wxw.dict.yaml</td>
 　</tr>
 </table>
 
@@ -61,10 +81,13 @@
 
 <br>
 
+<a name="title-2"></a>
 # :memo: 繁體碼表使用須知
 
+<a name="title-2.1"></a>
 ## 說明
 
+<a name="title-2.1.1"></a>
 #### 單字
 
 以繁體字形為編碼，以下僅指出使用繁體版碼表中筆形碼須注意的地方：  
@@ -77,6 +100,7 @@
   - 「食」：筆畫取 `人` 和 `、(點)`，即為 `io`
     - 注意：「倉、今」等構成之字皆取 `io`
 
+<a name="title-2.1.2"></a>
 #### 詞組
 
   - 105 聲筆 (SB) 和 525 聲筆筆 (SBB)詞組
@@ -85,6 +109,7 @@
 
 <br>
 
+<a name="title-3"></a>
 # :ballot_box_with_check:  待處理
 
 - add: 一對多繁體詞組
