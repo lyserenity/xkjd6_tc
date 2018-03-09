@@ -8,7 +8,7 @@
 #   -「東」、「車」二字及以其為偏旁的字：維持 va 編碼
 ---
 name : xkjd6_tc.danzi
-version : 2018.03.03
+version : 2018.03.09
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -33,7 +33,7 @@ use_preset_vocabulary: false
 有	v	300	ydvuuu
 才	c	300	chviuu
 的	d	300	deuiua
-看	u	300	kfiuia
+得	u	300	de
 而	x	300	xjvuia
 著	o	300	qeiiuo
 這	f	300	feoaoa
@@ -68,7 +68,7 @@ use_preset_vocabulary: false
 錶	bciov	300	bciovv
 儦	bciova	28	bciova
 摽	bciu	28	bciuvi
-驃	bciv	300	bciv
+驃	bciv	300	bcivvi
 驫	bcivi	28	bciviv
 髟	bcivu	300	bcivuu
 俵	bcivv	29	bcivvi
@@ -1917,7 +1917,7 @@ use_preset_vocabulary: false
 誌	fkoav	300	fkoavo
 趾	fkoi	300	fkoiiv
 躑	fkoio	300	fkoiou
-蹢	fkoiov	28	dkoiov
+蹢	fkoiov	28	fkoiov
 躓	fkoiu	300	fkoiuu
 跖	fkoiv	300	fkoivu
 晊	fkoiva	28	fkoiva
@@ -3669,7 +3669,7 @@ use_preset_vocabulary: false
 冀	jkiv	300	jkivia
 乩	jkiva	300	jkivaa
 驥	jkivi	300	jkiviv
-佶	jkivo	300	jkivov
+佶	jkivo	300	jkivoo
 鮆	jkivu	27	jkivua
 騎	jkivv	300	jkivvu
 髻	jkivvo	300	jkivvo
@@ -4114,7 +4114,7 @@ use_preset_vocabulary: false
 嘏	jsuo	300	jsuoav
 稼	jsuv	300	jsuvoo
 笳	jsuva	300	jsuvau
-秸	jsuvu	300	jsuvuo
+秸	jsuvv	300	jsuvvo
 夾	jsv	500	jsviiu
 枷	jsva	300	jsvauo
 賈	jsvi	300	jsviao
@@ -6137,7 +6137,7 @@ use_preset_vocabulary: false
 抨	priu	300	priuvo
 烹	pro	300	provoo
 怦	proo	300	proovo
-嘭	prov	300	provov
+嘭	prov	300	provoo
 朋	pru	300	pruuu
 鵬	pruu	300	pruuui
 篷	pruv	300	pruvua
