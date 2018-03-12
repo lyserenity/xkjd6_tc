@@ -723,6 +723,7 @@
 不得無禮	bdwl
 別問	bdwn
 別忘	bdwp
+百度網盤	bdwpv
 不倒翁	bdwr
 別挖	bdws
 別為	bdww
@@ -770,6 +771,7 @@
 別呀	bdys
 別的意思	bdyso
 別院	bdyt
+百度雲	bdyw
 百度一下	bdyx
 別用	bdyy
 別要	bdyz
@@ -2243,7 +2245,8 @@
 拜耳	bhxj
 白皙	bhxk
 敗絮	bhxl
-白鬚	bhxlu
+白絮	bhxlu
+白鬚	bhxlui
 不寒而慄	bhxlv
 白線	bhxm
 冰魂雪魄	bhxp
@@ -5323,6 +5326,7 @@ B超	bjz
 八十	bsek
 巴士	bseka
 巴適	bsekao
+巴式	bsekav
 罷市	bseki
 把勢	bsekiv
 把式	bsekiv
@@ -5536,7 +5540,6 @@ B超	bjz
 巴騰	bstr
 把他	bsts
 把她	bstsi
-把她	bstsia
 把它	bstsio
 八團	bstt
 八通	bsty
@@ -8583,6 +8586,7 @@ B超	bwz
 擦了擦	clc
 措辭	clck
 措詞	clcki
+錯詞	clckio
 搓搓	clcl
 錯層	clcr
 擦了擦	clcs
@@ -13395,6 +13399,7 @@ C語言	cyy
 帝王	dkwp
 地王	dkwpv
 低窪	dkws
+遞茶	dkwsu
 地插	dkwsv
 嫡傳	dkwt
 地位	dkww
@@ -20227,6 +20232,7 @@ D盤	dpf
 石壩	ekbsv
 石碑	ekbw
 時報	ekbz
+施暴	ekbzo
 拾翠	ekc
 失策	ekce
 史冊	ekcei
@@ -23951,6 +23957,7 @@ D盤	dpf
 睡眼惺忪	eyxsi
 睡眼惺鬆	eyxsii
 受影響	eyxx
+實用新型	eyxxo
 適用於	eyy
 是一樣的	eyyd
 神一樣的	eyydo
@@ -24408,10 +24415,12 @@ D盤	dpf
 裰	fboa
 裰	fboaao
 惴	fbooia
-追平	fbp
+放鞭炮	fbp
+追平	fbpg
 追捧	fbpr
 追賠	fbpw
 追跑	fbpz
+放鞭炮	fbpzo
 副部長	fbq
 墜琴	fbqb
 追著	fbqe
@@ -29086,7 +29095,6 @@ D盤	dpf
 方伯	fpbl
 方波	fpblo
 方便	fpbm
-放鞭	fpbmo
 坊本	fpbn
 放榜	fpbp
 防備	fpbw
@@ -39166,6 +39174,7 @@ D盤	dpf
 會歌	hbge
 會幹	hbgf
 悔改	hbgh
+回改	hbghi
 回顧	hbgj
 惠顧	hbgjv
 回國	hbgl
@@ -47173,6 +47182,7 @@ D盤	dpf
 結晶	jdjg
 潔淨	jdjga
 捷徑	jdjgi
+街景	jdjgu
 解決	jdjh
 孑孓	jdjha
 接觸	jdjj
@@ -51484,6 +51494,7 @@ D盤	dpf
 處理器	jlq
 具且	jlqd
 舉著	jlqe
+車輪戰	jlqf
 劇情	jlqg
 舉債	jlqh
 居住	jlqj
@@ -57712,6 +57723,7 @@ D盤	dpf
 快到	kgdz
 快刀	kgdzo
 客觀上	kge
+快睡	kgeb
 快手	kged
 快射	kgee
 客觀事實	kgeeo
@@ -59086,6 +59098,7 @@ D盤	dpf
 卡機	ksjk
 開鎖匠	ksjx
 卡口	ksk
+卡扣	kskd
 卡庫	kskj
 咔咔	ksks
 凱瑟琳	ksl
@@ -59297,6 +59310,7 @@ D盤	dpf
 快車道	kwdz
 可謂是	kwe
 困守	kwed
+困獸	kwedi
 崑山	kwef
 坤樞	kwej
 可謂是	kwek
@@ -67770,7 +67784,8 @@ K線圖	kxt
 慢著	mfqeo
 名副其實	mfqeu
 名符其實	mfqeuu
-蠻佔	mfqf
+漫展	mfqf
+蠻佔	mfqfo
 滿清	mfqg
 蠻缺	mfqh
 滿期	mfqk
@@ -70219,7 +70234,8 @@ K線圖	kxt
 目前為止	mqw
 謬誤	mqwj
 謬傳	mqwt
-明爭暗鬥	mqx
+毛主席	mqx
+明爭暗鬥	mqxd
 密切相關	mqxg
 明槍暗箭	mqxj
 毛主席	mqxk
@@ -70384,7 +70400,8 @@ K線圖	kxt
 朦朦	mrmruu
 猛獁	mrms
 矇昧	mrmw
-夢寐	mrmwi
+萌妹	mrmwi
+夢寐	mrmwio
 盲人摸象	mrmx
 沒日沒夜	mrmy
 萌櫱	mrn
@@ -72023,7 +72040,8 @@ K線圖	kxt
 尿素	ncsj
 男廁所	ncsl
 尿酸	ncst
-鳥頭	nct
+內存條	nct
+鳥頭	nctd
 尿糖	nctp
 尿桶	ncty
 嫋	ncu
@@ -74064,6 +74082,7 @@ K線圖	kxt
 年輕人	nqr
 牛肉	nqrd
 女主人公	nqrg
+男主人公	nqrgi
 牛乳	nqrj
 牛人	nqrn
 女主人	nqrna
@@ -81345,13 +81364,13 @@ K線圖	kxt
 寨子	qhzkoa
 前後左右	qhzy
 確鑿	qhzz
-準備	qi
+這些	qi
 其他	qia
 起點	qia
 整個	qii
 正常	qio
 主任	qiu
-這些	qiv
+準備	qiv
 主	qj
 注	qja
 紵	qjaa
@@ -83801,7 +83820,6 @@ K線圖	kxt
 陣地	qndka
 真諦	qndku
 真低	qndkui
-真諦	qndkuo
 真地	qndkuv
 真多	qndl
 枕墊	qndm
@@ -86233,6 +86251,7 @@ K線圖	kxt
 搶來	qxlhi
 搶路	qxlj
 強力	qxlk
+牆裡	qxlka
 主旋律	qxll
 蜣螂	qxlp
 強留	qxlq
@@ -91685,6 +91704,7 @@ K線圖	kxt
 喪失	spek
 喪事	speku
 喪身	spen
+桑椹	spena
 喪生	sper
 喪父	spf
 桑植	spfk
@@ -92426,8 +92446,9 @@ K線圖	kxt
 宋人	syrno
 所有人	syrnu
 鬆軟	syrt
-算一算	sys
+啥意思	sys
 鬆碎	sysb
+三原色	syse
 鬆散	sysf
 送死	sysk
 送喪	sysp
@@ -96799,9 +96820,8 @@ K線圖	kxt
 它給	tsgwo
 他共	tsgy
 它高	tsgz
-它會	tsh
+他會	tsh
 她會	tshb
-他會	tshbi
 它會	tshbo
 兔死狐悲	tshbu
 獺猴	tshd
@@ -96871,7 +96891,6 @@ K線圖	kxt
 鰨目	tsmj
 他們	tsmn
 她們	tsmna
-他們	tsmni
 它們	tsmno
 她媽	tsms
 他沒	tsmw
@@ -106655,6 +106674,7 @@ T型臺	txth
 薛定諤	xdxei
 歇鞍	xdxf
 楔形	xdxg
+諧星	xdxgo
 諧謔	xdxh
 嘔血	xdxho
 些兒	xdxj
@@ -108328,6 +108348,7 @@ X光	xgx
 血虧	xhk
 血口	xhkd
 隘口	xhkda
+礙口	xhkdv
 學科	xhke
 埃克	xhkev
 愛看	xhkf
@@ -111405,6 +111426,7 @@ X光	xgx
 安全隱患	xqyh
 休矣	xqyk
 笑逐顏開	xqyku
+愛奇藝	xqykuv
 羞於	xqyl
 修養	xqyp
 休養	xqypi
@@ -113310,6 +113332,7 @@ X光	xgx
 像他	xxtsi
 像她	xxtsia
 向她	xxtsu
+向它	xxtsuo
 想他	xxtsv
 想她	xxtsva
 小學同學	xxtx
@@ -114786,6 +114809,7 @@ X光	xgx
 優等	yddri
 又大	ydds
 有段	yddt
+移動端	yddtu
 右端	yddtv
 一段段	yddtvu
 又得	yddw
@@ -115902,6 +115926,7 @@ X光	xgx
 藝術團	yet
 冶鐵	yetd
 也談	yetf
+夜談	yetfo
 也挺	yetg
 液態	yeth
 也太	yetha
@@ -116361,7 +116386,8 @@ X光	xgx
 沿江	yfjxa
 岩漿	yfjxi
 驗鈔	yfjz
-檐口	yfk
+緣之空	yfk
+檐口	yfkd
 眼科	yfke
 嚴苛	yfkeo
 眼看	yfkf
@@ -119803,6 +119829,7 @@ X光	xgx
 浴池	ylwkaa
 魚池	ylwku
 雲裡霧裡	ylwl
+與我	ylwlv
 語文	ylwn
 預聞	ylwna
 餘溫	ylwni
@@ -122166,6 +122193,7 @@ X光	xgx
 永豐	yyfr
 用法	yyfs
 用磚	yyft
+言葉之庭	yyfto
 醫藥費	yyfw
 泳裝	yyfx
 養育之恩	yyfxo
@@ -123059,7 +123087,7 @@ X光	xgx
 要像	yzxxvi
 要凶	yzxy
 藥引	yzy
-慈母手中線，遊子身上衣。臨行密密縫，意恐遲遲歸。誰言寸草心，報得三春暉。	yzyb
+慈母手中線，遊子身上衣。臨行密密縫，意恐遲遲歸。	yzyb
 要有	yzyd
 搖曳	yzye
 藥業	yzyei
@@ -125852,6 +125880,7 @@ X光	xgx
 自然景觀	zrjg
 自然經濟	zrjj
 贈寄	zrjk
+增肌	zrjkv
 增劇	zrjl
 增減	zrjm
 增加	zrjs

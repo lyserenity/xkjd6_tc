@@ -1,16 +1,3 @@
-# 鍵道 6 詞組繁體碼表
-#
-# 說明:
-# 本碼表以繁體字形為編碼，以下為使用上須注意的地方：
-#   - 目前詞組碼表僅對筆畫編碼之部分變動，不涉及用語等差異增減
----
-name : xkjd6_tc.cizu
-version : 2018.03.12
-sort: by_weight
-use_preset_vocabulary: false
-...
-妳們	nkmna
-# phrase
 並不比	bbb
 彬彬	bbbb
 斌斌	bbbbo
@@ -106681,4 +106668,3 @@ X光	xgx
 造字	zzzku
 造作	zzzl
 早早	zzzz
-妳們	nkmna
