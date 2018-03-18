@@ -5,7 +5,7 @@
 #   - 目前詞組碼表僅對筆畫編碼之部分變動，不涉及用語等差異增減
 ---
 name : xkjd6_tc.cizu
-version : 2018.03.12
+version : 2018.03.18
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -2496,8 +2496,8 @@ use_preset_vocabulary: false
 補助	bjqjo
 不起	bjqk
 編輯器	bjqka
-補氣	bjqko
-補齊	bjqkoo
+補齊	bjqko
+補氣	bjqkou
 補漆	bjqkoa
 不齊	bjqkv
 不景氣	bjqkvo
@@ -16974,8 +16974,8 @@ D盤	dpf
 熟食	ejeko
 實際是	ejekoa
 塾師	ejekou
-熟識	ejekoo
 設計師	ejekoo
+熟識	ejekoo
 數十	ejeki
 術士	ejeku
 殊是	ejekvo
@@ -17983,8 +17983,8 @@ D盤	dpf
 溼疹	ekqna
 市鎮	ekqno
 失真	ekqnu
-市長	ekqp
-騎上	ekqpi
+騎上	ekqp
+市長	ekqpo
 師長	ekqpu
 十丈	ekqpuv
 是求	ekqq
@@ -22234,8 +22234,8 @@ D盤	dpf
 販賣	ffmh
 反目	ffmj
 繁密	ffmk
-反面	ffmm
-翻面	ffmmu
+翻面	ffmm
+反面	ffmmu
 方方面面	ffmmo
 分分秒秒	ffmmuu
 朝朝暮暮	ffmmuu
@@ -24306,8 +24306,8 @@ D盤	dpf
 只願	fkyto
 之源	fkytoa
 之遠	fkytov
-志願	fkytv
-職員	fkytvo
+職員	fkytv
+志願	fkytvv
 致遠	fkytvv
 只可意會不可言傳	fkyw
 只用	fkyy
@@ -26155,6 +26155,7 @@ D盤	dpf
 發落	fslla
 髮廊	fslp
 法郎	fslpa
+琺琅	fslpv
 發綹	fslq
 發愣	fslr
 發冷	fslra
@@ -27481,8 +27482,8 @@ D盤	dpf
 重者	fyfe
 扶搖直上	fyfei
 止於至善	fyfeio
-專業知識	fyfev
-志願者	fyfevv
+志願者	fyfev
+專業知識	fyfevi
 重犯	fyff
 中飯	fyffi
 翻一番	fyffu
@@ -33894,7 +33895,7 @@ D盤	dpf
 毀了	hbleu
 灰了	hbleva
 回藍	hblf
-會靈	hblg
+會令	hblg
 回來	hblh
 回不來	hblhi
 賄賂	hblj
@@ -45725,6 +45726,7 @@ D盤	dpf
 九陰	jqybu
 就有	jqyd
 舊有	jqydi
+舊友	jqydiv
 就由	jqydo
 就這樣的	jqydoo
 就業	jqye
@@ -46073,6 +46075,7 @@ D盤	dpf
 乘船	jrwt
 成為	jrww
 稱為	jrwwu
+稱謂	jrwwuo
 超然物外	jrwwv
 成蟲	jrwy
 兼容性	jrx
@@ -50631,6 +50634,7 @@ D盤	dpf
 狂喊	kxhf
 狂呼	kxhj
 誑惑	kxhl
+礦化	kxhq
 狂歡	kxht
 誆哄	kxhy
 狂好	kxhz
@@ -52438,6 +52442,7 @@ K線圖	kxt
 兩國論	lgl
 領料	lglc
 泠洌	lgld
+領了	lgle
 鈴蘭	lglf
 玲玲	lglg
 靈靈	lglgv
@@ -52525,6 +52530,7 @@ K線圖	kxt
 靈堂	lgtp
 令堂	lgtpi
 令他	lgts
+令她	lgtsi
 靈通	lgty
 兩個務必	lgw
 靈車	lgwe
@@ -53888,7 +53894,6 @@ K線圖	kxt
 羅斯	llski
 螺螄	llskii
 囉嗦	llsl
-羅嗦	llsli
 羅森	llsn
 洛桑	llsp
 囉囉嗦嗦	llss
@@ -54155,6 +54160,7 @@ K線圖	kxt
 路漫漫	lmmf
 聯名	lmmg
 連名	lmmgv
+連麥	lmmh
 簾幕	lmmj
 臉面	lmmm
 連綿	lmmmv
@@ -56938,7 +56944,8 @@ K線圖	kxt
 秒針	mcqn
 瞄準	mcqw
 妙招	mcqz
-妙思	mcs
+秒速	mcs
+妙思	mcsk
 妙算	mcst
 苗條	mct
 苗頭	mctd
@@ -60153,8 +60160,8 @@ K線圖	kxt
 美女	mwnl
 每年	mwnm
 梅牛	mwnq
-沒人	mwnr
-沒能	mwnra
+沒能	mwnr
+沒人	mwnra
 沒拿	mwns
 沒內	mwnw
 沒娘	mwnx
@@ -60679,6 +60686,7 @@ K線圖	kxt
 毛褲	mzkj
 茅坑	mzkr
 毛孔	mzky
+貓控	mzkyu
 滿足了	mzl
 毛料	mzlc
 滿足了	mzle
@@ -62269,6 +62277,7 @@ K線圖	kxt
 內蒙古	nmgj
 粘過	nmgl
 念過	nmgli
+年過	nmglu
 年根	nmgn
 內蒙古自治區	nmgq
 年庚	nmgr
@@ -65387,6 +65396,7 @@ K線圖	kxt
 偏袒	pmtf
 偏癱	pmtfi
 偏聽	pmtg
+偏態	pmth
 平面圖	pmtj
 偏題	pmtk
 駢填	pmtm
@@ -65949,6 +65959,7 @@ K線圖	kxt
 拋頭露面	ptl
 破銅爛鐵	ptlt
 品頭論足	ptlz
+評頭論足	ptlzo
 普通朋友	ptp
 普陀區	ptq
 普通青年	ptqn
@@ -77187,6 +77198,7 @@ K線圖	kxt
 桑果	spg
 桑海	sph
 喪盡	spj
+桑基	spjk
 桑間	spjm
 喪假	spjs
 桑卡	spk
@@ -80333,7 +80345,8 @@ K線圖	kxt
 體重	tkfy
 屜櫃	tkg
 體格	tkge
-提幹	tkgf
+體感	tkgf
+提幹	tkgfi
 體改	tkgh
 剔骨	tkgj
 提過	tkgl
@@ -82091,6 +82104,7 @@ T型臺	txth
 同桌	tyfl
 銅佛	tyfli
 統分	tyfn
+通分	tyfna
 同房	tyfp
 同方	tyfpi
 通風	tyfr
@@ -90280,6 +90294,7 @@ T型臺	txth
 安扎	xffso
 暗轉	xfft
 安裝	xffx
+暗樁	xffxo
 暗中	xffy
 二分鐘	xffyv
 按照	xffz
@@ -91914,8 +91929,8 @@ X光	xgx
 耳挖	xjwsv
 二傳	xjwt
 二位	xjww
-喜出望外	xjwwv
-而為	xjwwvo
+而為	xjwwv
+喜出望外	xjwwva
 二維	xjwwva
 而未	xjwwvv
 二重	xjwy
@@ -92225,6 +92240,7 @@ X光	xgx
 戲碼	xkmsi
 洗煤	xkmw
 細毛	xkmz
+吸貓	xkmzo
 西南	xkn
 西寧	xkng
 息怒	xknj
@@ -92260,8 +92276,8 @@ X光	xgx
 西站	xkqf
 喜慶	xkqg
 稀缺	xkqh
-喜鵲	xkqhv
-西齋	xkqhvo
+西齋	xkqhv
+喜鵲	xkqhvv
 吸住	xkqj
 稀奇	xkqk
 習氣	xkqka
@@ -93624,7 +93640,8 @@ X光	xgx
 秀英	xqyg
 休慼與共	xqygi
 安全隱患	xqyh
-休矣	xqyk
+愛奇藝	xqyk
+休矣	xqyki
 笑逐顏開	xqyku
 愛奇藝	xqykuv
 羞於	xqyl
@@ -94286,7 +94303,8 @@ X光	xgx
 宣告	xtgz
 系統化	xth
 宣漢	xthf
-懸乎	xthj
+玄乎	xthj
+懸乎	xthji
 宣杭	xthp
 喧譁	xthq
 玄幻	xtht
@@ -96556,6 +96574,7 @@ X光	xgx
 油脂	ydfka
 油紙	ydfkaa
 優質	ydfki
+釉質	ydfku
 有志	ydfkv
 有之	ydfkvo
 有致	ydfkvv
@@ -98670,6 +98689,7 @@ X光	xgx
 樂府	yhfju
 躍至	yhfk
 月份	yhfn
+約分	yhfna
 越方	yhfp
 月俸	yhfr
 越發	yhfs
@@ -102862,6 +102882,7 @@ X光	xgx
 欲言又止	yyyfu
 也有一個	yyyg
 又有一個	yyyga
+嚶嚶嚶	yyygo
 踴躍	yyyh
 用以	yyyk
 泳衣	yyyka
@@ -104591,6 +104612,7 @@ X光	xgx
 足超	zjjz
 足可	zjk
 阻抗	zjkp
+足控	zjky
 祖考	zjkz
 總經理	zjl
 租賃	zjlb
