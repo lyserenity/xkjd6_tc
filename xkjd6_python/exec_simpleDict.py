@@ -59,10 +59,9 @@ new_lst = []
 input_file = 'test_3.txt'
 with open(input_file, 'r', encoding = 'utf8') as lookup_file:
     lookup_word = pd.read_csv(lookup_file, delimiter='\t', header=None,index_col=False,dtype=np.str)    
-    #print(lookup_word.shape[1])
-    if lookup_word.shape[1] == 1:
-        lookup_word[1]="#NaN"
-    for row in range(len(lookup_word)):
+    lookup_word[1].fillna("#NaN", inplace=True)
+
+    for row in range(len(lookup_word)):           
         try:
             if (len(lookup_word.iloc[row,0]) <= 2 and len(lookup_word.iloc[row,1]) == 3) or re.search(r'[A-Za-z0-9]',lookup_word.iloc[row,0]) is not None:
                 try:
@@ -75,7 +74,7 @@ with open(input_file, 'r', encoding = 'utf8') as lookup_file:
         except IndexError:
             lookup_lst.append(lookup_word.iloc[row,0])
 
-
+#sys.exit(0)
 with io.open('xkjd6.json', 'r', encoding = 'utf8') as infile:
     data = json.load(infile) # danzi for dict
 
@@ -141,7 +140,7 @@ for pop_phr in origin_lst:
     if pop_phr[1] == "#NaN":
         value_isNaN.write(pop_phr[0]+'\n')
     else:
-        lst_4.append([origin_lst[0],origin_lst[1]])
+        lst_4.append(pop_phr)
 
 value_isNaN.close()
 
