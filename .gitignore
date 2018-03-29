@@ -2,3 +2,5 @@
 .DS_Sore
 /sysTool
 /xkjd6_tempDict
+/xkjd6_python/*.txt
+/xkjd6_python_numpy/
