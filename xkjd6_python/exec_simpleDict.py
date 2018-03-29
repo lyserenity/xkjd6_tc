@@ -90,13 +90,13 @@ for phr_hasKey in lookup_lst:
             else:
                 for i in range(len(lookup_word)):
                     while phr_hasKey == lookup_word.iloc[i,0]:
+                       print(phr_hasKey)
                        origin_lst.append([lookup_word.iloc[i,0],lookup_word.iloc[i,1]])
                        test_code.append(lookup_word.iloc[i,1])
                        lookup_lst.pop(lookup_lst.index(get_phr))
                        break                
  #               lookup_lst.pop(lookup_lst.index(get_phr))
                 
-
  
 for phr in lookup_lst:
     get_phr = re.sub(r'^(.+)(。|？|，|、|：|“)+$', r'\1', str(phr))

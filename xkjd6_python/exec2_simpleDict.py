@@ -4,6 +4,7 @@
 
 
 import numpy as np
+import pandas as pd
 import json
 import re
 # import os
@@ -63,34 +64,16 @@ new_lst = []
 
 input_file = "test_2.txt"
 with open(input_file, 'r', encoding = 'utf8') as lookup_file:
-    lookup_word = pd.read_csv(lookup_file, delimiter='\t', header=None,index_col=False,dtype=np.str)    
-    print(lookup_word.shape[1])
-    if lookup_word.shape[1] == 1:
-        lookup_word['sybbbb']="#N/A"
+    lookup_word = pd.read_csv(lookup_file, delimiter='\t', header=None,index_col=False,dtype=np.str)
     for row in range(len(lookup_word)):
-        try:
-            if (len(lookup_word.iloc[row,0]) <= 2 and len(lookup_word.iloc[row,1]) == 3) or re.search(r'[A-Za-z0-9]',lookup_word.iloc[row,0]) is not None:
-                try:
-                    origin_lst.append([lookup_word.iloc[row,0],lookup_word.iloc[row,1]])
-                    test_code.append(lookup_word.iloc[row,1])
-                except AttributeError:
-                    lookup_lst.append(lookup_word.iloc[row,0])
-            else:
-                lookup_lst.append(str(lookup_word.iloc[row,0]))
-        except IndexError:
-            lookup_lst.append(str(lookup_word.iloc[row,0]))
+        lookup_lst.append([lookup_word.iloc[row,0],lookup_word.iloc[row,1]])
 # with io.open(input_file, 'r', encoding = 'utf8') as lookup_file:
 #     lookup_word = np.loadtxt(lookup_file, dtype = np.str, delimiter = '\t')
 #     for row in range(1,lookup_word.shape[0]+1):
 #             lookup_lst.append([lookup_word[row-1,0],lookup_word[row-1,1]])
 
-write_file = "test_2_result.txt"
-output_file = io.open(write_file, 'w', encoding = 'utf8')
-
-
 with io.open('xkjd6.json', 'r', encoding = 'utf8') as infile:
     data = json.load(infile) # danzi for dict
-
 
 #lookup_lstCP = copy.deepcopy(lookup_lst)
 i = 0
@@ -104,7 +87,6 @@ while i <= len(lookup_lst):
                 i = i - 1
              except IndexError:
                  pass
-      
         else:
             word_hasKey = lookup_lst[i][0]
             for i_hasKey in range(len(word_hasKey)):
@@ -122,8 +104,6 @@ while i <= len(lookup_lst):
     except IndexError:
             pass
     i = i+1
-
-
 
 for i in range(len(lookup_lst)):
     phr = lookup_lst[i][0]
@@ -158,6 +138,8 @@ for i in range(len(lookup_lst)):
 new_lst.extend(origin_lst)
 new_sort_lst = sorted(new_lst,key=lambda phrCode:phrCode[1])
 
+write_file = "test_2_result.txt"
+output_file = io.open(write_file, 'w', encoding = 'utf8')
 for k in new_sort_lst:
     output_file.write(k[0]+"\t"+k[1]+"\n")
 
