@@ -8,7 +8,7 @@
 #   -「東」、「車」二字及以其為偏旁的字：維持 va 編碼
 ---
 name : xkjd6_tc.danzi
-version : 2018.03.09
+version : 2018.04.03
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -131,6 +131,7 @@ use_preset_vocabulary: false
 昺	bgoi	28	bgoivi
 炳	bgou	300	bgouvi
 并	bgouv	300	bgouvv
+幷	bguvuv	300	bguvuv
 冰	bgov	300	bgovaa
 稟	bgovi	300	bgovia
 兵	bgu	300	bguiuo
@@ -295,7 +296,7 @@ use_preset_vocabulary: false
 鉑	blioui	300	blioui
 鈸	bliov	300	bliovu
 鎛	bliovi	300	bliovi
-伯	bliu	500	bliu
+伯	bliu	500	bliuia
 捭	bliuu	300	bliuui
 搏	bliuv	300	bliuvi
 摶	bliuvi	300	bliuvi
@@ -758,6 +759,7 @@ use_preset_vocabulary: false
 抖	ddi	300	ddiuoo
 蝶	ddia	300	ddiavi
 蚪	ddiao	300	ddiaoo
+螲	ddiaoo	300	ddiaoo
 疊	ddiaoa	300	ddiaoa
 嵽	ddiav	28	ddiavi
 蔸	ddii	300	ddiiui
@@ -772,7 +774,8 @@ use_preset_vocabulary: false
 昳	ddoiu	29	ddoiuv
 蹀	ddoiv	300	ddoivi
 趺	ddoivv	300	ddoivv
-竇	ddoo	300	ddoovo
+斗	ddoo	300	ddoouo
+竇	ddoov	300	ddoovo
 痘	ddov	300	ddovvo
 咥	ddova	28	ddovao
 喋	ddovi	300	ddovii
@@ -793,7 +796,7 @@ use_preset_vocabulary: false
 碟	ddvu	300	ddvuvi
 楪	ddvv	28	ddvvii
 得	de	500	deuuoi
-の	dea	29	dea
+の	dea	29	deaa
 鍀	dei	300	deiooi
 嘚	deo	29	deouui
 底	deov	300	deovua
@@ -817,7 +820,7 @@ use_preset_vocabulary: false
 鉭	dfioo	300	dfiooi
 撣	dfiu	300	dfiuoo
 儋	dfiua	300	dfiuav
-單	dfo	500	dfo
+單	dfo	500	dfooia
 誕	dfoa	300	dfoaui
 旦	dfoi	300	dfoivv
 憚	dfoo	300	dfoooo
@@ -876,7 +879,7 @@ use_preset_vocabulary: false
 岱	dhivia	300	dhivia
 傣	dhivv	300	dhivvv
 垈	dhivvo	29	dhivvo
-呆	dho	500	dho
+呆	dho	500	dhovv
 詒	dhoa	300	dhoaao
 呔	dhov	300	dhovuo
 待	dhu	300	dhuuvo
@@ -1048,7 +1051,7 @@ use_preset_vocabulary: false
 琔	dmvvoo	28	dmvvoo
 扽	dn	29	dniuva
 當	dp	300	dpioia
-凼	dpa	300	dpa
+凼	dpa	300	dpaaii
 盪	dpao	300	dpaoia
 璗	dpaov	27	dpaovv
 黨	dpi	300	dpioia
@@ -1224,7 +1227,7 @@ use_preset_vocabulary: false
 舍	eei	300	eeivvi
 蛇	eeia	300	eeiaoo
 輋	eeiav	27	eeiavu
-葉	eeii	300	eeii
+葉	eeii	300	eeiivi
 攝	eeiu	300	eeiuvi
 捨	eeiui	300	eeiuiv
 拾	eeiuiv	300	eeiuiv
@@ -1484,6 +1487,7 @@ use_preset_vocabulary: false
 屾	eniai	28	eniaia
 瞫	eniav	28	eniavi
 莘	enii	300	eniiov
+蔘	eniia	300	eniiao
 葚	eniiv	300	eniivi
 鉮	enio	27	enioia
 什	eniu	500	eniuoo
@@ -1510,13 +1514,14 @@ use_preset_vocabulary: false
 腎	envi	300	enviuu
 砷	envu	300	envuia
 蜃	envui	300	envuia
+昚	envuo	300	envuoi
 椹	envv	300	envvii
 珅	envvi	28	envvia
 琛	envvo	300	envvoa
 上	ep	300	epivvv
-鞝	epa	300	epa
+湯	epa	300	epaoiv
 緔	epaa	300	epaaio
-湯	epao	300	epaoiv
+鞝	epe	300	epeiio
 尚	epi	300	epioia
 賞	epio	300	epioao
 裳	epioo	300	epioov
@@ -1647,6 +1652,7 @@ use_preset_vocabulary: false
 帚	fdavi	300	fdavia
 粥	fdavo	300	fdavou
 胄	fdi	300	fdiauu
+冑	fdiai	300	fdiaia
 罘	fdia	300	fdiavu
 葤	fdii	300	fdiiaa
 㑳	fdiu	28	fdiuaa
@@ -1660,7 +1666,7 @@ use_preset_vocabulary: false
 啁	fdou	300	fdouau
 皺	fdu	300	fduaau
 週	fdua	300	fduaoa
-繇	fduo	300	fduo
+繇	fduo	300	fduoua
 舟	fduu	300	fduuao
 舳	fduui	300	fduuia
 鵃	fduuu	300	fduuui
@@ -1740,7 +1746,7 @@ use_preset_vocabulary: false
 拽	fgi	300	fgiuia
 跩	fgo	35	fgoiia
 嘬	fgoo	300	fgooiv
-轉	fgv	300	fgv
+轉	fgv	300	fgvavi
 摘	fh	300	fhiuov
 翟	fha	300	fhaoio
 側	fhi	300	fhiaoi
@@ -2042,7 +2048,7 @@ use_preset_vocabulary: false
 鱝	fnua	300	fnuauo
 鼢	fnui	300	fnuiuo
 忿	fnuo	300	fnuooa
-奮	fnv	300	fnv
+奮	fnv	300	fnvuio
 轒	fnva	28	fnvauo
 酚	fnvi	300	fnviuo
 墳	fnvo	300	fnvouo
@@ -2370,6 +2376,7 @@ use_preset_vocabulary: false
 胳	geu	300	geuuao
 舸	geuu	300	geuuvo
 膈	geuv	300	geuvoi
+箇	geuvi	300	geuvia
 歌	gev	300	gevoua
 戈	geva	300	gevauo
 革	gevi	300	geviia
@@ -2431,7 +2438,7 @@ use_preset_vocabulary: false
 隑	ghaii	27	ghaiia
 賅	ghao	300	ghaoov
 戤	ghau	300	ghauva
-蓋	ghi	300	ghi
+蓋	ghi	300	ghiivo
 芥	ghii	300	ghiiiu
 荄	ghiio	29	ghiiov
 鈣	ghio	300	ghiovi
@@ -2681,6 +2688,7 @@ use_preset_vocabulary: false
 躬	gyui	300	gyuiav
 肱	gyuv	300	gyuvua
 篢	gyuvv	27	gyuvvi
+栱	gyv	28	gyvvii
 工	gyv	300	gyvivv
 功	gyvi	300	gyviau
 汞	gyvia	300	gyviaa
@@ -2751,6 +2759,7 @@ use_preset_vocabulary: false
 褘	hboaai	28	hboaai
 諢	hboao	300	hboaoa
 誨	hboau	300	hboauv
+譭	hboaui	300	hboaui
 詼	hboav	300	hboavu
 譓	hboavi	27	hboavi
 晦	hboi	300	hboiuv
@@ -2759,6 +2768,7 @@ use_preset_vocabulary: false
 噲	hboivi	300	hboivi
 悔	hboo	300	hboouv
 燴	hbou	300	hbouiv
+燬	hbouu	300	hbouui
 烠	hbouv	28	hbouvu
 麾	hbov	300	hbovuv
 咴	hbovu	300	hbovuo
@@ -3185,6 +3195,7 @@ use_preset_vocabulary: false
 烘	hyou	300	hyouvi
 吽	hyouv	29	hyouvv
 哄	hyov	300	hyovii
+吰	hyovu	28	hyovua
 竑	hyovv	28	hyovvu
 訇	hyu	300	hyuaoa
 黌	hyuo	300	hyuovi
@@ -3443,6 +3454,7 @@ use_preset_vocabulary: false
 囅	jfooa	300	jfooav
 懺	jfooi	300	jfooii
 燀	jfou	27	jfouoo
+剷	jfov	28	jfovii
 廛	jfov	300	jfovia
 剗	jfv	28	jfvaii
 韂	jfvi	28	jfviua
@@ -4020,7 +4032,7 @@ use_preset_vocabulary: false
 鷲	jqovu	300	jqovui
 就	jqovv	300	jqovvu
 九	jqu	300	jquaa
-灸	jqua	300	jqua
+灸	jqua	300	jquaou
 咎	jquao	300	jquaoo
 鳩	jquau	300	jquaui
 舅	jqui	300	jquiia
@@ -4768,6 +4780,7 @@ use_preset_vocabulary: false
 瀂	ljau	28	ljauai
 盧	lji	300	ljivia
 僇	ljia	28	ljiaov
+睩	ljiaa	28	ljiaaa
 蘆	ljii	300	ljiiiv
 蓼	ljiia	300	ljiiao
 菉	ljiiaa	28	ljiiaa
@@ -5260,7 +5273,7 @@ use_preset_vocabulary: false
 藐	mciiu	300	mciiuo
 鶓	mciiui	300	mciiui
 描	mciu	300	mciuii
-廟	mco	300	mco
+廟	mco	300	mcovuo
 喵	mcoi	300	mcoiii
 嘸	mcou	300	mcouvv
 邈	mcu	300	mcuooa
@@ -5416,6 +5429,7 @@ use_preset_vocabulary: false
 墨	mliav	300	mliavo
 摹	mlii	300	mliiiu
 驀	mliii	300	mliiiv
+萬	mliiia	300	mliiia
 蘑	mliio	300	mliiov
 藦	mliiov	28	mliiov
 茉	mliiv	300	mliivv
@@ -5439,7 +5453,6 @@ use_preset_vocabulary: false
 秣	mluv	300	mluvvv
 無	mluvo	300	mluvoo
 末	mlv	300	mlvviu
-萬	mlva	300	mlva
 模	mlvi	300	mlviio
 靺	mlviv	29	mlvivv
 歿	mlvu	300	mlvuua
@@ -5623,6 +5636,7 @@ use_preset_vocabulary: false
 嬲	ncia	300	nciaau
 嫋	ncu	300	ncuaov
 脲	ncua	300	ncuavu
+裊	ncui	300	ncuiov
 捏	nd	300	ndiuoi
 涅	nda	300	ndaoiv
 乜	ndaa	300	ndaaa
@@ -6544,7 +6558,7 @@ use_preset_vocabulary: false
 歧	qkivu	300	qkivuo
 騏	qkivv	300	qkivvi
 齊	qko	300	qkovou
-啓	qkoa	300	qkoa
+啓	qkoa	300	qkoauv
 祁	qkoaa	300	qkoaai
 祈	qkoau	300	qkoauu
 祇	qkoaua	29	qkoaua
@@ -6611,7 +6625,7 @@ use_preset_vocabulary: false
 契	qkvvv	500	qkvvvu
 琪	qkvvvi	300	qkvvvi
 琦	qkvvvu	300	qkvvvu
-區	ql	500	qlvuoa
+區	ql	500	qlvooo
 屈	qla	300	qlavai
 灈	qlai	28	qlaiav
 渠	qlav	300	qlavvv
@@ -6663,7 +6677,7 @@ use_preset_vocabulary: false
 樞	qlvvoo	300	qlvvoo
 前	qm	300	qmouui
 潛	qma	300	qmavvu
-纖	qmaa	300	qmaa
+纖	qmaa	300	qmaaii
 繾	qmaai	300	qmaaia
 縑	qmaao	300	qmaaou
 縴	qmaaov	300	qmaaov
@@ -6999,6 +7013,7 @@ use_preset_vocabulary: false
 芮	rbiii	300	rbiiia
 蕤	rbiiv	300	rbiivu
 睿	rbiv	300	rbivia
+叡	rbiva	300	rbivau
 枘	rbv	300	rbviau
 肉	rd	300	rdiaii
 柔	rda	300	rdaovv
@@ -7339,7 +7354,8 @@ use_preset_vocabulary: false
 送	sy	300	syouoa
 淞	sya	300	syavuo
 娀	syau	28	syauvv
-	syav	28	syavii
+㞞	syav	28	syavuu
+	syavi	28	syavii
 鬆	syi	300	syivvu
 嵩	syia	300	syiaov
 崧	syiav	300	syiavu
@@ -7592,6 +7608,7 @@ use_preset_vocabulary: false
 馱	tlivv	300	tlivvu
 唾	tlo	500	tlouvi
 跎	tloi	300	tloioo
+跅	tloiu	300	tloiuu
 鼉	tloo	300	tlooia
 庹	tlov	300	tlovav
 脫	tlu	300	tluouo
@@ -8804,6 +8821,7 @@ use_preset_vocabulary: false
 旭	xlua	300	xluaoi
 旮	xluao	300	xluaoi
 魆	xlui	28	xluiva
+卹	xluia	28	xluiai
 徐	xluu	300	xluuiv
 嬃	xluua	28	xluuau
 肷	xluuai	300	xluuai
@@ -9186,6 +9204,7 @@ use_preset_vocabulary: false
 喑	yboov	300	yboovo
 嚚	yboovi	28	yboovi
 癮	ybov	300	ybovai
+廕	ybova	300	ybovai
 印	ybu	300	ybuaai
 胤	ybua	300	ybuaao
 夤	ybuao	300	ybuaoo
@@ -9246,6 +9265,7 @@ use_preset_vocabulary: false
 釉	yduo	300	yduoia
 郵	yduv	300	yduvai
 筱	yduvi	300	yduvii
+肬	yduvu	300	yduvua
 右	ydv	300	ydvuoo
 輶	ydva	27	ydvaou
 酉	ydvi	300	ydviau
@@ -9411,6 +9431,7 @@ use_preset_vocabulary: false
 英	ygi	300	ygiiia
 蠅	ygia	300	ygiaia
 顒	ygiav	29	ygiavu
+薨	ygii	300	ygiivu
 薨	ygii	300	ygiivu
 鍈	ygio	28	ygioii
 攖	ygiu	300	ygiuao
