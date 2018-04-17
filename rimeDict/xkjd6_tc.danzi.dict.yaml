@@ -8,7 +8,7 @@
 #   -「東」、「車」二字及以其為偏旁的字：維持 va 編碼
 ---
 name : xkjd6_tc.danzi
-version : 2018.04.03
+version : 2018.04.17
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -4430,6 +4430,7 @@ use_preset_vocabulary: false
 圐	kjiai	28	kjiaia
 庫	kjo	300	kjovva
 褲	kjoa	300	kjoaov
+袴	kjoav	300	kjoavu
 窟	kjoo	300	kjooav
 嚳	kju	300	kjuouv
 酷	kjv	300	kjviuv
