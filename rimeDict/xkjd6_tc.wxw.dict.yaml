@@ -7,7 +7,7 @@
 #     請見諒。
 ---
 name : xkjd6.wxw
-version : 2018.03.12
+version : 2018.04.18
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -194,7 +194,7 @@ use_preset_vocabulary: false
 還沒	ha
 緩緩	haa
 混蛋	hai
-混混	hao
+還能	hao
 還好	hau
 喝酒	hav
 好像	hi
@@ -275,7 +275,7 @@ use_preset_vocabulary: false
 卡片	kui
 開支	kuo
 靠近	kuu
-口氣	kuv
+空氣	kuv
 看到	kv
 開車	kva
 快速	kvi
@@ -502,7 +502,7 @@ use_preset_vocabulary: false
 痛苦	tii
 她們	tio
 條件	tiu
-頭上	tiv
+停止	tiv
 頭髮	tiv
 特別	to
 聽說	toa
@@ -520,7 +520,7 @@ use_preset_vocabulary: false
 天天	tv
 聽到	tva
 擡起	tvo
-特殊	tvu
+討厭	tvu
 為了	wa
 網絡	waa
 溫柔	wao
@@ -596,7 +596,7 @@ use_preset_vocabulary: false
 應該	yoa
 要是	yoi
 一定	yoo
-眼前	you
+以前	you
 一次	yov
 以後	yu
 一句	yua
@@ -618,7 +618,7 @@ use_preset_vocabulary: false
 最好	zau
 早已	zav
 暫且	zi
-字數	zia
+再見	zia
 咱們	zio
 走進	zio
 左手	ziu
