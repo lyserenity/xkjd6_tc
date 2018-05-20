@@ -8,7 +8,7 @@
 #   -「東」、「車」二字及以其為偏旁的字：維持 va 編碼
 ---
 name : xkjd6_tc.danzi
-version : 2018.05.10
+version : 2018.05.20
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -131,11 +131,11 @@ use_preset_vocabulary: false
 昺	bgoi	28	bgoivi
 炳	bgou	300	bgouvi
 并	bgouv	300	bgouvv
-幷	bguvuv	300	bguvuv
 冰	bgov	300	bgovaa
 稟	bgovi	300	bgovia
 兵	bgu	300	bguiuo
 秉	bguv	300	bguvav
+幷	bguvuv	300	bguvuv
 柄	bgv	300	bgvvia
 丙	bgvi	300	bgviau
 邴	bgvia	300	bgviai
@@ -609,6 +609,7 @@ use_preset_vocabulary: false
 此	cki	300	ckivua
 伺	ckia	300	ckiavo
 茨	ckii	300	ckiiov
+茲	ckiia	29	zkiiaa
 茲	ckiia	300	ckiia
 茈	ckiii	300	ckiiiv
 莿	ckiiv	28	ckiivi
@@ -759,8 +760,8 @@ use_preset_vocabulary: false
 抖	ddi	300	ddiuoo
 蝶	ddia	300	ddiavi
 蚪	ddiao	300	ddiaoo
-螲	ddiaoo	300	ddiaoo
 疊	ddiaoa	300	ddiaoa
+螲	ddiaoo	300	ddiaoo
 嵽	ddiav	28	ddiavi
 蔸	ddii	300	ddiiui
 鈄	ddio	300	ddiooo
@@ -1652,8 +1653,8 @@ use_preset_vocabulary: false
 帚	fdavi	300	fdavia
 粥	fdavo	300	fdavou
 胄	fdi	300	fdiauu
-冑	fdiai	300	fdiaia
 罘	fdia	300	fdiavu
+冑	fdiai	300	fdiaia
 葤	fdii	300	fdiiaa
 㑳	fdiu	28	fdiuaa
 倜	fdiua	300	fdiuau
@@ -7645,6 +7646,7 @@ use_preset_vocabulary: false
 恬	tmo	300	tmoouv
 闐	tmoi	300	tmoiuo
 晪	tmoii	28	tmoiia
+畑	tmou	29	tmouia
 甜	tmu	300	tmuvvi
 腆	tmui	300	tmuiav
 舔	tmuv	300	tmuvvv
@@ -8385,6 +8387,7 @@ use_preset_vocabulary: false
 逍	xcioo	300	xciooa
 傚	xciov	300	xciovu
 驍	xciv	300	xcivvo
+咲	xco	300	xcoouv
 效	xco	300	xcovuv
 嘯	xcoa	300	xcoavv
 謏	xcoau	27	xcoaui
@@ -8405,7 +8408,6 @@ use_preset_vocabulary: false
 斆	xcuou	28	xcuouv
 爻	xcuouo	300	xcuouo
 肴	xcuov	300	xcuovu
-咲	xco	300	xcoouv
 簫	xcuv	300	xcuvav
 筱	xcuvi	300	xcuvii
 校	xcv	300	xcvovu
@@ -9145,8 +9147,8 @@ use_preset_vocabulary: false
 隩	xzai	28	xzaiui
 媼	xzau	300	xzauoi
 傲	xzi	300	xzivoo
-艹	xzii	500	xziiii
 凹	xzia	500	xziaia
+艹	xzii	500	xziiii
 拗	xziu	300	xziuaa
 噢	xzo	300	xzouia
 襖	xzoa	300	xzoaui
@@ -10135,15 +10137,16 @@ use_preset_vocabulary: false
 紫	zki	300	zkivaa
 仔	zkia	500	zkiaiv
 虸	zkiaa	28	zkiaai
+眦	zkiai	300	zkiaiv
 嵫	zkiao	300	zkiaou
 茲	zkii	300	zkiiaa
+茲	zkiia	29	zkiiaa
 茈	zkiii	300	zkiiiv
 錙	zkio	300	zkioaa
 鎡	zkioo	300	zkioou
 齜	zkiv	300	zkiviv
 貲	zkiva	300	zkivao
 眥	zkivi	300	zkivia
-眦	zkiai	300	zkiaiv
 髭	zkiviv	300	zkiviv
 訾	zkivo	300	zkivoa
 觜	zkivu	300	zkivua
