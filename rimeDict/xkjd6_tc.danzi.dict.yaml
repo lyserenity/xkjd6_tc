@@ -8,7 +8,7 @@
 #   -「東」、「車」二字及以其為偏旁的字：維持 va 編碼
 ---
 name : xkjd6_tc.danzi
-version : 2018.05.27
+version : 2018.06.11
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -3194,6 +3194,7 @@ use_preset_vocabulary: false
 訌	hyoa	300	hyoavi
 閎	hyoi	300	hyoivu
 烘	hyou	300	hyouvi
+吽	hyouv	27	hyouvv
 吽	hyouv	29	hyouvv
 哄	hyov	300	hyovii
 吰	hyovu	28	hyovua
@@ -5201,6 +5202,7 @@ use_preset_vocabulary: false
 矓	lyia	300	lyiaov
 蘢	lyii	300	lyiiov
 壟	lyo	300	lyovvo
+襱	lyoa	300	lyoaov
 曨	lyoi	28	lyoiov
 窿	lyoo	300	lyooai
 嚨	lyoov	300	lyoovo
@@ -8178,6 +8180,7 @@ use_preset_vocabulary: false
 喳	wsovo	300	wsovoi
 剎	wsu	300	wsuoii
 猹	wsua	300	wsuavo
+詧	wsuao	300	wsuaoa
 岔	wsuo	300	wsuoia
 膃	wsuoi	300	wsuoii
 查	wsv	300	wsvoiv
@@ -8458,6 +8461,7 @@ use_preset_vocabulary: false
 叶	xdou	300	xdouoo
 噢	xdoui	300	xdouia
 羯	xdouo	300	xdouoi
+吽	xdouv	27	xdouvv
 熰	xdouv	28	xdouvo
 吽	xdouvv	29	xdouvv
 嘔	xdov	300	xdovoo
@@ -8940,14 +8944,14 @@ use_preset_vocabulary: false
 繡	xqa	300	xqaaav
 滫	xqai	28	xqaiua
 溴	xqau	300	xqauia
-岫	xqi	300	xqiaia
-䗛	xqia	27	xqiaii
+休	xqi	300	xqivv
+岫	xqia	300	xqiaia
+䗛	xqiai	27	xqiaii
 脩	xqii	28	xqiiua
 鏽	xqio	300	xqioav
 饈	xqioo	300	xqioou
-休	xqiv	300	xqivv
+鵂	xqiv	300	xqivui
 髹	xqivi	300	xqiviv
-鵂	xqivu	300	xqivui
 羞	xqo	300	xqouai
 袖	xqoa	300	xqoaia
 咻	xqoi	300	xqoivv
@@ -9873,6 +9877,7 @@ use_preset_vocabulary: false
 園	yti	300	ytiavo
 圓	ytia	300	ytiaoa
 圜	ytiai	300	ytiaia
+円	ytiaiv	28	ytiaiv
 蜎	ytiao	28	ytiaou
 螈	ytiav	300	ytiavu
 苑	ytii	300	ytiiua

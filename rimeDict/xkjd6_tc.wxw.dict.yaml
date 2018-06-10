@@ -7,7 +7,7 @@
 #     請見諒。
 ---
 name : xkjd6.wxw
-version : 2018.05.27
+version : 2018.06.11
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -56,7 +56,7 @@ use_preset_vocabulary: false
 此時	co
 村裡	coa
 測試	coa
-湊足	coi
+才是	coi
 匆忙	coo
 材料	cou
 此刻	cov
@@ -193,7 +193,7 @@ use_preset_vocabulary: false
 尷尬	gvu
 還沒	ha
 緩緩	haa
-混蛋	hai
+孩子	hai
 還能	hao
 還好	hau
 喝酒	hav
@@ -227,8 +227,9 @@ use_preset_vocabulary: false
 姐姐	jau
 漸漸	jav
 幾個	ji
+結果	jia
 絕對	jii
-傢伙	jio
+經常	jio
 堅持	jiu
 機會	jiv
 就是	jo
@@ -365,7 +366,7 @@ use_preset_vocabulary: false
 你的	nui
 難受	nuo
 難得	nuu
-女生	nuv
+那種	nuv
 那樣	nv
 年輕	nva
 拿來	nvi
@@ -576,7 +577,7 @@ use_preset_vocabulary: false
 學生	xuv
 興奮	xv
 想到	xva
-想要	xvi
+需要	xvi
 學校	xvo
 現在	xvu
 安靜	xvv
