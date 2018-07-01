@@ -7,7 +7,7 @@
 #     請見諒。
 ---
 name : xkjd6.wxw
-version : 2018.06.17
+version : 2018.07.01
 sort: original
 use_preset_vocabulary: false
 ...
@@ -70,6 +70,7 @@ use_preset_vocabulary: false
 參與	cva
 從事	cvi
 從來	cvi
+才有	cvu
 從未	cvv
 到了	da
 大約	daa
@@ -453,6 +454,7 @@ use_preset_vocabulary: false
 人類	rou
 容顏	rov
 然後	ru
+仍然	rua
 熱血	rui
 認真	ruo
 日後	ruu
@@ -473,8 +475,7 @@ use_preset_vocabulary: false
 隨著	sii
 思念	sio
 隨手	siu
-三歲	siv
-宿舍	siv
+所處	siv
 所謂	soa
 算是	soi
 索性	soo
@@ -484,15 +485,14 @@ use_preset_vocabulary: false
 碎片	sui
 似乎	suo
 隨後	suu
-三年	suv
+所稱	suv
 所有	sv
 司機	sva
 送到	sva
-甦醒	svi
 送來	svi
 三天	svv
 提出	ta
-通紅	taa
+推給	taa
 掏出	tai
 天賦	tao
 唾沫	tav
@@ -509,20 +509,19 @@ use_preset_vocabulary: false
 同時	toi
 推開	toi
 天空	too
-天道	tou
+提前	tou
 同意	tov
 他的	tu
 突然	tua
-頭腦	tua
 嘆息	tui
 體質	tuu
 天氣	tuv
 天天	tv
 聽到	tva
-擡起	tvo
+抬起	tvo
 討厭	tvu
 為了	wa
-網絡	waa
+超級	waa
 溫柔	wao
 無力	wau
 充滿	wav
@@ -536,12 +535,11 @@ use_preset_vocabulary: false
 晚上	wiv
 問題	wo
 忘記	woa
-聞言	woa
 溫暖	woi
 我家	woo
-問道	wou
+往前	wou
 我的	wu
-衝向	wui
+朝向	wui
 無辜	wuo
 微微	wuu
 微笑	wuv
@@ -621,11 +619,10 @@ use_preset_vocabulary: false
 再見	zia
 咱們	zio
 走進	zio
-左手	ziu
+責任	ziu
 早上	ziv
 怎麼	zo
 再說	zoa
-嘴裡	zoa
 總是	zoi
 在家	zoo
 作為	zou
