@@ -7,7 +7,7 @@
 #     請見諒。
 ---
 name : xkjd6.wxw
-version : 2018.07.01
+version : 2018.07.09
 sort: original
 use_preset_vocabulary: false
 ...
@@ -274,7 +274,7 @@ use_preset_vocabulary: false
 渴望	kov
 可愛	ku
 克服	kua
-卡片	kui
+快樂	kui
 開支	kuo
 靠近	kuu
 空氣	kuv
@@ -560,6 +560,7 @@ use_preset_vocabulary: false
 想著	xii
 相信	xio
 選擇	xiu
+想像	xiu
 安全	xiv
 而是	xo
 心裡	xoa
