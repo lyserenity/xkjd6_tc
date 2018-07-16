@@ -8,7 +8,7 @@
 #   -「東」、「車」二字及以其為偏旁的字：維持 va 編碼
 ---
 name : xkjd6_tc.danzi
-version : 2018.07.09
+version : 2018.07.16
 sort: original
 use_preset_vocabulary: false
 ...
@@ -6055,6 +6055,7 @@ use_preset_vocabulary: false
 評	pgo	300	pgoavo
 瓶	pgou	300	pgouva
 馮	pgov	300	pgoviv
+呯	pgovo	300	pgovou
 乒	pgu	300	pguiuu
 鮃	pgua	300	pguavo
 坪	pgv	300	pgvovo
@@ -7918,6 +7919,7 @@ use_preset_vocabulary: false
 鞀	tzvi	300	tzviau
 鞉	tzviu	300	tzviuo
 燾	tzvo	300	tzvooo
+檮	tzvoa	300	tzvoav
 桃	tzvu	300	tzvuov
 吹	wb	300	wbouai
 陲	wba	300	wbaiuv
@@ -9319,6 +9321,7 @@ use_preset_vocabulary: false
 齗	ybivu	28	ybivuu
 音	ybo	300	ybovoi
 吲	yboa	300	yboava
+冘	yboau	28	yboaua
 禋	yboav	28	yboavi
 諲	yboavi	27	yboavi
 吟	yboi	300	yboioa
@@ -9374,6 +9377,7 @@ use_preset_vocabulary: false
 遊	ydo	300	ydovoa
 誘	ydoa	300	ydoauv
 呦	ydoaa	300	ydoaao
+冘	ydoau	28	ydoaua
 祐	ydoav	28	ydoavu
 宥	ydoo	300	ydoovu
 猷	ydou	300	ydouvu
@@ -9620,6 +9624,7 @@ use_preset_vocabulary: false
 籥	yhuv	28	yhuviv
 越	yhv	300	yhvova
 軏	yhva	27	yhvavu
+戉	yhvaa	27	yhvaau
 櫟	yhvu	300	yhvuia
 樾	yhvv	300	yhvvoi
 玥	yhvvu	29	yhvvuu

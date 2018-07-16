@@ -7,7 +7,7 @@
 #     請見諒。
 ---
 name : xkjd6.wxw
-version : 2018.07.09
+version : 2018.07.16
 sort: original
 use_preset_vocabulary: false
 ...
@@ -100,6 +100,7 @@ use_preset_vocabulary: false
 打算	duv
 東西	dv
 得到	dva
+地下	dvi
 大哥	dvo
 對面	dvu
 生活	ea
@@ -530,14 +531,14 @@ use_preset_vocabulary: false
 位置	wia
 五個	wii
 吃飯	wio
-往常	wio
+微信	wio
 文化	wiu
 晚上	wiv
 問題	wo
 忘記	woa
 溫暖	woi
 我家	woo
-往前	wou
+完美	wou
 我的	wu
 朝向	wui
 無辜	wuo
@@ -593,7 +594,7 @@ use_preset_vocabulary: false
 遊戲	yiv
 因為	yo
 應該	yoa
-要是	yoi
+也是	yoi
 一定	yoo
 以前	you
 一次	yov

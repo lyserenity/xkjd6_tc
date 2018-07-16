@@ -11581,6 +11581,8 @@
 瓶	pgouva
 馮	pgov
 馮	pgoviv
+呯	pgovo
+呯	pgovou
 乒	pgu
 乒	pguiuu
 鮃	pgua
@@ -15179,6 +15181,8 @@
 鞉	tzviuo
 燾	tzvo
 燾	tzvooo
+檮	tzvoa
+檮	tzvoav
 桃	tzvu
 桃	tzvuov
 吹	wb
@@ -17840,6 +17844,8 @@
 音	ybovoi
 吲	yboa
 吲	yboava
+冘	yboau
+冘	yboaua
 禋	yboav
 禋	yboavi
 諲	yboavi
@@ -17940,6 +17946,8 @@
 誘	ydoauv
 呦	ydoaa
 呦	ydoaao
+冘	ydoau
+冘	ydoaua
 祐	ydoav
 祐	ydoavu
 宥	ydoo
@@ -18384,6 +18392,8 @@
 越	yhvova
 軏	yhva
 軏	yhvavu
+戉	yhvaa
+戉	yhvaau
 櫟	yhvu
 櫟	yhvuia
 樾	yhvv
@@ -19873,6 +19883,8 @@
 鬢邊	bbbm
 報不報名	bbbmv
 幫不幫忙	bbbmvv
+白板筆	bbbu
+白板擦	bbc
 賓詞	bbck
 斌從	bbcy
 賓從	bbcyo
@@ -19892,6 +19904,7 @@
 並不是說	bbee
 頒佈實施	bbeeu
 並不是一個	bbeg
+擺擺手	bbei
 勃勃生機	bbej
 幫不上忙	bbem
 鬢霜	bbemi
@@ -20604,6 +20617,7 @@
 閉上了眼	bely
 不是嗎	bem
 不勝枚舉	bemj
+報上名來	beml
 不是沒有	bemy
 八十年代	bend
 不是那個	beng
@@ -20637,7 +20651,6 @@
 必輸無疑	bewy
 不熟悉	bex
 不順心	bexv
-不是啊	bexvo
 博士學位	bexw
 不適應	bey
 不說也罷	beyb
@@ -20817,8 +20830,7 @@
 扳回	bfhbii
 辦後	bfhd
 不知好歹	bfhdv
-蚍蜉撼樹	bfhe
-不知何時	bfhev
+不知何時	bfhe
 半酣	bfhf
 北方話	bfhi
 板胡	bfhj
@@ -21336,7 +21348,6 @@
 丙類	bglw
 並論	bglwo
 冰涼	bglx
-不給力啊	bglxv
 併攏	bgly
 幫個忙	bgm
 病民	bgmb
@@ -21516,6 +21527,7 @@
 不會吧	bhb
 拜別	bhbd
 百般	bhbf
+白板	bhbfu
 百病	bhbg
 拜拜	bhbh
 擺擺	bhbhi
@@ -23191,6 +23203,7 @@
 白蘿蔔	blb
 不理不睬	blbc
 薄冰	blbg
+抱了抱	blbi
 波瀾不驚	blbj
 波比	blbk
 嗶哩嗶哩	blbl
@@ -23201,7 +23214,6 @@
 不倫不類	blblv
 不離不棄	blbq
 不冷不熱	blbr
-播吧	blbs
 玻璃杯	blbv
 表裡不一	blby
 播報	blbz
@@ -23494,7 +23506,8 @@
 撥音	blybi
 播友	blyd
 不留餘地	blydv
-白龍魚服	blyf
+博彥	blyf
+白龍魚服	blyfu
 播映	blyg
 伯嶽	blyh
 本來已經	blyj
@@ -23907,7 +23920,6 @@
 本本	bnbnv
 不男不女	bnbnvi
 本吧	bnbs
-笨吧	bnbsu
 奔北	bnbw
 百年不遇	bnby
 本報	bnbz
@@ -24637,7 +24649,8 @@
 罷課	bske
 巴克	bskea
 八塊	bskg
-八開	bskh
+扒開	bskh
+八開	bskhu
 巴庫	bskj
 把控	bsky
 變色龍	bsl
@@ -24661,6 +24674,7 @@
 巴老	bslz
 八閩	bsmb
 八秒	bsmc
+百死莫贖	bsme
 把脈	bsmh
 巴姆	bsmj
 八米	bsmk
@@ -24870,7 +24884,6 @@
 不吵不鬧	bwbn
 被綁	bwbp
 把持不住	bwbq
-背吧	bwbs
 不聞不問	bwbw
 揹包	bwbz
 被爆	bwbzo
@@ -25246,14 +25259,14 @@
 備需	bwxl
 北線	bwxm
 被修	bwxq
-背啊	bwxs
-背下	bwxsi
+背下	bwxs
 被嚇	bwxso
 備選	bwxt
 被選	bwxto
 不恥下問	bwxw
 背向	bwxx
 別無選擇	bwxz
+補充液	bwy
 背陰	bwyb
 備有	bwyd
 北野	bwye
@@ -25597,7 +25610,6 @@
 鮑勃	bzblu
 褒貶	bzbm
 保本	bzbn
-抱吧	bzbs
 寶貝	bzbw
 報備	bzbwv
 不早不晚	bzbwvo
@@ -26152,6 +26164,7 @@
 猜不透摸不著	cbtf
 催他	cbts
 催討	cbtz
+慈悲為懷	cbwh
 蒼白無力	cbwl
 催問	cbwn
 翠微	cbww
@@ -26897,8 +26910,7 @@
 踩線	chxm
 彩霞	chxs
 踩下	chxso
-猜啊	chxsu
-猜下	chxsuv
+猜下	chxsu
 才下	chxsv
 財訊	chxw
 猜想	chxx
@@ -27057,6 +27069,7 @@
 從今天起	cjtq
 蹴踏	cjts
 粗通	cjty
+存儲為	cjw
 粗查	cjws
 粗茶	cjwso
 刺激性	cjx
@@ -27311,6 +27324,7 @@
 詞條	cktc
 此條	cktci
 磁鐵	cktd
+磁頭	cktdv
 刺探	cktf
 瓷胎	ckth
 瓷土	cktj
@@ -27549,8 +27563,7 @@
 搓洗	clxk
 錯線	clxm
 錯修	clxq
-錯啊	clxs
-錯下	clxsi
+錯下	clxs
 錯尋	clxw
 從來也	cly
 測量儀	clya
@@ -27833,7 +27846,6 @@
 蹭髒	crzp
 曾遭	crzz
 擦邊	csbm
-擦吧	csbs
 擦背	csbw
 蒼松翠柏	cscb
 擦擦	cscs
@@ -28521,6 +28533,7 @@
 大部分	dbf
 蛋包飯	dbfa
 蛋白質	dbfau
+蛋白粉	dbfauo
 都不知道	dbfd
 大部分的	dbfdv
 對著	dbfe
@@ -29509,7 +29522,6 @@
 滴水不漏	debl
 的本	debn
 德邦	debp
-的吧	debs
 大事不糊塗	debt
 都市報	debu
 大傻逼	debv
@@ -29555,6 +29567,7 @@
 得著	defe
 但是這個	defg
 大煞風景	defj
+德芙	defju
 得知	defk
 得志	defku
 得分	defn
@@ -29784,6 +29797,7 @@
 擔保	dfbz
 大發慈悲	dfcb
 單側	dfce
+東方財富	dfcf
 淡菜	dfch
 單詞	dfck
 單次	dfcko
@@ -30024,7 +30038,6 @@
 大腹便便	dfpp
 單配	dfpw
 大發展	dfq
-發電站	dfqa
 單親	dfqb
 膽怯	dfqd
 但這	dfqe
@@ -30508,7 +30521,6 @@
 代編	dhbm
 呆笨	dhbn
 定活寶	dhbo
-帶吧	dhbs
 代北	dhbw
 待測	dhce
 帶材	dhch
@@ -31168,7 +31180,6 @@
 鍍錫	djxk
 獨秀	djxq
 賭俠	djxs
-賭啊	djxsa
 獨角戲	djxu
 度汛	djxw
 獨享	djxx
@@ -31258,7 +31269,6 @@
 低低	dkdki
 低地	dkdkiv
 嘀嘀	dkdko
-犁地	dkdku
 地底	dkdkv
 地點	dkdm
 低點	dkdmi
@@ -31271,6 +31281,7 @@
 嘀嗒	dkdso
 地段	dkdt
 低端	dkdti
+底端	dkdto
 地洞	dkdy
 地動	dkdyv
 地道	dkdz
@@ -32318,7 +32329,6 @@
 癲癇	dmxmo
 道貌岸然	dmxr
 殿下	dmxs
-點啊	dmxsi
 點選	dmxt
 動脈血	dmxu
 大冒險	dmxv
@@ -32600,7 +32610,6 @@
 當早	dpzz
 丟筆	dqbk
 刀槍不入	dqbr
-丟吧	dqbs
 丟包	dqbz
 大氣層	dqc
 丟詞	dqck
@@ -32703,7 +32712,6 @@
 單曲循環	dqxh
 膽戰心驚	dqxj
 丟下	dqxs
-丟啊	dqxsu
 獨佔鰲頭	dqxt
 東征西討	dqxtv
 地區性	dqxv
@@ -33276,6 +33284,7 @@
 打快	dskgi
 打開	dskh
 大開	dskhv
+大楷	dskhvv
 大哭	dskj
 大闊	dskl
 大礦	dskm
@@ -33297,6 +33306,7 @@
 大樓	dsld
 打獵	dsldi
 打了	dsle
+大了	dslev
 打爛	dslf
 大齡	dslg
 打來	dslh
@@ -33326,6 +33336,7 @@
 打臉	dslmi
 大臉	dslmv
 大浪	dslp
+大流	dslq
 大冷	dslr
 耷拉	dsls
 丟三落四	dslsu
@@ -33581,8 +33592,7 @@
 大袖	dsxqv
 打下	dsxs
 低三下四	dsxsi
-大啊	dsxsv
-大俠	dsxsvi
+大俠	dsxsv
 大選	dsxt
 大象	dsxx
 打響	dsxxi
@@ -34098,7 +34108,6 @@
 單行道	dxdo
 第二代	dxdu
 第二點	dxduv
-對啊對啊	dxdx
 大學生	dxe
 大顯身手	dxee
 等閒視之	dxef
@@ -34219,7 +34228,6 @@
 東波	dybl
 大尾巴狼	dyblv
 東邊	dybm
-懂吧	dybs
 第一版	dybu
 第一遍	dybuv
 東北	dybw
@@ -34710,12 +34718,12 @@
 倒糞	dzfn
 到訪	dzfp
 刀鋒	dzfr
-道閘	dzfs
-刀法	dzfsa
+刀法	dzfs
+刀閘	dzfsa
 盜伐	dzfsai
-刀閘	dzfsao
 倒閘	dzfsi
 道法	dzfso
+道閘	dzfsoo
 道砟	dzfsov
 倒轉	dzft
 盜匪	dzfw
@@ -35000,8 +35008,7 @@
 水波	ebbl
 水邊	ebbm
 水泵	ebbr
-睡吧	ebbs
-水壩	ebbsa
+水壩	ebbs
 誰把	ebbso
 水杯	ebbw
 誰被	ebbwo
@@ -35077,7 +35084,6 @@
 水聲	eber
 爽不爽	ebev
 實報實銷	ebex
-是不是啊	ebexo
 是不是有	ebey
 水少	ebez
 睡少	ebezi
@@ -35263,6 +35269,7 @@
 水泥	ebnk
 受不鳥了	ebnl
 水碾	ebnm
+水嫩	ebnn
 水囊	ebnp
 水牛	ebnq
 誰能	ebnr
@@ -35312,6 +35319,7 @@
 輸不起	ebqv
 示波器	ebqva
 水準	ebqw
+水群	ebqwa
 水槍	ebqx
 深表歉意	ebqy
 睡著	ebqz
@@ -35462,7 +35470,6 @@
 首播	edbl
 手邊	edbm
 收本	edbn
-收吧	edbs
 手背	edbw
 守備	edbwo
 上帝保佑	edby
@@ -36188,9 +36195,8 @@
 蛇麻	eems
 是什麼意思	eemso
 蛇莓	eemw
-是什麼啊	eemx
-是什麼東西	eemxo
-是什麼關係	eemxoi
+是什麼東西	eemx
+是什麼關係	eemxo
 是什麼樣	eemy
 是什麼原因	eemyo
 蛇矛	eemz
@@ -36351,8 +36357,7 @@
 神志不清	efbq
 收費標準	efbqa
 山崩	efbr
-刪吧	efbs
-傷風敗俗	efbsi
+傷風敗俗	efbs
 陝北	efbw
 扇貝	efbwu
 勝之不武	efbwuo
@@ -36408,6 +36413,7 @@
 訕訕	efefo
 說著說著	efefoi
 珊珊	efefv
+是福是禍	efeh
 雙豐收	efei
 杉樹	efej
 膳食	efek
@@ -36607,8 +36613,8 @@
 手指頭	eft
 閃退	eftb
 閃跳	eftc
-汕頭	eftd
-山頭	eftdi
+山頭	eftd
+汕頭	eftda
 刪帖	eftdu
 善談	eftf
 刪汰	efth
@@ -36653,7 +36659,6 @@
 神州行	efxoo
 閃秀	efxq
 山下	efxs
-山啊	efxsi
 閃瞎	efxso
 生殖系統	efxt
 順風耳	efxu
@@ -36739,6 +36744,7 @@
 事關重大	egfd
 帥府	egfj
 率直	egfk
+甩飛	egfw
 率眾	egfy
 生根發芽	egfyu
 帥哥	egge
@@ -36814,6 +36820,7 @@
 衰朽	egxq
 上個星期	egxqi
 摔下	egxs
+甩下	egxsu
 石膏像	egxv
 手工業	egy
 帥印	egyb
@@ -37123,9 +37130,9 @@
 數說	ejelio
 舒爽	ejem
 淑身	ejen
-審計署	ejeo
+設計師	ejeo
 實際是	ejeoa
-設計師	ejeoo
+審計署	ejeoo
 時間上	ejeooi
 市場上	ejeov
 書上	ejep
@@ -38320,8 +38327,7 @@
 試下	ekxso
 時下	ekxsov
 十下	ekxsu
-事啊	ekxsv
-示下	ekxsvv
+示下	ekxsv
 詩選	ekxt
 實訓	ekxw
 視訊	ekxwo
@@ -38366,6 +38372,7 @@
 適應	ekyg
 石英	ekygv
 十月	ekyh
+誓約	ekyhi
 詩曰	ekyho
 失約	ekyhu
 失憶	ekyk
@@ -38431,8 +38438,7 @@
 說白	elbh
 說部	elbj
 始料不及	elbja
-說吧	elbs
-說罷	elbso
+說罷	elbs
 生老病死	elbsu
 上樑不正下樑歪	elbw
 蒴苞	elbz
@@ -38858,7 +38864,6 @@
 雙安	emxf
 雙形	emxg
 雙星	emxgi
-什麼啊	emxi
 數碼相機	emxj
 雙耳	emxji
 雙喜	emxk
@@ -39085,6 +39090,7 @@
 神蹟	enjkoo
 身居	enjl
 深居	enjla
+身具	enjlu
 身兼	enjm
 神劍	enjmo
 深沉	enjn
@@ -39272,7 +39278,6 @@
 善男信女	enxno
 神秀	enxq
 身下	enxs
-神啊	enxso
 慎選	enxt
 少年兒童	enxti
 審訊	enxw
@@ -40496,8 +40501,7 @@
 沙縣	esxm
 紗線	esxma
 啥餡	esxmo
-殺啊	esxs
-生死相隨	esxsu
+生死相隨	esxs
 沙宣	esxt
 殺殉	esxw
 沙箱	esxx
@@ -40760,6 +40764,7 @@
 順子	ewzk
 吮咂	ewzs
 上下班	exb
+水性筆	exba
 雙鬢	exbb
 十惡不赦	exbe
 順序播放	exbf
@@ -40813,7 +40818,6 @@
 爽身	exen
 實習生	exeo
 雙雙	exex
-是啊是啊	exexo
 十二生肖	exexu
 爽爽	exexv
 實心實意	exey
@@ -41202,7 +41206,6 @@
 稍不	ezbj
 少編	ezbm
 哨棒	ezbp
-少吧	ezbs
 燒杯	ezbw
 勢在必行	ezbx
 少報	ezbz
@@ -41845,6 +41848,7 @@
 反對派	fdpu
 放大器	fdq
 終點站	fdqa
+發電站	fdqav
 晝寢	fdqb
 舟橋	fdqc
 值得期待	fdqd
@@ -41893,6 +41897,7 @@
 肘窩	fdwl
 值得我們	fdwm
 皺紋	fdwn
+咒文	fdwno
 紂王	fdwp
 軸瓦	fdws
 舟船	fdwt
@@ -43268,7 +43273,6 @@
 富邦	fjbp
 招架不住	fjbq
 非常抱歉	fjbqi
-富吧	fjbs
 父輩	fjbw
 非常必要	fjby
 附報	fjbz
@@ -43503,6 +43507,7 @@
 裝甲車	fjjai
 附近	fjjb
 非常簡單	fjjd
+非奸即盜	fjjdi
 輔車	fjje
 飛鍵技術	fjjea
 直接經濟損失	fjjeu
@@ -43551,6 +43556,7 @@
 副將	fjjx
 覆巢	fjjz
 婦產科	fjk
+浮虧	fjkb
 滏口	fjkd
 婦科	fjke
 費盡口舌	fjkea
@@ -43868,6 +43874,7 @@
 複眼	fjyfoi
 赴宴	fjyfv
 婦嬰	fjyg
+浮贏	fjyga
 赴約	fjyh
 指甲油	fjyi
 中成藥	fjyiv
@@ -44145,6 +44152,7 @@
 之法	fkfso
 直髮	fkfsu
 製法	fkfsua
+植髮	fkfsv
 直飛	fkfw
 之中	fkfy
 之重	fkfyo
@@ -45284,6 +45292,7 @@
 父母心	fmxu
 裝箱	fmxx
 裝熊	fmxy
+芝麻信用	fmxyi
 駙馬爺	fmy
 織毛衣	fmya
 這麼一次	fmyc
@@ -46561,7 +46570,6 @@
 發變	fsbm
 發榜	fsbp
 眨巴	fsbs
-發吧	fsbsa
 閘北	fsbw
 至死不悟	fsbwv
 至死不渝	fsby
@@ -47008,6 +47016,7 @@
 發作	fszl
 扎佐	fszli
 發躁	fszz
+招投標	ftb
 專版	ftbf
 轉病	ftbg
 轉臂	ftbk
@@ -47243,6 +47252,7 @@
 撰寫	ftxd
 專案	ftxf
 轉型	ftxg
+轉醒	ftxgv
 轉學	ftxh
 專愛	ftxhv
 轉而	ftxj
@@ -47668,7 +47678,8 @@
 裝裱	fxbc
 裝扮	fxbf
 裝病	fxbg
-中宣部	fxbi
+中性筆	fxbi
+中宣部	fxbio
 裝逼	fxbk
 卓爾不群	fxbq
 忠孝不能兩全	fxbqi
@@ -48176,6 +48187,7 @@
 只有這樣	fyfyo
 翻雲覆雨	fyfyu
 風言風語	fyfyuo
+重重	fyfyuu
 中招	fyfz
 這一個	fyg
 發言稿	fyga
@@ -48197,6 +48209,7 @@
 中耕	fygr
 製藥公司	fygs
 中觀	fygt
+斧鉞鉤叉	fygw
 重要貢獻	fygx
 中共	fygy
 重工	fygyu
@@ -48300,6 +48313,7 @@
 中科	fyke
 中看	fykf
 腫塊	fykg
+中楷	fykh
 這樣看來	fykl
 重礦	fykm
 中肯	fykn
@@ -48673,7 +48687,6 @@
 照壁	fzbk
 兆波	fzbl
 找遍	fzbm
-找吧	fzbs
 隻字不提	fzbt
 罩杯	fzbw
 煩躁不安	fzbx
@@ -48832,6 +48845,7 @@
 照料	fzlc
 找了	fzle
 招了	fzlei
+著了	fzleia
 招攬	fzlf
 找零	fzlg
 召陵	fzlga
@@ -48964,7 +48978,6 @@
 罩袖	fzxq
 犯罪嫌疑人	fzxr
 朝霞	fzxs
-找啊	fzxsi
 找尋	fzxw
 照相	fzxx
 照像	fzxxo
@@ -49064,8 +49077,8 @@
 櫃上	gbep
 更別說	gbev
 更不是	gbevv
-趕不上	gbevvi
 根本上	gbevvi
+趕不上	gbevvi
 歸順	gbew
 貴霜	gbex
 各部分	gbf
@@ -49289,7 +49302,6 @@
 閨秀	gbxq
 各不相讓	gbxr
 跪下	gbxs
-貴啊	gbxsi
 各不相同	gbxt
 根本性	gbxv
 歸降	gbxx
@@ -50323,9 +50335,8 @@
 感恩	gfxn
 廣泛性	gfxo
 甘休	gfxq
-敢啊	gfxs
-敢下	gfxsv
-趕下	gfxsvv
+敢下	gfxs
+趕下	gfxsv
 規範性	gfxv
 感想	gfxx
 敢想	gfxxv
@@ -50958,6 +50969,7 @@
 咕咕	gjgjo
 呱呱	gjgjoo
 股骨	gjgju
+股股	gjgjuu
 鼓鼓	gjgjv
 共產國際	gjgjvo
 故國	gjgl
@@ -51958,8 +51970,7 @@
 光鮮	gmxmiu
 鬼迷心竅	gmxq
 廣袖	gmxqo
-光啊	gmxs
-廣夏	gmxso
+廣夏	gmxs
 廣宣	gmxt
 革命性	gmxv
 光訓	gmxw
@@ -52097,7 +52108,6 @@
 根兒	gnxj
 根系	gnxk
 根鬚	gnxl
-跟啊	gnxs
 故弄玄虛	gnxx
 敢怒而不敢言	gnxy
 工農業	gny
@@ -52855,7 +52865,6 @@
 官兵	gtbg
 官拜	gtbh
 關閉	gtbk
-關吧	gtbs
 顧頭不顧尾	gtbw
 管保	gtbz
 觀測	gtce
@@ -52966,7 +52975,7 @@
 官宦	gtht
 光天化日之下	gthx
 管好	gthz
-鋼鐵廠	gtj
+固體膠	gtj
 關緊	gtjb
 關進	gtjbo
 共同進步	gtjbv
@@ -52978,6 +52987,7 @@
 關井	gtjg
 官差	gtjh
 官爵	gtjho
+鋼鐵廠	gtji
 個體經濟	gtjj
 關機	gtjk
 管局	gtjl
@@ -53081,6 +53091,7 @@
 關照	gtqz
 關入	gtrj
 灌入	gtrja
+貫入	gtrjau
 官人	gtrn
 古銅色	gts
 觀色	gtse
@@ -53090,8 +53101,8 @@
 管送	gtsy
 管他三七二十一	gtsyu
 共同體	gtt
-罐頭	gttd
-關頭	gttdo
+關頭	gttd
+罐頭	gttdu
 關停	gttg
 光禿禿	gtti
 罐體	gttk
@@ -53134,7 +53145,6 @@
 管絃	gtxmu
 管修	gtxq
 管轄	gtxs
-關啊	gtxso
 共同性	gtxv
 官訓	gtxw
 關廂	gtxx
@@ -53305,6 +53315,7 @@
 各位同學	gwtx
 滾筒	gwty
 剛吃完	gww
+購物車	gwwa
 棍舞	gwwj
 給吃	gwwk
 給我	gwwl
@@ -53604,8 +53615,7 @@
 光纖	gxxmi
 光鮮	gxxmiu
 廣袖	gxxq
-光啊	gxxs
-廣夏	gxxso
+廣夏	gxxs
 廣宣	gxxt
 光訓	gxxw
 光想	gxxx
@@ -54155,7 +54165,8 @@
 高低	gzdk
 高地	gzdko
 糕點	gzdm
-搞掂	gzdmi
+搞點	gzdmi
+搞掂	gzdmii
 高檔	gzdp
 搞丟	gzdq
 高等	gzdr
@@ -55329,7 +55340,8 @@
 後庭	hdtg
 很大提高	hdtgu
 後臺	hdth
-後凸	hdtj
+厚土	hdtj
+後凸	hdtju
 後天	hdtm
 後臀	hdtw
 後同	hdty
@@ -55368,7 +55380,6 @@
 厚恩	hdxn
 獲得性免疫缺陷綜合徵	hdxq
 後下	hdxs
-厚啊	hdxsv
 候選	hdxt
 後相	hdxx
 後向	hdxxu
@@ -55804,7 +55815,6 @@
 河下	hexsa
 合下	hexsi
 喝下	hexso
-喝啊	hexsoo
 和訊	hexw
 鶴鄉	hexx
 歡聲笑語	hexy
@@ -56621,8 +56631,8 @@
 海岸	hhxf
 還行	hhxg
 海星	hhxga
-海爾	hhxj
-孩兒	hhxja
+孩兒	hhxj
+海爾	hhxja
 還細	hhxk
 環環相扣	hhxkv
 還需	hhxl
@@ -57447,7 +57457,6 @@
 黃檗	hmbl
 毫米波	hmbo
 皇榜	hmbp
-黃吧	hmbs
 壞毛病	hmbv
 昏迷不醒	hmbx
 謊報	hmbz
@@ -57681,7 +57690,6 @@
 黃旭	hmxl
 黃線	hmxm
 皇恩	hmxn
-黃啊	hmxs
 黃癬	hmxt
 毀滅性	hmxu
 很明顯	hmxuo
@@ -57724,7 +57732,6 @@
 很笨	hnbn
 還能不能	hnbni
 很棒	hnbp
-狠吧	hnbs
 很背	hnbw
 海納百川	hnbwa
 很薄	hnbz
@@ -58745,7 +58752,6 @@
 還本	htbn
 歡蹦	htbr
 皇天不負有心人	htbru
-換吧	htbs
 換湯不換藥	htby
 環保	htbz
 環抱	htbzv
@@ -59041,7 +59047,6 @@
 毫無保留	hwbl
 黑邊	hwbm
 黑幫	hwbp
-黑吧	hwbs
 黑背	hwbw
 渾北	hwbwa
 黑豹	hwbz
@@ -59397,7 +59402,6 @@
 皇榜	hxbp
 怙惡不悛	hxbq
 互相幫助	hxbqv
-黃吧	hxbs
 和而不同	hxbt
 哈爾濱工業大學	hxbx
 謊報	hxbz
@@ -59503,7 +59507,6 @@
 黃昏	hxhw
 晃晃	hxhx
 好想好想	hxhxa
-好啊好啊	hxhxao
 惶惶	hxhxo
 黃宏	hxhy
 好心好意	hxhya
@@ -59690,7 +59693,6 @@
 黃旭	hxxl
 黃線	hxxm
 皇恩	hxxn
-黃啊	hxxs
 黃癬	hxxt
 呼吸系統	hxxto
 壞消息	hxxv
@@ -60033,7 +60035,6 @@
 好言相勸	hyxqa
 很有興趣	hyxqu
 紅霞	hyxs
-哄啊	hyxso
 鴻勳	hyxw
 還有希望	hyxwi
 和衣而臥	hyxwu
@@ -60269,7 +60270,8 @@
 好來	hzlh
 好路	hzlj
 毫釐	hzlk
-好綠	hzll
+好咯	hzll
+好綠	hzlla
 好臉	hzlm
 好冷	hzlr
 好啦	hzls
@@ -60415,8 +60417,7 @@
 好險	hzxm
 號線	hzxmo
 好修	hzxq
-好啊	hzxs
-豪俠	hzxso
+豪俠	hzxs
 好懸	hzxt
 好尋	hzxw
 好像	hzxx
@@ -61128,8 +61129,8 @@
 叫誰	jceboo
 教授	jced
 叫獸	jcedo
-交手	jcedoi
 交售	jcedoi
+交手	jcedoi
 腳手	jcedu
 交涉	jcee
 教書	jcej
@@ -61458,6 +61459,7 @@
 絞痛	jctya
 腳套	jctz
 腳臭	jcwd
+焦臭	jcwdi
 轎車	jcwe
 叫車	jcweo
 較晚	jcwf
@@ -61466,6 +61468,7 @@
 教務	jcwj
 角尺	jcwk
 叫我	jcwl
+教我	jcwlu
 較穩	jcwn
 交往	jcwp
 交叉	jcws
@@ -61758,6 +61761,7 @@
 介懷	jdhg
 接電話	jdhi
 介乎	jdhj
+截胡	jdhju
 截獲	jdhl
 解惑	jdhlu
 解恨	jdhn
@@ -62507,7 +62511,6 @@
 及時行樂	jexl
 車險	jexm
 濟世安民	jexma
-就是啊	jexo
 春生夏長	jexq
 撤下	jexs
 車廂	jexx
@@ -62566,7 +62569,6 @@
 計分表	jfbo
 精裝本	jfboa
 纏綁	jfbp
-饞吧	jfbs
 頸椎病	jfbv
 成反比	jfbvu
 常抓不懈	jfbx
@@ -62842,7 +62844,6 @@
 精編	jgbm
 結果表明	jgbma
 精本	jgbn
-靜吧	jgbs
 極個別	jgbv
 警備	jgbw
 竟被	jgbwo
@@ -63389,7 +63390,7 @@
 決不	jhbja
 絕壁	jhbk
 絕逼	jhbka
-絕吧	jhbs
+記號筆	jhbo
 膠合板	jhbu
 儕輩	jhbw
 決策	jhce
@@ -63948,6 +63949,7 @@
 出局	jjjl
 出具	jjjla
 經濟交流	jjjlaa
+幾斤幾兩	jjjlau
 初具	jjjlo
 廚具	jjjloi
 出簡	jjjm
@@ -64721,7 +64723,8 @@
 極樂	jklevu
 姬蘭	jklf
 機靈	jklg
-即令	jklga
+激靈	jklga
+即令	jklgai
 紀略	jklh
 寄來	jklho
 進口量	jkli
@@ -65311,6 +65314,7 @@
 居里	jllkai
 據理	jllki
 舉例	jllkv
+巨力	jllkva
 聚落	jlll
 聚斂	jllm
 巨浪	jllp
@@ -65789,7 +65793,8 @@
 居民樓	jml
 建林	jmlb
 簡陋	jmld
-瞼裂	jmldi
+撿漏	jmldi
+瞼裂	jmldiv
 檢漏	jmldv
 見了	jmle
 捲簾	jmlf
@@ -65891,6 +65896,7 @@
 堅貞	jmqn
 減震	jmqna
 艦長	jmqp
+見長	jmqpi
 肩章	jmqpu
 簡章	jmqpuo
 撿球	jmqq
@@ -66946,6 +66952,7 @@
 酒令	jqlg
 九零	jqlgu
 就來	jqlh
+撿起來	jqli
 九路	jqlj
 就裡	jqlk
 就連	jqlm
@@ -67143,7 +67150,6 @@
 建築業	jqya
 出主意	jqyao
 就因	jqyb
-就這樣吧	jqybo
 九陰	jqybu
 就有	jqyd
 舊有	jqydi
@@ -67530,7 +67536,6 @@
 呈現	jrxm
 成仙	jrxmv
 城下	jrxs
-成啊	jrxsv
 承玄	jrxt
 城鄉	jrxx
 丞相	jrxxa
@@ -68540,6 +68545,7 @@
 菌托	jwtl
 出問題了	jwtla
 春天	jwtm
+驚為天人	jwtr
 軍團	jwtt
 成問題	jwtv
 檢查團	jwtvv
@@ -68966,8 +68972,8 @@
 吉凶未卜	jxwb
 獎酬	jxwd
 將車	jxwe
-江灣	jxwf
-講完	jxwfo
+講完	jxwf
+江灣	jxwfa
 除惡務盡	jxwj
 僵持	jxwk
 將我	jxwl
@@ -69282,7 +69288,6 @@
 超編	jzbm
 抄本	jzbn
 超棒	jzbp
-吵吧	jzbs
 朝北	jzbw
 焦躁不安	jzbx
 抄報	jzbz
@@ -70364,7 +70369,6 @@
 咖啡杯	kfbo
 控制不住	kfbq
 口福不淺	kfbqo
-看吧	kfbs
 狂風暴雨	kfby
 枯枝敗葉	kfbyv
 看報	kfbz
@@ -70587,7 +70591,6 @@
 快步	kgbj
 塊布	kgbjv
 快播	kgbl
-塊吧	kgbs
 快被	kgbw
 快報	kgbz
 快餐	kgcf
@@ -71040,7 +71043,6 @@
 酷斃	kjbk
 苦逼	kjbki
 開場白	kjbo
-酷吧	kjbs
 科技部	kjbu
 庫北	kjbw
 口出不遜	kjbx
@@ -71281,7 +71283,6 @@
 庫恩	kjxn
 苦修	kjxq
 酷夏	kjxs
-苦啊	kjxsi
 酷炫	kjxt
 酷訊	kjxw
 苦想	kjxx
@@ -71593,7 +71594,6 @@
 框子	kmzk
 狂砸	kmzs
 狂躁	kmzz
-可能吧	knb
 肯板	knbf
 懇辭	knck
 肯尼迪	knd
@@ -71907,6 +71907,7 @@
 坑凹	krxz
 咔吧	ksbs
 卡巴	ksbsi
+卡包	ksbz
 卡茨	ksck
 喀嚓	kscs
 卡槽	kscz
@@ -71949,6 +71950,7 @@
 卡諾	ksnl
 卡農	ksny
 卡盤	kspf
+卡牌	ksph
 卡片	kspm
 卡住	ksqj
 卡其	ksqk
@@ -72096,7 +72098,6 @@
 可望不可即	kwbj
 坤筆	kwbk
 捆綁	kwbp
-困吧	kwbs
 困憊	kwbw
 考察隊	kwd
 昆迪	kwdk
@@ -72251,6 +72252,7 @@
 狂歌	kxge
 曠古	kxgj
 科學管理	kxgl
+開心果	kxgo
 礦工	kxgy
 苦心孤詣	kxgyi
 曠工	kxgyo
@@ -73080,7 +73082,6 @@
 撩撥	lcbl
 聊遍	lcbm
 樂此不疲	lcbp
-聊吧	lcbs
 遼北	lcbw
 撂包	lcbz
 立此存照	lccf
@@ -73186,7 +73187,6 @@
 聊哦	lcxl
 聊敘	lcxlv
 撂下	lcxs
-聊啊	lcxsv
 料想	lcxx
 糧草先行	lcxxo
 聊友	lcyd
@@ -73575,7 +73575,6 @@
 歷史背景	lebjvi
 勒逼	lebk
 斂聲屏氣	lebq
-了吧	lebs
 勒碑	lebw
 辣手摧花	lech
 零售店	led
@@ -73714,7 +73713,6 @@
 樂安	lexf
 樂兒	lexj
 歷史學家	lexjv
-了啊	lexs
 留守兒童	lext
 臨時性	lexv
 零售額	lexvi
@@ -73749,7 +73747,6 @@
 來者不拒	lfbjv
 藍波	lfbl
 藍本	lfbn
-懶吧	lfbs
 來之不易	lfby
 濫採	lfch
 欄次	lfck
@@ -73934,7 +73931,6 @@
 攔蓄	lfxl
 藍線	lfxm
 攔下	lfxs
-爛啊	lfxso
 籃下	lfxsu
 蘭香	lfxx
 老中醫	lfy
@@ -74764,6 +74760,7 @@
 盧梭	ljsl
 蘆筍	ljsw
 邏輯思維	ljswi
+羅輯思維	ljswiv
 領獎臺	ljt
 流程圖	ljta
 路條	ljtc
@@ -74880,6 +74877,7 @@
 離地	lkdk
 裡地	lkdko
 立地	lkdkov
+犁地	lkdku
 利多	lkdl
 鋰電	lkdm
 理當	lkdp
@@ -75476,6 +75474,7 @@
 履歷	lllka
 屢屢	llll
 縷縷	lllla
+綠蘿	llllai
 驢臉	lllm
 愣了愣	lllo
 綠廊	lllp
@@ -76175,6 +76174,7 @@
 六道	lqdzo
 流水	lqeb
 留守	lqed
+留手	lqedu
 流山	lqef
 柳樹	lqej
 流失	lqek
@@ -76459,6 +76459,7 @@
 流言	lqyfa
 留影	lqyg
 六月	lqyh
+羅振宇	lqyi
 留意	lqyk
 六一	lqyko
 流域	lqyl
@@ -76824,7 +76825,6 @@
 亂編	ltbm
 亂邦	ltbp
 亂蹦	ltbr
-亂吧	ltbs
 藍天白雲	ltby
 亂測	ltce
 亂採	ltch
@@ -77110,7 +77110,6 @@
 輪播	lwbl
 論辯	lwbm
 淚奔	lwbn
-累吧	lwbs
 羸憊	lwbw
 離愁別緒	lwbx
 雷暴	lwbz
@@ -77345,8 +77344,7 @@
 倫恩	lwxni
 輪休	lwxq
 離我而去	lwxqo
-累啊	lwxs
-肋下	lwxsu
+肋下	lwxs
 輪訓	lwxw
 輪詢	lwxwv
 擂響	lwxx
@@ -77357,6 +77355,7 @@
 另外一種	lwyfou
 淚影	lwyg
 另外一個	lwygo
+了無遺憾	lwyh
 輪椅	lwyk
 雷伊	lwykv
 雷雨	lwyl
@@ -77482,6 +77481,7 @@
 兩隻	lxfk
 良知	lxfko
 兩支	lxfkv
+兩指	lxfkvi
 兩幢	lxfm
 兩分	lxfn
 涼粉	lxfna
@@ -78039,7 +78039,6 @@
 旅遊鞋	lyxoo
 另一些人	lyxr
 龍蝦	lyxs
-聾啊	lyxso
 劉禹錫	lyxu
 龍翔	lyxx
 利慾薰心	lyxxu
@@ -78296,6 +78295,7 @@
 老婆	lzpl
 老片	lzpm
 老彭	lzpr
+老怕	lzps
 老親	lzqb
 醪橋	lzqc
 老者	lzqe
@@ -78368,8 +78368,7 @@
 老徐	lzxl
 老先	lzxm
 老朽	lzxq
-老啊	lzxs
-烙下	lzxso
+烙下	lzxs
 老鄉	lzxx
 老兄	lzxy
 老鰲	lzxz
@@ -78621,6 +78620,7 @@
 繆拉	mcls
 妙論	mclw
 喵喵	mcmc
+淼淼	mcmca
 苗木	mcmj
 描摹	mcml
 廟門	mcmn
@@ -79447,7 +79447,6 @@
 迷惑不解	mhbjo
 脈搏	mhbl
 模糊不清	mhbq
-買吧	mhbs
 賣報	mhbz
 買菜	mhch
 買彩	mhchi
@@ -79695,7 +79694,6 @@
 木本	mjbn
 母本	mjbna
 木棒	mjbp
-木吧	mjbs
 墓碑	mjbw
 母豹	mjbz
 目測	mjce
@@ -79741,6 +79739,7 @@
 墓誌	mjfki
 木質	mjfkv
 木製	mjfkvu
+木桌	mjfl
 木樁	mjfm
 木粉	mjfn
 母方	mjfp
@@ -79824,6 +79823,7 @@
 木蓮	mjlm
 母狼	mjlp
 木瘤	mjlq
+名繮利索	mjls
 目論	mjlw
 木類	mjlwv
 木樑	mjlx
@@ -79968,8 +79968,8 @@
 馬可波羅	mkbli
 祕本	mkbn
 弭謗	mkbp
-蜜吧	mkbs
 密保	mkbz
+祕寶	mkbzo
 迷彩	mkch
 米醋	mkcj
 迷藏	mkcp
@@ -80051,6 +80051,8 @@
 沒看出來	mkjla
 蜜餞	mkjm
 迷姦	mkjmo
+米長	mkjp
+迷障	mkjpo
 米酒	mkjq
 米價	mkjs
 米克	mkke
@@ -80110,7 +80112,6 @@
 眯起	mkqki
 覓取	mkql
 迷陣	mkqn
-米長	mkqp
 覓求	mkqq
 密召	mkqz
 靡然	mkrf
@@ -80153,6 +80154,7 @@
 密位	mkww
 邁克爾	mkx
 迷信	mkxb
+祕辛	mkxbo
 密寫	mkxd
 梅開二度	mkxdv
 迷岸	mkxf
@@ -80562,7 +80564,6 @@
 綿薄	mmbl
 悶悶不樂	mmblo
 麻木不仁	mmbr
-面吧	mmbs
 棉被	mmbw
 麵包	mmbz
 磨磨蹭蹭	mmcc
@@ -80991,7 +80992,6 @@
 門卒	mnzj
 門子	mnzk
 忙不	mpbj
-忙吧	mpbs
 芒刺	mpck
 莽蒼	mpcp
 盲從	mpcy
@@ -81166,7 +81166,6 @@
 蒙博	mrbl
 盟邦	mrbp
 盲人把燭	mrbq
-猛吧	mrbs
 萌寶	mrbz
 萌爆	mrbzi
 孟村	mrcw
@@ -81347,7 +81346,6 @@
 孟恩	mrxn
 蒙羞	mrxq
 猛下	mrxs
-夢啊	mrxsi
 夢想	mrxx
 夢鄉	mrxxi
 盟兄	mrxy
@@ -81388,7 +81386,6 @@
 馬勃	msbl
 馬鞭	msbm
 馬幫	msbp
-罵吧	msbs
 馬背	msbw
 馬堡	msbz
 馬刺	msck
@@ -82046,7 +82043,6 @@
 沒限	mwxm
 沒羞	mwxq
 沒下	mwxs
-美啊	mwxso
 沒選	mwxt
 每旬	mwxw
 每項	mwxx
@@ -82112,6 +82108,7 @@
 每小時	mxe
 某些時候	mxeh
 馬鞍山	mxei
+目炫神迷	mxem
 明顯是	mxeo
 某些事情	mxeq
 冒險者	mxf
@@ -82173,6 +82170,7 @@
 每一次	myc
 沒有錯	myca
 每一次的	mycd
+螞蟻財富	mycf
 民意測驗	mycy
 每一段	myd
 沒有的	myda
@@ -82202,6 +82200,7 @@
 沒有聲音	myey
 貿易法	myf
 沒有找到	myfd
+美元指數	myfe
 每一分鐘	myff
 沒有這個	myfg
 沒有這麼	myfm
@@ -82233,6 +82232,7 @@
 每一件事	myje
 沒有接受	myjea
 木已成舟	myjf
+螞蟻金服	myjfi
 沒有經過	myjg
 沒有幾個	myjga
 沒有機會	myjh
@@ -82778,6 +82778,7 @@
 聶某	ndmd
 涅米	ndmk
 年代末期	ndmq
+你的名字	ndmz
 難道你	ndn
 捏捏	ndnd
 男盜女娼	ndnj
@@ -82876,7 +82877,6 @@
 南玻	nfbl
 南邊	nfbm
 難辨	nfbmv
-難吧	nfbs
 南北	nfbw
 難保	nfbz
 男包	nfbzi
@@ -83649,9 +83649,9 @@
 暱稱	nkjr
 你家	nkjs
 逆卷	nkjt
-擬將	nkjx
+你將	nkjx
 泥漿	nkjxa
-你將	nkjxi
+擬將	nkjxi
 你可	nkke
 尼克	nkkea
 你看	nkkf
@@ -83984,8 +83984,8 @@
 你們的	nmd
 那麼的	nmda
 那麼地	nmdao
-那麼短	nmdaou
 那麼多	nmdaou
+那麼短	nmdaou
 那麼大	nmdaov
 那麼多次	nmdc
 那麼多的	nmdd
@@ -84192,6 +84192,7 @@
 你妹啊	nmxi
 年息	nmxk
 年限	nmxm
+年休	nmxq
 年夏	nmxs
 耐磨性	nmxv
 念想	nmxx
@@ -84228,7 +84229,6 @@
 年尊	nmzw
 嫩白	nnbh
 男女比例	nnbl
-嫩吧	nnbs
 念念不忘	nnbw
 嫩脆	nncb
 嫩草	nncz
@@ -84899,7 +84899,8 @@
 內犯	nwff
 內債	nwfh
 內服	nwfj
-你我之間	nwfji
+內腹	nwfji
+你我之間	nwfjiu
 內置	nwfk
 內裝	nwfm
 內分	nwfn
@@ -85134,7 +85135,8 @@
 農學院	nxy
 孃姨	nxyk
 怒形於色	nxys
-納西族	nxz
+你小子	nxz
+納西族	nxza
 弄虛作假	nxzj
 娘子	nxzk
 釀造	nxzz
@@ -85400,7 +85402,6 @@
 腦補	nzbj
 腦部	nzbju
 鐃鈸	nzbl
-鬧吧	nzbs
 腦殘	nzcf
 內在的	nzd
 鬧得	nzde
@@ -85884,7 +85885,6 @@
 盤剝	pfbl
 叛變	pfbm
 評分標準	pfbq
-盼吧	pfbs
 盤餐	pfcf
 判詞	pfck
 盤錯	pfcl
@@ -85918,6 +85918,7 @@
 頗費周折	pfff
 攀摘	pffh
 攀附	pffj
+盤符	pffju
 攀至	pffk
 判分	pffn
 頗費周折	pffq
@@ -85939,6 +85940,7 @@
 攀高	pfgz
 破折號	pfh
 盤迴	pfhb
+蚍蜉撼樹	pfhe
 槃瓠	pfhj
 盤活	pfhl
 盤簧	pfhm
@@ -86033,7 +86035,6 @@
 盤兒	pfxj
 盤膝	pfxk
 盤縣	pfxm
-盼啊	pfxs
 盤旋	pfxt
 盤香	pfxx
 盤遊	pfyd
@@ -86303,7 +86304,6 @@
 排比	phbk
 牌匾	phbm
 排便	phbmi
-拍吧	phbs
 平衡點	phd
 排隊	phdb
 派對	phdba
@@ -86375,6 +86375,7 @@
 牌九	phjq
 排成	phjr
 拍成	phjri
+普惠金融	phjro
 牌價	phjs
 派軍	phjw
 排口	phkd
@@ -86721,6 +86722,7 @@
 披著	pkfe
 皮膚	pkfj
 批覆	pkfji
+蚍蜉	pkfjii
 匹夫	pkfjv
 皮質	pkfk
 皮脂	pkfka
@@ -87744,7 +87746,6 @@
 帕恩	psxn
 怕羞	psxq
 趴下	psxs
-怕啊	psxso
 琶音	psyb
 怕有	psyd
 怕也	psye
@@ -87808,7 +87809,6 @@
 陪遍	pwbm
 賠本	pwbn
 陪綁	pwbp
-配吧	pwbs
 配備	pwbw
 配保	pwbz
 配餐	pwcf
@@ -88162,8 +88162,7 @@
 跑鞋	pzxd
 泡兒	pzxj
 袍袖	pzxq
-跑啊	pzxs
-拋下	pzxsi
+拋下	pzxs
 跑下	pzxso
 泡漩	pzxt
 跑向	pzxx
@@ -88468,7 +88467,6 @@
 巧辯	qcbm
 橋本	qcbn
 撬棒	qcbp
-敲吧	qcbs
 僑胞	qcbz
 憔悴	qccb
 樵採	qcch
@@ -89302,6 +89300,7 @@
 站到	qfdzo
 啟發式	qfe
 沾水	qfeb
+蘸水	qfebi
 切中時弊	qfebv
 斬首	qfed
 這種說法	qfef
@@ -89559,6 +89558,7 @@
 站穩	qfwn
 助紂為虐	qfwni
 展望	qfwp
+戰網	qfwpo
 氈襪	qfws
 正直無私	qfwsv
 戰船	qfwt
@@ -90129,8 +90129,7 @@
 清秀	qgxq
 這個星期	qgxqo
 青蝦	qgxs
-請啊	qgxso
-敲骨吸髓	qgxsoi
+敲骨吸髓	qgxso
 請選	qgxt
 傾向	qgxx
 清香	qgxxa
@@ -90869,6 +90868,7 @@
 主談	qjtfo
 助聽	qjtg
 燭臺	qjth
+主圖	qjtj
 主題	qjtk
 主體	qjtko
 豬蹄	qjtkv
@@ -91012,8 +91012,7 @@
 起搏	qkbl
 七遍	qkbm
 氣泵	qkbr
-氣吧	qkbs
-七八	qkbsv
+七八	qkbs
 齊備	qkbw
 起爆	qkbz
 悽慘	qkcf
@@ -91705,6 +91704,7 @@
 去鱗	qllb
 取樂	qlle
 娶了	qllev
+取了	qlleva
 趣覽	qllf
 去領	qllg
 取來	qllh
@@ -92660,6 +92660,7 @@
 真我	qnwl
 真闖	qnwm
 珍聞	qnwn
+千難萬難	qnwnu
 陣亡	qnwp
 偵察	qnws
 偵查	qnwsi
@@ -92734,7 +92735,6 @@
 掌鞭	qpbm
 賬本	qpbn
 張榜	qpbp
-長吧	qpbs
 長輩	qpbw
 賬冊	qpce
 張璨	qpcf
@@ -92982,7 +92982,6 @@
 求變	qqbm
 全球變暖	qqbn
 球棒	qqbp
-糗吧	qqbs
 丘北	qqbw
 牽著鼻子	qqbz
 牽著鼻子走	qqbzo
@@ -93773,7 +93772,6 @@
 拳棒	qtbp
 遮天蔽日	qtbr
 青天白日	qtbrv
-圈吧	qtbs
 全被	qtbw
 全保	qtbz
 牆頭草	qtc
@@ -94350,6 +94348,7 @@
 強身	qxen
 這些是	qxeo
 牆上	qxep
+強上	qxepa
 這些事情	qxeq
 強盛	qxer
 強生	qxera
@@ -94637,7 +94636,6 @@
 窮本	qybn
 晴雨表	qybo
 這一步	qybov
-這樣吧	qybovo
 前言不搭後語	qyby
 這一輩子	qybz
 主要表現在	qybzo
@@ -94844,7 +94842,6 @@
 穹形	qyxg
 這一系列	qyxl
 請允許	qyxo
-這樣啊	qyxov
 這樣下去	qyxq
 注意安全	qyxqa
 邛峽	qyxs
@@ -94897,7 +94894,6 @@
 照壁	qzbk
 兆波	qzbl
 找遍	qzbm
-找吧	qzbs
 千姿百態	qzbt
 罩杯	qzbw
 找寶	qzbz
@@ -95031,6 +95027,7 @@
 照料	qzlc
 找了	qzle
 招了	qzlei
+著了	qzleia
 招攬	qzlf
 找零	qzlg
 召陵	qzlga
@@ -95143,7 +95140,6 @@
 招賢	qzxm
 罩袖	qzxq
 朝霞	qzxs
-找啊	qzxsi
 找尋	qzxw
 騎自行車	qzxwi
 擒賊先擒王	qzxwia
@@ -95270,7 +95266,8 @@
 肉凍	rddy
 柔道	rddz
 人地生疏	rdee
-柔善	rdef
+肉山	rdef
+柔善	rdefa
 人多勢眾	rdefi
 柔術	rdej
 肉食	rdek
@@ -96036,6 +96033,7 @@
 入眼	rjyfu
 入營	rjyg
 如約	rjyh
+日精月華	rjyho
 如意	rjyk
 如一	rjyka
 如與	rjyl
@@ -96855,6 +96853,7 @@
 軟屏	rtpg
 軟皮	rtpk
 軟片	rtpm
+軟著	rtqj
 軟驅	rtql
 軟鉛	rtqm
 軟著	rtqz
@@ -97311,6 +97310,7 @@
 算不了	sbl
 碎料	sblc
 碎裂	sbld
+三百六十度	sbldv
 碎了	sble
 三百六十	sblev
 碎爛	sblf
@@ -97429,7 +97429,6 @@
 酸菜魚	scyv
 搜捕	sdbj
 搜遍	sdbm
-搜吧	sdbs
 餿菜	sdch
 艘次	sdck
 餿的	sdde
@@ -98323,7 +98322,6 @@
 蘇溪	sjxk
 素餡	sjxm
 蘇繡	sjxq
-俗啊	sjxs
 素循	sjxw
 塑像	sjxx
 酥胸	sjxy
@@ -98370,7 +98368,6 @@
 四邊	skbmi
 私奔	skbn
 四榜	skbp
-死吧	skbs
 四倍	skbw
 絲寶	skbz
 四冊	skce
@@ -98402,6 +98399,7 @@
 死黨	skdp
 死等	skdr
 四大	skds
+撕打	skdsi
 四段	skdt
 四噸	skdw
 私倒	skdz
@@ -98524,6 +98522,7 @@
 死機	skjkv
 死寂	skjkvo
 死雞	skjkvu
+死祭	skjkvu
 斯基	skjkvv
 死局	skjl
 司局	skjla
@@ -98741,7 +98740,6 @@
 私下	skxs
 四下	skxsi
 撕下	skxsiv
-死啊	skxsv
 司宣	skxt
 死訊	skxw
 思想	skxx
@@ -99072,6 +99070,7 @@
 司馬昭之心	smqx
 三民主義	smqy
 三門峽	smx
+四目相對	smxd
 掃描儀	smy
 司馬懿	smya
 三碼一頂	smyd
@@ -99574,6 +99573,7 @@
 送報	sybzov
 慫包	sybzu
 三葉草	syc
+隨意存	syca
 鬆脆	sycb
 送菜	sych
 四葉草	syci
@@ -100374,9 +100374,7 @@
 投奔	tdbn
 鐵棒	tdbp
 貼吧	tdbs
-投吧	tdbsi
-偷吧	tdbsio
-鐵耙	tdbsiv
+鐵耙	tdbsi
 投保	tdbz
 頭孢	tdbzv
 頭等艙	tdc
@@ -101028,7 +101026,6 @@
 碳棒	tfbp
 停滯不前	tfbq
 談崩	tfbr
-貪吧	tfbs
 特種兵	tfbu
 貪杯	tfbw
 通風報信	tfbx
@@ -101261,7 +101258,6 @@
 攤兒	tfxj
 嘆息	tfxk
 探險	tfxm
-談啊	tfxs
 談玄	tfxt
 探尋	tfxw
 探詢	tfxwi
@@ -101763,9 +101759,8 @@
 太郎	thlp
 太冷	thlr
 太亂	thlt
-臺輪	thlw
-太累	thlwv
-泰勒	thlwvv
+太累	thlw
+臺輪	thlwv
 太亮	thlx
 太老	thlz
 泰民	thmb
@@ -101935,7 +101930,6 @@
 偷雞不著蝕把米	tjbmi
 土邦	tjbp
 土崩	tjbr
-圖吧	tjbs
 土被	tjbw
 圖報	tjbz
 吐翠	tjcb
@@ -102733,7 +102727,6 @@
 脫險	tlxm
 談戀愛	tlxo
 脫下	tlxs
-脫啊	tlxsu
 跳樑小醜	tlxw
 拖向	tlxx
 特洛伊	tly
@@ -102883,6 +102876,7 @@
 天珩	tmhrv
 天黑	tmhw
 天皇	tmhx
+天弘	tmhy
 填好	tmhz
 同盟軍	tmj
 天津	tmjb
@@ -103281,7 +103275,6 @@
 頭破血流	tpxl
 唐縣	tpxm
 躺下	tpxs
-燙啊	tpxsa
 堂兄	tpxy
 堂奧	tpxz
 太平洋	tpy
@@ -103446,12 +103439,9 @@
 塔崩	tsbr
 他爸	tsbs
 她把	tsbsa
-她吧	tsbsao
 她爸	tsbsau
 他把	tsbsi
-他吧	tsbsio
 它把	tsbso
-它吧	tsbsoo
 塔巴	tsbsv
 他被	tsbw
 它被	tsbwo
@@ -104448,7 +104438,6 @@
 逃兵	tzbg
 逃避	tzbk
 逃奔	tzbn
-逃吧	tzbs
 淘寶	tzbz
 套餐	tzcf
 套裁	tzch
@@ -105351,6 +105340,7 @@
 我是一個	weygu
 握手言和	weyh
 網上銀行	weyha
+網商銀行	weyhao
 車衣	weyk
 炊事員	weyo
 勿施於人	weyr
@@ -105382,7 +105372,6 @@
 威風八面	wfbmv
 萬邦	wfbp
 為富不仁	wfbr
-玩吧	wfbs
 完備	wfbw
 晚輩	wfbwo
 晚報	wfbz
@@ -106681,6 +106670,7 @@
 無恥	wjwk
 舞池	wjwku
 五尺	wjwkv
+武痴	wjwkvo
 無我	wjwl
 誤闖	wjwm
 無望	wjwp
@@ -106713,7 +106703,8 @@
 五星	wjxgv
 五行	wjxgvu
 無愛	wjxh
-無礙	wjxhu
+烏血	wjxhu
+無礙	wjxhuv
 武學	wjxhv
 武穴	wjxhvo
 吾愛	wjxhvu
@@ -107079,7 +107070,6 @@
 鴟鵂	wkxq
 吃下	wkxs
 挖空心思	wkxsi
-吃啊	wkxso
 吃香	wkxx
 吃相	wkxxo
 我可以	wky
@@ -107194,6 +107184,7 @@
 臥房	wlfpv
 窩風	wlfr
 我發	wlfs
+瓦楞紙	wlfv
 窩匪	wlfw
 我裝	wlfx
 戳中	wlfy
@@ -107702,7 +107693,6 @@
 文博	wnbl
 吻遍	wnbm
 文本	wnbn
-問吧	wnbs
 溫飽	wnbz
 文萃	wncb
 文采	wnch
@@ -108031,6 +108021,7 @@
 網上	wpep
 往上	wpepu
 旺盛	wper
+往生	wperu
 枉殺	wpes
 望哨	wpez
 望著	wpfe
@@ -108538,11 +108529,10 @@
 茶花	wshqii
 插好	wshz
 挖好	wshzi
-茶巾	wsjb
+差勁	wsjb
 插進	wsjbi
 插筋	wsjbiu
 插緊	wsjbiv
-差勁	wsjbo
 查禁	wsjbv
 蛙叫	wsjc
 插角	wsjci
@@ -108717,8 +108707,7 @@
 窪陷	wsxm
 茶仙	wsxmi
 茶鏽	wsxq
-插啊	wsxs
-挖下	wsxsi
+挖下	wsxs
 查詢	wsxw
 茶鄉	wsxx
 無損於	wsy
@@ -108823,8 +108812,8 @@
 傳址	wtfkiv
 穿著	wtfl
 傳粉	wtfn
-船閘	wtfs
-傳法	wtfsi
+傳法	wtfs
+船閘	wtfsu
 船費	wtfw
 傳中	wtfy
 傳召	wtfz
@@ -109102,6 +109091,7 @@
 為實	wwekoo
 衛士	wweku
 委實	wwekuo
+微視	wwekuo
 威視	wwekv
 威勢	wwekvv
 偉說	wwel
@@ -109115,6 +109105,7 @@
 尾聲	wwerav
 為生	wwero
 為啥	wwes
+圍殺	wwesi
 望文生義	wwey
 微少	wwez
 吃晚飯	wwf
@@ -109166,6 +109157,7 @@
 未改	wwghv
 未顧	wwgj
 為國	wwgl
+為過	wwglo
 衛國	wwglu
 魏國	wwglui
 未果	wwglv
@@ -109188,6 +109180,7 @@
 魏武揮鞭	wwhbu
 未回	wwhbv
 為後	wwhd
+尾後	wwhda
 為何	wwhe
 渭河	wwhea
 維和	wwheau
@@ -109331,6 +109324,7 @@
 微妙	wwmc
 為妙	wwmco
 未滅	wwmd
+萬萬沒想到	wwmdi
 未滿	wwmf
 威名	wwmg
 為名	wwmgo
@@ -109868,7 +109862,8 @@
 無一不知	wybf
 徹夜不歸	wybg
 崇拜	wybh
-萬用表	wybi
+創業板	wybi
+萬用表	wybiu
 遲疑不決	wybj
 吃啞巴虧	wybk
 重播	wybl
@@ -110094,7 +110089,8 @@
 充氣	wyqkv
 衝去	wyql
 沃野千里	wyqla
-重籤	wyqm
+充錢	wyqm
+重籤	wyqmu
 重振	wyqn
 崇禎	wyqni
 文藝青年	wyqno
@@ -110174,8 +110170,7 @@
 無一倖免	wyxmu
 差異性	wyxo
 重修	wyxq
-衝啊	wyxs
-衝下	wyxsu
+衝下	wyxs
 重選	wyxt
 望洋興嘆	wyxto
 外語系	wyxu
@@ -110236,7 +110231,6 @@
 超編	wzbm
 抄本	wzbn
 超棒	wzbp
-吵吧	wzbs
 烏茲別克斯坦	wzbt
 朝北	wzbw
 抄報	wzbz
@@ -111096,7 +111090,6 @@
 小邊	xcbmiu
 小本	xcbn
 肖邦	xcbp
-小吧	xcbs
 小輩	xcbw
 小報	xcbz
 小寶	xcbzi
@@ -112163,6 +112156,7 @@
 餓飯	xeff
 阿附	xefj
 安身之處	xefjo
+奧術之塵	xefju
 遏制	xefk
 扼制	xefki
 遏止	xefko
@@ -112221,8 +112215,8 @@
 形神俱滅	xejm
 新手機	xejo
 新世界	xejov
-顯示出	xejova
 新世紀	xejova
+顯示出	xejova
 訛稱	xejr
 學術界	xeju
 二十九	xejv
@@ -113047,7 +113041,8 @@
 行騙	xgpm
 形旁	xgpp
 愛國者	xgq
-省親	xgqb
+性侵	xgqb
+省親	xgqbi
 行竊	xgqd
 行者	xgqe
 醒著	xgqev
@@ -113229,9 +113224,7 @@
 血本	xhbn
 埃鎊	xhbp
 雪崩	xhbr
-愛吧	xhbs
-學吧	xhbsu
-學霸	xhbsuv
+學霸	xhbs
 哀鴻遍野	xhby
 雪豹	xhbz
 學報	xhbzu
@@ -113581,6 +113574,7 @@
 埃內	xhnw
 學農	xhny
 愛鬧	xhnz
+消耗品	xhp
 血拼	xhpb
 心懷叵測	xhpc
 餓虎撲食	xhpe
@@ -114277,6 +114271,7 @@
 惜別	xkbd
 戲班	xkbf
 惜敗	xkbh
+洗白	xkbha
 西部	xkbj
 細部	xkbja
 稀薄	xkbl
@@ -114680,7 +114675,6 @@
 細線	xkxma
 席恩	xkxn
 西夏	xkxs
-細啊	xkxsa
 膝下	xkxsu
 細選	xkxt
 喜訊	xkxw
@@ -114739,9 +114733,7 @@
 下落不明	xlbmv
 阿拉伯人	xlbr
 下里巴人	xlbrv
-哦吧	xlbs
-許吧	xlbso
-序跋	xlbsoo
+序跋	xlbs
 行了吧	xlbu
 歐羅巴	xlbv
 迅雷不及掩耳	xlbx
@@ -115015,6 +115007,7 @@
 須按	xlxf
 狹路相逢	xlxfu
 徐行	xlxg
+小龍蝦	xlxi
 心理學家	xlxj
 噓唏	xlxk
 徐徐	xlxl
@@ -115035,8 +115028,8 @@
 笑了笑	xlxua
 奧利奧	xlxuu
 行李箱	xlxuv
-相聯繫	xlxv
-想了想	xlxva
+想了想	xlxv
+相聯繫	xlxvv
 許遜	xlxw
 徐兄	xlxy
 敘利亞	xly
@@ -115685,7 +115678,6 @@
 修編	xqbm
 行政部門	xqbmu
 哀其不爭	xqbq
-修吧	xqbs
 學前班	xqbu
 心照不宣	xqbx
 行政村	xqc
@@ -115747,7 +115739,8 @@
 休怪	xqgg
 稀奇古怪	xqggu
 修改	xqgh
-修正稿	xqgi
+小氣鬼	xqgi
+修正稿	xqgiv
 行政管理	xqgl
 性器官	xqgo
 休耕	xqgr
@@ -115763,6 +115756,7 @@
 而且還會	xqhh
 修護	xqhj
 修篁	xqhm
+性侵害	xqho
 繡花	xqhq
 癌症患者	xqhqo
 而且會	xqhv
@@ -115943,7 +115937,6 @@
 修修	xqxqi
 羞羞	xqxqo
 興趣盎然	xqxr
-羞啊	xqxs
 象徵性	xqxu
 安枕而臥	xqxw
 休想	xqxx
@@ -116354,6 +116347,7 @@
 下排	xsph
 下派	xsphv
 下鋪	xspj
+稀鬆平常	xspju
 夏普	xspjv
 蝦皮	xspk
 阿婆	xspl
@@ -116484,8 +116478,7 @@
 下限	xsxmv
 下陷	xsxmva
 新思想	xsxo
-啊啊	xsxs
-嚇嚇	xsxso
+嚇嚇	xsxs
 下轄	xsxsv
 下旬	xsxw
 遐想	xsxx
@@ -117008,6 +117001,7 @@
 訊問	xwwno
 尋網	xwwp
 巡查	xwws
+巡察	xwwsa
 二重性	xwx
 尋釁	xwxb
 薰鵝	xwxe
@@ -117266,7 +117260,8 @@
 偶像化	xxhi
 信息化	xxhiu
 相互	xxhj
-香火	xxhl
+想活	xxhl
+香火	xxhlu
 鑲黃	xxhm
 像話	xxhq
 香花	xxhqu
@@ -117588,7 +117583,8 @@
 信息網絡	xxwli
 想我	xxwlv
 祥創	xxwm
-安享晚年	xxwn
+想問	xxwn
+安享晚年	xxwno
 性行為	xxwo
 嚮往	xxwp
 相望	xxwpv
@@ -117738,6 +117734,7 @@
 雄霸	xybs
 血液病	xybu
 胸背	xybw
+想也不想	xybx
 凶暴	xybz
 下一次	xyc
 凶殘	xycf
@@ -117928,6 +117925,7 @@
 吸引人	xyro
 小意思	xys
 凶歲	xysb
+心有所屬	xyse
 凶死	xysk
 哦呀斯密	xysm
 愛因斯坦	xyst
@@ -119342,9 +119340,10 @@
 有誤	ydwjv
 尤物	ydwjvu
 有吃	ydwk
-有我	ydwl
-由我	ydwli
+由我	ydwl
+優渥	ydwli
 郵戳	ydwlu
+有我	ydwlv
 又創	ydwm
 又問	ydwn
 有望	ydwp
@@ -120958,8 +120957,7 @@
 一個星期	ygxqv
 一個學期	ygxqvi
 魚貫而入	ygxr
-贏啊	ygxs
-贏下	ygxso
+贏下	ygxs
 應選	ygxt
 壓根兒	ygxv
 影訊	ygxw
@@ -121176,9 +121174,8 @@
 越長	yhjp
 越久	yhjq
 越城	yhjr
-樂嘉	yhjs
-越加	yhjsv
-雨後春筍	yhjsvu
+越加	yhjs
+雨後春筍	yhjsv
 閱卷	yhjt
 氧化劑	yhju
 月均	yhjw
@@ -121442,8 +121439,8 @@
 養家餬口	yjhk
 有機會	yjhv
 研究會	yjhvo
-有計劃	yjhvoa
 原計劃	yjhvoa
+有計劃	yjhvoa
 有句話	yjhvu
 衣錦還鄉	yjhx
 有機化學	yjhxv
@@ -122563,6 +122560,7 @@
 魚鱉	ylbd
 玉版	ylbf
 語病	ylbg
+餘利寶	ylbi
 預補	ylbj
 一鱗半甲	ylbjv
 醫療保健	ylbjvo
@@ -124192,6 +124190,7 @@
 遠近	ytjb
 緣盡	ytjba
 圓角	ytjc
+援交	ytjci
 言聽計從	ytjco
 遠郊	ytjcv
 遠較	ytjcvv
@@ -124260,7 +124259,6 @@
 一團亂麻	ytlmv
 元朗	ytlp
 源流	ytlq
-院落	ytls
 一條路	ytlv
 緣肋	ytlw
 原諒	ytlx
@@ -124406,7 +124404,6 @@
 蠅頭小利	ytxl
 原先	ytxm
 院線	ytxma
-冤啊	ytxs
 元勳	ytxw
 原想	ytxx
 元凶	ytxy
@@ -124748,9 +124745,11 @@
 英文字母	ywzm
 一錘子買賣	ywzmv
 也許吧	yxb
+油性筆	yxba
 野心勃勃	yxbb
 意想不到	yxbd
 一小部分	yxbf
+餘額寶	yxbi
 原形畢露	yxbl
 於心不忍	yxbr
 一小步	yxbv
@@ -124942,7 +124941,6 @@
 營養不良	yybl
 永遠不能	yybn
 營業部	yybo
-用吧	yybs
 永備	yybw
 語焉不詳	yybx
 永遠不要	yyby
@@ -125039,6 +125037,7 @@
 意義重大	yyfdo
 一語中的	yyfdv
 用著	yyfe
+勇者	yyfea
 擁著	yyfei
 芸芸眾生	yyfeii
 因噎廢食	yyfeio
@@ -125145,6 +125144,7 @@
 擁擠	yyjk
 用計	yyjku
 用具	yyjl
+泳具	yyjla
 永健	yyjm
 湧濺	yyjma
 用劍	yyjmu
@@ -125236,6 +125236,7 @@
 勇擒	yyqb
 隱約其辭	yyqc
 用著	yyqe
+勇者	yyqea
 擁著	yyqei
 用情	yyqg
 有緣千里來相會	yyqh
@@ -126976,7 +126977,6 @@
 在先	zhxmvu
 在下	zhxs
 栽下	zhxsu
-在啊	zhxsv
 在選	zhxt
 宰相	zhxx
 再想	zhxxv
@@ -127182,6 +127182,7 @@
 贊成票	zjp
 作出判斷	zjpd
 最佳拍檔	zjpdo
+資產配置	zjpf
 族譜	zjpj
 租片	zjpm
 鑽進去	zjq
@@ -127341,7 +127342,6 @@
 滋生	zker
 孳生	zkero
 吱聲	zkerov
-自省	zkeru
 自殺	zkes
 紫砂	zkesi
 字少	zkez
@@ -127597,6 +127597,7 @@
 自行	zkxg
 字形	zkxgo
 字型	zkxgov
+自省	zkxgu
 自學	zkxh
 自愛	zkxhu
 子兒	zkxj
@@ -127644,6 +127645,7 @@
 齜牙	zkys
 資源	zkyt
 字源	zkyto
+字元	zkytov
 自願	zkytu
 自用	zkyy
 鑽空子	zkz
@@ -127961,6 +127963,7 @@
 坐呀	zlys
 作緣	zlyt
 作用	zlyy
+坐擁	zlyyi
 坐罪	zlzb
 作則	zlze
 坐在	zlzh
@@ -128460,7 +128463,6 @@
 雜差	zsws
 雜兒	zsxj
 雜絮	zsxl
-砸啊	zsxs
 雜項	zsxx
 雜音	zsyb
 雜優	zsyd
@@ -129044,8 +129046,7 @@
 孜孜不倦	zzbj
 噪波	zzbl
 自在不成人	zzbr
-早吧	zzbs
-早把	zzbso
+早把	zzbs
 早被	zzbw
 早報	zzbz
 自造詞	zzc
@@ -129347,6 +129348,7 @@
 打算	duv
 東西	dv
 得到	dva
+地下	dvi
 大哥	dvo
 對面	dvu
 生活	ea
@@ -129777,14 +129779,14 @@
 位置	wia
 五個	wii
 吃飯	wio
-往常	wio
+微信	wio
 文化	wiu
 晚上	wiv
 問題	wo
 忘記	woa
 溫暖	woi
 我家	woo
-往前	wou
+完美	wou
 我的	wu
 朝向	wui
 無辜	wuo
@@ -129840,7 +129842,7 @@
 遊戲	yiv
 因為	yo
 應該	yoa
-要是	yoi
+也是	yoi
 一定	yoo
 以前	you
 一次	yov
