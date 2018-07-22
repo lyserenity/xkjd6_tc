@@ -7,7 +7,7 @@
 #     請見諒。
 ---
 name : xkjd6.wxw
-version : 2018.07.16
+version : 2018.07.22
 sort: original
 use_preset_vocabulary: false
 ...
@@ -131,7 +131,7 @@ use_preset_vocabulary: false
 上面	ev
 手機	eva
 甚至	eva
-剩下	evi
+上來	evi
 上去	evo
 只能	fa
 紛紛	faa
@@ -182,6 +182,7 @@ use_preset_vocabulary: false
 更是	goi
 關於	gov
 過程	gu
+果然	gua
 各自	gui
 感受	guo
 感覺	guo
@@ -494,7 +495,7 @@ use_preset_vocabulary: false
 三天	svv
 提出	ta
 推給	taa
-掏出	tai
+太陽	tai
 天賦	tao
 唾沫	tav
 他們	ti
@@ -516,7 +517,7 @@ use_preset_vocabulary: false
 突然	tua
 嘆息	tui
 體質	tuu
-天氣	tuv
+通知	tuv
 天天	tv
 聽到	tva
 抬起	tvo
@@ -560,8 +561,8 @@ use_preset_vocabulary: false
 二人	xii
 想著	xii
 相信	xio
-選擇	xiu
 想像	xiu
+選擇	xiu
 安全	xiv
 而是	xo
 心裡	xoa
