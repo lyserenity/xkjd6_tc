@@ -5,7 +5,7 @@
 #   - 目前詞組碼表僅對筆畫編碼之部分變動，不涉及用語等差異增減
 ---
 name : xkjd6_tc.cizu
-version : 2018.07.22
+version : 2018.07.23
 sort: original
 use_preset_vocabulary: false
 ...
@@ -22844,8 +22844,8 @@ use_preset_vocabulary: false
 反面	ffmm
 方方面面	ffmmo
 翻面	ffmmu
-朝朝暮暮	ffmmuu
 分分秒秒	ffmmuu
+朝朝暮暮	ffmmuu
 煩悶	ffmn
 繁忙	ffmp
 反碼	ffms
@@ -42082,7 +42082,7 @@ use_preset_vocabulary: false
 解困	jdkw
 皆空	jdky
 絕對可以	jdkya
-鍵道	jdl
+鍵道6	jdl
 姐弟戀	jdla
 幾點了	jdlai
 決定論	jdlao
@@ -42226,7 +42226,7 @@ use_preset_vocabulary: false
 接壤	jdrp
 靜電容	jdrv
 激動人心	jdrx
-鍵道	jds
+鍵道3	jds
 接穗	jdsb
 解溲	jdsd
 劫色	jdse

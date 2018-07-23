@@ -42720,8 +42720,8 @@
 反面	ffmm
 方方面面	ffmmo
 翻面	ffmmu
-朝朝暮暮	ffmmuu
 分分秒秒	ffmmuu
+朝朝暮暮	ffmmuu
 煩悶	ffmn
 繁忙	ffmp
 反碼	ffms
@@ -61958,7 +61958,7 @@
 解困	jdkw
 皆空	jdky
 絕對可以	jdkya
-鍵道	jdl
+鍵道6	jdl
 姐弟戀	jdla
 幾點了	jdlai
 決定論	jdlao
@@ -62102,7 +62102,7 @@
 接壤	jdrp
 靜電容	jdrv
 激動人心	jdrx
-鍵道	jds
+鍵道3	jds
 接穗	jdsb
 解溲	jdsd
 劫色	jdse
