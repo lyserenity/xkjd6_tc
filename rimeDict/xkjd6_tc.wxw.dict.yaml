@@ -7,7 +7,7 @@
 #     請見諒。
 ---
 name : xkjd6.wxw
-version : 2018.07.22
+version : 2018.07.29
 sort: original
 use_preset_vocabulary: false
 ...
@@ -109,13 +109,14 @@ use_preset_vocabulary: false
 深深	eao
 手臂	eav
 時候	ei
+說著	eii
 世界	eia
 身體	eia
 時光	eio
 雙手	eiu
 什麼	eo
-時間	eo
 說話	eoa
+時間	eoi
 瞬間	eoi
 事情	eoo
 說道	eou
@@ -431,6 +432,7 @@ use_preset_vocabulary: false
 起來	qv
 輕輕	qva
 真正	qvi
+前來	qvi
 前臺	qvo
 輕聲	qvo
 正在	qvu

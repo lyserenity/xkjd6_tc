@@ -8,7 +8,7 @@
 #   -「東」、「車」二字及以其為偏旁的字：維持 va 編碼
 ---
 name : xkjd6_tc.danzi
-version : 2018.07.22
+version : 2018.07.29
 sort: original
 use_preset_vocabulary: false
 ...
@@ -5943,6 +5943,7 @@ use_preset_vocabulary: false
 弄	ny	500	nyvvvu
 濃	nya	300	nyaiav
 農	nyi	300	nyiavu
+挊	nyiu	300	nyiuiv
 儂	nyii	300	nyiiav
 噥	nyo	300	nyoiav
 膿	nyu	300	nyuiav

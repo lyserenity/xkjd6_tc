@@ -5,7 +5,7 @@
 #   - 目前詞組碼表僅對筆畫編碼之部分變動，不涉及用語等差異增減
 ---
 name : xkjd6_tc.cizu
-version : 2018.07.23
+version : 2018.07.29
 sort: original
 use_preset_vocabulary: false
 ...
@@ -119,6 +119,7 @@ use_preset_vocabulary: false
 抱不平	bbp
 白白胖胖	bbpp
 賓朋	bbpr
+百白破	bbpv
 保不齊	bbq
 彪炳千古	bbqg
 北半球	bbqi
@@ -667,6 +668,7 @@ use_preset_vocabulary: false
 不大於	bdyvv
 百度一下	bdyx
 別用	bdyy
+膀大腰圓	bdyyu
 別要	bdyz
 別醉	bdzb
 別走	bdzd
@@ -817,7 +819,8 @@ use_preset_vocabulary: false
 不識字	bez
 不是滋味	bezw
 百分比	bfb
-斑鬢	bfbb
+包治百病	bfbb
+斑鬢	bfbbv
 班彪	bfbc
 不分彼此	bfbcv
 版別	bfbd
@@ -853,6 +856,7 @@ use_preset_vocabulary: false
 半粗	bfcj
 班次	bfck
 辦錯	bfcl
+不著寸縷	bfclv
 半倉	bfcp
 半寸	bfcw
 不復存在	bfcz
@@ -1139,6 +1143,7 @@ use_preset_vocabulary: false
 不知如何是好	bfrh
 搬入	bfrj
 半日	bfrk
+變種人	bfro
 半軟	bfrt
 白種人	bfru
 筆者認為	bfrw
@@ -1207,6 +1212,7 @@ use_preset_vocabulary: false
 半醒	bfxgo
 版型	bfxgu
 辦學	bfxh
+蝙蝠俠	bfxi
 板兒	bfxj
 伴兒	bfxji
 白費心機	bfxju
@@ -1420,7 +1426,8 @@ use_preset_vocabulary: false
 病號	bghz
 白骨精	bgj
 並進	bgjb
-冰窖	bgjc
+病嬌	bgjc
+冰窖	bgjco
 並解	bgjd
 兵車	bgje
 不過就是	bgjev
@@ -3638,6 +3645,7 @@ use_preset_vocabulary: false
 布萊恩特	blxt
 布萊爾	blxv
 不理想	blxvv
+玻璃心	blxvvo
 博訊	blxw
 伯兄	blxy
 博鰲	blxz
@@ -3727,6 +3735,7 @@ use_preset_vocabulary: false
 便是	bmek
 便士	bmeki
 辨識	bmeko
+鞭屍	bmekv
 邊說	bmel
 便說	bmeli
 變身	bmen
@@ -3745,6 +3754,7 @@ use_preset_vocabulary: false
 變窄	bmfho
 蝙蝠	bmfj
 便服	bmfji
+砭膚	bmfjv
 編制	bmfk
 編織	bmfka
 貶值	bmfkai
@@ -3793,6 +3803,7 @@ use_preset_vocabulary: false
 變化	bmhq
 變換	bmht
 變幻	bmhto
+白忙活	bmhu
 變黑	bmhw
 變黃	bmhx
 變紅	bmhy
@@ -4571,6 +4582,7 @@ use_preset_vocabulary: false
 迸發	brfs
 迸飛	brfw
 不容置疑	brfy
+泵感	brgf
 病入膏肓	brgh
 甭管	brgt
 蹦高	brgz
@@ -4775,6 +4787,7 @@ use_preset_vocabulary: false
 拔出	bsjj
 拔除	bsjji
 吧唧	bsjk
+巴基	bsjka
 八級	bsjku
 霸據	bsjl
 拔尖	bsjm
@@ -5287,6 +5300,7 @@ use_preset_vocabulary: false
 被判	bwpfo
 北平	bwpg
 保持平衡	bwph
+北派	bwphi
 被批	bwpk
 被迫	bwpl
 被騙	bwpm
@@ -5393,6 +5407,7 @@ use_preset_vocabulary: false
 碑額	bwxe
 備案	bwxf
 北岸	bwxfi
+別無二致	bwxfo
 北行	bwxg
 悲哀	bwxh
 被愛	bwxho
@@ -5594,6 +5609,7 @@ use_preset_vocabulary: false
 薄一波	bybi
 畢業班	bybii
 搏一搏	bybiv
+補藥碧蓮	bybl
 不依不饒	bybr
 不陰不陽	byby
 不言不語	bybyv
@@ -5659,6 +5675,7 @@ use_preset_vocabulary: false
 不予理睬	bylc
 比翼連枝	bylf
 不亦樂乎	bylh
+不義聯盟	bylm
 飽以老拳	bylq
 不用了	bylv
 柏油路	bylva
@@ -5770,6 +5787,7 @@ use_preset_vocabulary: false
 報錯	bzcl
 不在此列	bzclv
 爆倉	bzcp
+保藏	bzcpi
 薄層	bzcr
 保存	bzcw
 半自動	bzd
@@ -6385,8 +6403,9 @@ use_preset_vocabulary: false
 側邊	cebm
 測報	cebz
 此時此地	cecd
-策策	cece
+測測	cece
 草率從事	cecei
+策策	ceceu
 此時此刻	ceck
 側對	cedb
 才疏德薄	cedbv
@@ -6405,6 +6424,7 @@ use_preset_vocabulary: false
 側身	ceen
 側生	ceer
 慈善事業	ceey
+測試服	cef
 才疏志大	cefd
 側著	cefe
 策反	ceff
@@ -6579,6 +6599,7 @@ use_preset_vocabulary: false
 慘重	cffy
 參照	cffz
 從這個	cfg
+餐櫃	cfgb
 從這個角度	cfgd
 從這個意義上	cfge
 從這個意義上說	cfgeu
@@ -7284,6 +7305,7 @@ use_preset_vocabulary: false
 此段	ckdt
 刺刀	ckdz
 此道	ckdzi
+磁道	ckdzv
 參考書	cke
 刺水	ckeb
 詞首	cked
@@ -8609,7 +8631,8 @@ use_preset_vocabulary: false
 草賊	czzw
 操縱	czzy
 都不必	dbb
-隊標	dbbc
+對標	dbbc
+隊標	dbbca
 對錶	dbbci
 對半	dbbf
 對冰	dbbg
@@ -8749,6 +8772,7 @@ use_preset_vocabulary: false
 對唱	dbjp
 對舊	dbjq
 對家	dbjs
+對價	dbjsi
 等不及	dbju
 東北角	dbjv
 大背景	dbjvi
@@ -9263,7 +9287,9 @@ use_preset_vocabulary: false
 大多數情況下	ddex
 地動山搖	ddey
 都少	ddez
+的地方	ddf
 兜著	ddfe
+顛倒眾生	ddfeu
 跌跌撞撞	ddff
 兜兜轉轉	ddffu
 大大方方	ddffv
@@ -9452,6 +9478,7 @@ use_preset_vocabulary: false
 都目	ddmj
 豆麵	ddmm
 弟弟妹妹	ddmmo
+大吊萌妹	ddmmv
 斗門	ddmn
 都忙	ddmp
 迭忙	ddmpu
@@ -9551,6 +9578,7 @@ use_preset_vocabulary: false
 都死	ddsk
 跌死	ddsko
 都鎖	ddsl
+抖森	ddsn
 哆哆嗦嗦	ddss
 都算	ddst
 點點頭	ddt
@@ -9822,13 +9850,14 @@ use_preset_vocabulary: false
 電視屏幕	depm
 大事鋪張	depq
 電視片	depv
-董事長	deq
+的事情	deq
 的親	deqb
 的橋	deqc
 得著	deqe
 獨善其身	deqeu
 的情	deqg
 但是這個	deqgi
+董事長	deqi
 得主	deqj
 的棋	deqk
 得起	deqku
@@ -10090,6 +10119,7 @@ use_preset_vocabulary: false
 單車	dfje
 大中城市	dfjev
 單產	dfjf
+單靜	dfjg
 旦角	dfjh
 但覺	dfjhi
 單拆	dfjho
@@ -11453,11 +11483,11 @@ use_preset_vocabulary: false
 底數	dkej
 地鼠	dkejv
 大開殺戒	dkejvo
-地市	dkek
+第十	dkek
 敵視	dkeko
 的士	dkeku
-第十	dkekuu
 地勢	dkekv
+地市	dkekvo
 地說	dkel
 地參	dken
 地上	dkep
@@ -12360,6 +12390,7 @@ use_preset_vocabulary: false
 典禮	dmlki
 店裡	dmlko
 電離	dmlkv
+電驢	dmll
 電聯	dmlm
 電流	dmlq
 動脈瘤	dmlu
@@ -13934,6 +13965,7 @@ use_preset_vocabulary: false
 短處	dtjj
 端出	dtjjo
 短句	dtjl
+斷句	dtjla
 短見	dtjm
 鍛件	dtjmi
 短劍	dtjmu
@@ -14310,6 +14342,7 @@ use_preset_vocabulary: false
 大學出版社	dxjev
 短小精悍	dxjh
 妒賢嫉能	dxjn
+單線程	dxjo
 大相徑庭	dxjt
 多線程	dxju
 電信局	dxjv
@@ -14381,6 +14414,7 @@ use_preset_vocabulary: false
 大學英語	dxyy
 到現在	dxz
 到現在為止	dxzf
+黨小組	dxzi
 德昂族	dxzu
 東鄉族	dxzv
 第一步	dyb
@@ -14388,6 +14422,7 @@ use_preset_vocabulary: false
 大言不慚	dybc
 第一部分	dybf
 凍冰	dybg
+冬兵	dybgu
 東白	dybh
 東部	dybj
 動筆	dybk
@@ -14976,6 +15011,7 @@ use_preset_vocabulary: false
 刁鑽刻薄	dzkb
 道口	dzkd
 刀口	dzkda
+倒扣	dzkdi
 刀砍	dzkf
 倒開	dzkh
 導抗	dzkp
@@ -15206,6 +15242,7 @@ use_preset_vocabulary: false
 稅單	ebdf
 誰定	ebdg
 睡袋	ebdh
+使不得	ebdi
 水滴	ebdk
 水底	ebdka
 水多	ebdl
@@ -15658,6 +15695,7 @@ use_preset_vocabulary: false
 收存	edcw
 收操	edcz
 說得對	edd
+溼溚溚	edda
 收隊	eddb
 收掉	eddc
 手抖	eddd
@@ -15854,6 +15892,7 @@ use_preset_vocabulary: false
 手賤	edjmi
 受檢	edjmu
 壽辰	edjn
+神盾局	edjo
 手長	edjp
 收場	edjpa
 售場	edjpi
@@ -16110,6 +16149,7 @@ use_preset_vocabulary: false
 首先	edxm
 受限	edxmu
 壽險	edxmv
+閃電俠	edxo
 手繡	edxq
 手下	edxs
 收下	edxsa
@@ -16770,6 +16810,7 @@ use_preset_vocabulary: false
 生殖器	efqu
 山群	efqw
 水至清則無魚	efqy
+閃照	efqz
 潸然	efrf
 擅入	efrj
 閃人	efrn
@@ -17409,6 +17450,7 @@ use_preset_vocabulary: false
 蜀漢	ejhf
 抒懷	ejhg
 鼠害	ejhh
+書海	ejhha
 殺雞駭猴	ejhhu
 手機號	ejhi
 疏忽	ejhj
@@ -18865,6 +18907,7 @@ use_preset_vocabulary: false
 雙週	emfd
 什麼方法	emff
 雙寨	emfh
+使命召喚	emfhi
 雙氟	emfj
 爽直	emfk
 雙酚	emfn
@@ -19133,6 +19176,7 @@ use_preset_vocabulary: false
 甚大	endsv
 身段	endt
 深蹲	endw
+神盾	endwo
 深冬	endy
 伸到	endz
 神道	endzo
@@ -20005,6 +20049,7 @@ use_preset_vocabulary: false
 數千年	eqn
 耍你	eqnk
 盛情難卻	eqnq
+神奇女俠	eqnx
 耍弄	eqny
 耍鬧	eqnz
 耍貧	eqpb
@@ -20384,6 +20429,7 @@ use_preset_vocabulary: false
 聲望	erwp
 盛傳	erwt
 省委	erww
+視若無物	erwwo
 升為	erwwu
 升維	erwwua
 生畏	erwwui
@@ -20486,6 +20532,7 @@ use_preset_vocabulary: false
 十三點	esd
 沙堆	esdb
 殺掉	esdc
+沙雕	esdca
 傻掉	esdci
 殺跌	esdd
 殺得	esde
@@ -20582,6 +20629,7 @@ use_preset_vocabulary: false
 沙坑	eskr
 砂礦	eskx
 殺空	esky
+神速力	esl
 沙林	eslb
 沙漏	esld
 傻了	esle
@@ -20656,6 +20704,7 @@ use_preset_vocabulary: false
 砂糖	estp
 殺他	ests
 沙銅	esty
+生死未卜	eswb
 剎車	eswe
 煞車	esweu
 殺我	eswl
@@ -20741,6 +20790,7 @@ use_preset_vocabulary: false
 栓劑	etjk
 身體健康	etjku
 身體機能	etjn
+史塔克	etk
 申通快遞	etkd
 水土流失	etle
 識途老馬	etlm
@@ -20916,6 +20966,7 @@ use_preset_vocabulary: false
 生物系	ewx
 順心	ewxb
 順安	ewxf
+守望先鋒	ewxfo
 吮血	ewxh
 雙重性	ewxi
 順耳	ewxj
@@ -21215,6 +21266,7 @@ use_preset_vocabulary: false
 守信用	exyoi
 首先要	exyou
 雙陽	exyp
+雙押	exys
 受限於	exyu
 雙韻	exyw
 上下一心	exyx
@@ -21376,6 +21428,7 @@ use_preset_vocabulary: false
 適用於	eyy
 是一樣的	eyyd
 神一樣的	eyydo
+術業有專攻	eyyg
 商業銀行	eyyh
 事業有成	eyyj
 山雨欲來風滿樓	eyyl
@@ -21414,6 +21467,7 @@ use_preset_vocabulary: false
 燒到	ezdz
 數字式	eze
 燒水	ezeb
+潲水	ezeba
 少收	ezed
 韶山	ezef
 少帥	ezeg
@@ -21814,6 +21868,7 @@ use_preset_vocabulary: false
 轉變為	fbwv
 追尾	fbww
 轉悲為喜	fbwx
+支部委員	fbwy
 放不下	fbx
 追新	fbxb
 追星	fbxg
@@ -22199,6 +22254,7 @@ use_preset_vocabulary: false
 遮擋	fedp
 這檔	fedpo
 這等	fedr
+折凳	fedri
 浙大	feds
 這段	fedt
 折斷	fedti
@@ -23242,6 +23298,7 @@ use_preset_vocabulary: false
 中國傳統	fgwti
 風光無限	fgwx
 中國文學	fgwxi
+分隔線	fgx
 中國現代	fgxd
 朝過夕改	fgxg
 發光二極管	fgxga
@@ -23354,6 +23411,7 @@ use_preset_vocabulary: false
 中華民族	fhmzi
 宅男	fhnf
 宅女	fhnl
+緋紅女巫	fhnw
 發貨票	fhp
 窄頻	fhpb
 摘評	fhpg
@@ -23558,6 +23616,7 @@ use_preset_vocabulary: false
 俯身	fjeni
 這就是	fjeo
 福建省	fjeoa
+這件事	fjeoi
 方程式	fjeou
 附上	fjep
 浮上	fjepa
@@ -24466,8 +24525,10 @@ use_preset_vocabulary: false
 製劑	fkjku
 直擊	fkjkuv
 至極	fkjkv
+職級	fkjkva
 之舉	fkjl
 之巨	fkjlo
+支局	fkjlu
 之間	fkjm
 指尖	fkjmi
 指間	fkjmio
@@ -25223,6 +25284,7 @@ use_preset_vocabulary: false
 弗洛伊德	flyda
 桌遊	flydi
 佛爺	flye
+芝蘭玉樹	flyei
 風流韻事	flyeu
 著眼	flyf
 翻了一番	flyfu
@@ -25264,6 +25326,7 @@ use_preset_vocabulary: false
 分門別類	fmblu
 分秒必爭	fmbq
 鋒芒逼人	fmbr
+捉摸不透	fmbt
 執迷不悟	fmbw
 裝備	fmbwa
 裝包	fmbz
@@ -25328,7 +25391,7 @@ use_preset_vocabulary: false
 這麼重要	fmfy
 莊重	fmfyi
 父母官	fmg
-莊貴	fmgb
+撞鬼	fmgb
 壯歌	fmge
 裝怪	fmgg
 芝麻官	fmgi
@@ -26112,6 +26175,7 @@ use_preset_vocabulary: false
 放槍	fpqx
 仿照	fpqz
 製片人	fpr
+紙片人	fpra
 放熱	fpre
 放入	fprj
 仿如	fprji
@@ -26389,6 +26453,7 @@ use_preset_vocabulary: false
 抓小	fqxc
 付諸行動	fqxd
 執政興國	fqxg
+蜘蛛俠	fqxi
 爪兒	fqxj
 抓細	fqxk
 抓先	fqxm
@@ -27580,6 +27645,7 @@ use_preset_vocabulary: false
 菲酌	fwfl
 服務質量	fwflu
 肥壯	fwfm
+復仇者聯盟	fwfmu
 非分	fwfn
 範圍之內	fwfnu
 非方	fwfp
@@ -27588,11 +27654,11 @@ use_preset_vocabulary: false
 廢渣	fwfso
 飛轉	fwft
 服務費	fwfu
-霏霏	fwfw
+肥肥	fwfw
 飛飛	fwfwa
 非池中物	fwfwi
 狒狒	fwfwu
-肥肥	fwfwuu
+霏霏	fwfwv
 肥壯	fwfx
 服務中心	fwfxu
 債務國	fwg
@@ -27810,6 +27876,7 @@ use_preset_vocabulary: false
 飛蛾	fwxe
 非按	fwxf
 訪問學者	fwxfo
+廢案	fwxfoo
 飛行	fwxg
 飛雪	fwxh
 肺癌	fwxhu
@@ -27950,7 +28017,7 @@ use_preset_vocabulary: false
 裝裝	fxfx
 莊重	fxfy
 方向感	fxg
-莊貴	fxgb
+撞鬼	fxgb
 壯歌	fxge
 裝怪	fxgg
 忠心耿耿	fxggi
@@ -28216,6 +28283,7 @@ use_preset_vocabulary: false
 婦幼保健院	fyby
 中報	fybz
 這一輩子	fybzo
+重寶	fybzu
 這一次	fyc
 飛燕草	fyca
 中冊	fyce
@@ -28363,6 +28431,7 @@ use_preset_vocabulary: false
 重要方面	fyfmu
 中分	fyfn
 這一種	fyfo
+複印紙	fyfou
 中方	fyfp
 招搖撞騙	fyfpi
 中鋒	fyfr
@@ -29274,8 +29343,8 @@ use_preset_vocabulary: false
 櫃上	gbep
 更別說	gbev
 更不是	gbevv
-趕不上	gbevvi
 根本上	gbevvi
+趕不上	gbevvi
 歸順	gbew
 貴霜	gbex
 各部分	gbf
@@ -29940,6 +30009,7 @@ use_preset_vocabulary: false
 格殺	gees
 個啥	geesi
 鬼使神差	geew
+工時費	gef
 各州	gefd
 隔著	gefe
 歌者	gefev
@@ -30011,6 +30081,7 @@ use_preset_vocabulary: false
 隔成	gejr
 各家	gejs
 各卷	gejt
+古事記	geju
 工商界	gejv
 各軍	gejw
 宮商角徵羽	gejy
@@ -30020,6 +30091,7 @@ use_preset_vocabulary: false
 各口	gekd
 各科	geke
 隔開	gekh
+割開	gekho
 歌庫	gekj
 各礦	gekm
 各款	gekt
@@ -30082,6 +30154,7 @@ use_preset_vocabulary: false
 格片	gepm
 故事片	gepu
 各配	gepw
+搞事情	geq
 割切	geqd
 隔著	geqe
 歌者	geqev
@@ -30613,6 +30686,7 @@ use_preset_vocabulary: false
 呱呱墜地	ggfd
 各個方面	ggfm
 改革發展	ggfq
+怪風	ggfr
 公共服務	ggfw
 怪招	ggfz
 功高蓋世	ggge
@@ -30656,6 +30730,7 @@ use_preset_vocabulary: false
 改革開放	ggkf
 改革開放以後	ggkh
 改革開放以來	ggkl
+狗管理	ggl
 國共兩黨	ggld
 怪了	ggle
 滾瓜爛熟	gglea
@@ -31287,7 +31362,6 @@ use_preset_vocabulary: false
 古藺	gjlb
 骨料	gjlc
 孤陋	gjld
-孤陋	gjlda
 骨裂	gjldi
 各級領導	gjldu
 鼓樓	gjldv
@@ -31513,6 +31587,7 @@ use_preset_vocabulary: false
 孤影	gjyg
 鼓樂	gjyh
 故意	gjyk
+古一	gjyku
 古語	gjyl
 宮頸炎	gjyo
 固陽	gjyp
@@ -32096,6 +32171,7 @@ use_preset_vocabulary: false
 光幕	gmmj
 廣漠	gmml
 光面	gmmm
+光門	gmmn
 光芒	gmmp
 廣袤	gmmz
 光貓	gmmzi
@@ -32166,6 +32242,7 @@ use_preset_vocabulary: false
 哥們兒	gmx
 光效	gmxc
 光耦	gmxd
+刮目相待	gmxdu
 廣安	gmxf
 廣興	gmxg
 光學	gmxh
@@ -32397,6 +32474,7 @@ use_preset_vocabulary: false
 槓桿	gpgf
 剛改	gpgh
 港股	gpgj
+鋼骨	gpgji
 剛果	gpgl
 剛過	gpgli
 剛跟	gpgn
@@ -32658,6 +32736,7 @@ use_preset_vocabulary: false
 掛勁	gqjb
 掛角	gqjc
 掛接	gqjd
+寡姐	gqjdo
 掛車	gqje
 刮鏟	gqjf
 刮淨	gqjg
@@ -32781,6 +32860,7 @@ use_preset_vocabulary: false
 掛在	gqzh
 掛載	gqzhi
 瓜子	gqzk
+褂子	gqzko
 更別	grbd
 耿餅	grbg
 更白	grbh
@@ -33343,6 +33423,7 @@ use_preset_vocabulary: false
 慣性	gtxg
 關愛	gtxh
 官學	gtxho
+鋼鐵俠	gtxi
 官兒	gtxj
 關係	gtxk
 冠希	gtxko
@@ -33729,6 +33810,7 @@ use_preset_vocabulary: false
 光幕	gxmj
 廣漠	gxml
 光面	gxmm
+光門	gxmn
 光芒	gxmp
 關係密切	gxmq
 廣袤	gxmz
@@ -34523,6 +34605,7 @@ use_preset_vocabulary: false
 高見	gzjmo
 高唱	gzjp
 高就	gzjq
+故作堅強	gzjqu
 搞成	gzjr
 藁城	gzjri
 高程	gzjro
@@ -35553,8 +35636,9 @@ use_preset_vocabulary: false
 後庭	hdtg
 很大提高	hdtgu
 後臺	hdth
-厚土	hdtj
+厚塗	hdtj
 後凸	hdtju
+厚土	hdtjv
 後天	hdtm
 後臀	hdtw
 後同	hdty
@@ -35724,6 +35808,7 @@ use_preset_vocabulary: false
 渾身上下	heex
 含沙射影	heey
 婚紗照	hef
+紅手指	hefa
 喝粥	hefd
 喝著	hefe
 合著	hefei
@@ -36039,6 +36124,7 @@ use_preset_vocabulary: false
 荷葉	heye
 閤眼	heyf
 還是一種	heyfi
+核驗	heyfv
 合影	heyg
 合營	heygi
 還是一個	heygio
@@ -36059,6 +36145,7 @@ use_preset_vocabulary: false
 河源	heyta
 核試驗	heyv
 還是因為	heyw
+喝暈	heywo
 何用	heyy
 合用	heyyi
 還是一樣	heyyio
@@ -36268,6 +36355,7 @@ use_preset_vocabulary: false
 寒梅	hfmw
 汗毛	hfmz
 寒毛	hfmzo
+黃蜂女	hfn
 寒瘧	hfnh
 含怒	hfnj
 漢娜	hfns
@@ -36335,6 +36423,7 @@ use_preset_vocabulary: false
 劃分為	hfw
 汗臭	hfwd
 翰澈	hfwe
+毫髮無傷	hfweo
 漢武	hfwj
 酣臥	hfwl
 寒窗	hfwm
@@ -36445,9 +36534,10 @@ use_preset_vocabulary: false
 懷沙	hges
 湖光山色	hgesa
 後果是	hgeu
-華國鋒	hgf
+黑寡婦	hgf
 懷著	hgfe
 迴光返照	hgff
+華國鋒	hgfi
 迴光返照	hgfq
 懷中	hgfy
 後顧之憂	hgfyu
@@ -37005,6 +37095,7 @@ use_preset_vocabulary: false
 橫加指責	hjfzv
 很成功	hjg
 好幾個	hjga
+活見鬼	hjgai
 互購	hjgd
 虎哥	hjge
 胡歌	hjgeu
@@ -37096,6 +37187,7 @@ use_preset_vocabulary: false
 忽略	hjlh
 胡來	hjlhu
 含金量	hjli
+黑加侖	hjlia
 葫蘆	hjlj
 呼嚕	hjljo
 狐狸	hjlk
@@ -37317,6 +37409,7 @@ use_preset_vocabulary: false
 黑科技	hkj
 橫空出世	hkje
 劃框框	hkk
+何苦來哉	hklz
 航空母艦	hkmj
 很可能	hkn
 很可能是	hkne
@@ -38122,6 +38215,7 @@ use_preset_vocabulary: false
 狠如	hnrj
 很弱	hnrl
 恨人	hnrn
+狠人	hnrnu
 很軟	hnrt
 很俗	hnsj
 恨死	hnsk
@@ -38561,6 +38655,7 @@ use_preset_vocabulary: false
 花麻	hqms
 華美	hqmw
 畫眉	hqmwa
+黑漆抹烏	hqmwi
 話梅	hqmwo
 魂牽夢縈	hqmy
 花貓	hqmz
@@ -38589,6 +38684,7 @@ use_preset_vocabulary: false
 核戰爭	hqq
 華僑	hqqc
 花巧	hqqci
+花俏	hqqcii
 畫著	hqqe
 畫展	hqqf
 劃清	hqqg
@@ -38621,6 +38717,7 @@ use_preset_vocabulary: false
 華容	hqryio
 花色	hqse
 花絲	hqsk
+花灑	hqss
 划算	hqst
 核潛艇	hqt
 滑頭	hqtd
@@ -38813,6 +38910,7 @@ use_preset_vocabulary: false
 桁架	hrjsv
 恆春	hrjw
 橫江	hrjx
+好人卡	hrk
 恆口	hrkd
 亨克	hrke
 橫看	hrkf
@@ -39864,6 +39962,7 @@ use_preset_vocabulary: false
 很顯然	hxru
 黃蓉	hxry
 惶擾	hxrz
+花心思	hxs
 黃色	hxse
 黃素	hxsj
 黃絲	hxsk
@@ -40283,6 +40382,7 @@ use_preset_vocabulary: false
 還有一個	hyygiv
 黑黝黝	hyyi
 紅衣	hyyk
+弘毅	hyyka
 紅玉	hyyl
 紅顏易老	hyyla
 弘揚	hyyp
@@ -40313,6 +40413,7 @@ use_preset_vocabulary: false
 好比	hzbk
 浩博	hzbl
 好辯	hzbm
+薅資本主義羊毛	hzbmi
 好棒	hzbp
 好吧	hzbs
 好報	hzbz
@@ -40480,6 +40581,7 @@ use_preset_vocabulary: false
 好虧	hzkb
 好摳	hzkd
 好客	hzke
+浩克	hzkea
 毫克	hzkeo
 好看	hzkf
 好快	hzkg
@@ -41017,6 +41119,7 @@ use_preset_vocabulary: false
 儲備糧	jbl
 出不來	jbla
 近鄰	jblb
+金鱗	jblbi
 緊鄰	jblbv
 進料	jblc
 禁獵	jbld
@@ -41102,6 +41205,7 @@ use_preset_vocabulary: false
 見不著	jbqi
 警備區	jbqii
 撐不住	jbqiv
+進不去	jbqivv
 進駐	jbqj
 精兵強將	jbqjo
 近期	jbqk
@@ -41190,7 +41294,7 @@ use_preset_vocabulary: false
 今晚	jbwf
 近萬	jbwfu
 久別重逢	jbwfuo
-工程	jbwj
+985工程	jbwj
 金屋	jbwji
 進屋	jbwjia
 據不完全統計	jbwjiv
@@ -41276,6 +41380,7 @@ use_preset_vocabulary: false
 緊要	jbyz
 緊咬	jbyzv
 基本原則	jbyzvv
+緊走	jbzd
 盡責	jbze
 飢不擇食	jbzei
 金簪	jbzf
@@ -41360,8 +41465,8 @@ use_preset_vocabulary: false
 叫誰	jceboo
 教授	jced
 叫獸	jcedo
-交手	jcedoi
 交售	jcedoi
+交手	jcedoi
 腳手	jcedu
 交涉	jcee
 儲藏室	jcei
@@ -42264,6 +42369,7 @@ use_preset_vocabulary: false
 鑑定完畢	jdwb
 結仇	jdwd
 機動車道	jdwdv
+絕地武士	jdwe
 界外	jdwh
 據調查	jdwi
 皆無	jdwj
@@ -42345,6 +42451,7 @@ use_preset_vocabulary: false
 結義	jdyka
 藉以	jdyki
 解疑	jdyku
+解譯	jdykuo
 皆以	jdykv
 介於	jdyl
 結語	jdyla
@@ -42586,6 +42693,7 @@ use_preset_vocabulary: false
 出生率	jelau
 車列	jeld
 車裂	jeldv
+聚少離多	jeldvi
 撤了	jele
 就事論事	jeleo
 車齡	jelg
@@ -42641,6 +42749,7 @@ use_preset_vocabulary: false
 技術培訓	jepx
 計時器	jeq
 駕駛證	jeqa
+淨水器	jeqaa
 就是真的	jeqd
 就是這樣的	jeqdo
 扯著	jeqe
@@ -43141,6 +43250,7 @@ use_preset_vocabulary: false
 靜水	jgebv
 經受	jged
 經手	jgeda
+精瘦	jgedo
 勁射	jgee
 金光閃閃	jgeei
 靖國神社	jgeeo
@@ -43341,7 +43451,8 @@ use_preset_vocabulary: false
 井欄	jglf
 精靈	jglg
 見慣了	jgli
-進光量	jglii
+金剛狼	jglii
+進光量	jgliio
 經歷	jglk
 經理	jglka
 淨利	jglkau
@@ -43375,6 +43486,7 @@ use_preset_vocabulary: false
 出國旅遊	jglyai
 敬老	jglz
 舉個例子	jglzv
+舉個栗子	jglzvi
 見過面	jgm
 警民	jgmb
 精妙	jgmc
@@ -43711,6 +43823,7 @@ use_preset_vocabulary: false
 絕好	jhhz
 救護車	jhj
 掘進	jhjb
+掘金	jhjbi
 機會成本	jhjbv
 絕交	jhjc
 拆借	jhjd
@@ -44446,7 +44559,8 @@ use_preset_vocabulary: false
 解決問題	jjwt
 經濟問題	jjwta
 積極穩妥	jjwtu
-出位	jjww
+廚衛	jjww
+出位	jjwwa
 顫顫巍巍	jjwwo
 唧唧歪歪	jjwwoo
 櫥窗	jjwx
@@ -44837,6 +44951,7 @@ use_preset_vocabulary: false
 極壞	jkhg
 繼海	jkhh
 幾乎	jkhj
+急呼	jkhju
 激活	jkhl
 饑荒	jkhm
 記恨	jkhn
@@ -45419,6 +45534,7 @@ use_preset_vocabulary: false
 句點	jldmu
 巨大	jlds
 鋸斷	jldt
+夾鏈帶	jldv
 吉林大學	jldx
 舉動	jldy
 聚到	jldz
@@ -45442,6 +45558,7 @@ use_preset_vocabulary: false
 巨爽	jlem
 巨深	jlen
 居上	jlep
+舉上	jlepv
 據省	jler
 狙殺	jles
 吉林市	jlev
@@ -45494,6 +45611,7 @@ use_preset_vocabulary: false
 建立後	jlha
 結了婚	jlhaa
 聚會	jlhb
+鉅惠	jlhbi
 聚合	jlhe
 巨漢	jlhf
 橘黃	jlhm
@@ -47006,6 +47124,7 @@ use_preset_vocabulary: false
 酒店	jqdm
 九點	jqdmu
 精確度	jqdo
+驚奇隊長	jqdq
 久等	jqdr
 就斷	jqdt
 就短	jqdto
@@ -47072,6 +47191,7 @@ use_preset_vocabulary: false
 競爭中	jqfou
 京政發	jqfov
 舊房	jqfp
+精準扶貧	jqfpo
 長期發展	jqfq
 酒瘋	jqfr
 糾風	jqfra
@@ -47267,6 +47387,7 @@ use_preset_vocabulary: false
 鳩佔鵲巢	jqqju
 救主	jqqjv
 酒氣	jqqk
+酒器	jqqka
 就其	jqqko
 究其	jqqkov
 救起	jqqkv
@@ -47967,6 +48088,7 @@ use_preset_vocabulary: false
 夾回	jshb
 加厚	jshd
 家和	jshe
+甲賀	jshei
 嘉禾	jshev
 嫁漢	jshf
 加害	jshh
@@ -48267,6 +48389,7 @@ use_preset_vocabulary: false
 卷大	jtds
 交通大學	jtdx
 捲動	jtdy
+九頭蛇	jte
 捐稅	jteb
 腳踏實地	jted
 捲舌	jtee
@@ -48288,10 +48411,12 @@ use_preset_vocabulary: false
 借題發揮	jtfh
 幾天之後	jtfha
 卷腹	jtfj
+卷福	jtfjo
 捲紙	jtfk
 家庭狀況	jtfko
 卷分	jtfn
 家庭婦女	jtfno
+剪頭髮	jtfo
 絹紡	jtfp
 出頭之日	jtfr
 捲髮	jtfs
@@ -48339,7 +48464,9 @@ use_preset_vocabulary: false
 家庭成員	jtjyo
 眷口	jtkd
 鐫刻	jtke
+狷狂	jtkm
 捐款	jtkt
+狷狂	jtkx
 景泰藍	jtl
 出臺了	jtla
 幾天來	jtlav
@@ -48432,6 +48559,7 @@ use_preset_vocabulary: false
 長嘆一聲	jtyei
 捲菸	jtyf
 交通銀行	jtyh
+金田一	jtyi
 腳痛醫腳	jtyj
 倦意	jtyk
 金童玉女	jtyn
@@ -48774,6 +48902,7 @@ use_preset_vocabulary: false
 純賽	jwsh
 菌絲	jwsk
 春思	jwskv
+蠢死	jwskvv
 醇酸	jwst
 春筍	jwsw
 軍嫂	jwsz
@@ -48993,6 +49122,7 @@ use_preset_vocabulary: false
 降幅	jxfj
 降至	jxfk
 將至	jxfka
+醬汁	jxfkaa
 僵直	jxfki
 講桌	jxfl
 城下之盟	jxfm
@@ -49940,6 +50070,7 @@ use_preset_vocabulary: false
 潰膿	kbny
 恐怖片	kbp
 虧盤	kbpf
+窺屏	kbpg
 窺破	kbpl
 看不起	kbq
 葵青	kbqg
@@ -50139,6 +50270,7 @@ use_preset_vocabulary: false
 口內	kdnw
 擴大內需	kdnx
 扣襻	kdpf
+口癖	kdpk
 空地戰	kdq
 口琴	kdqb
 誇大其詞	kdqc
@@ -50997,6 +51129,7 @@ use_preset_vocabulary: false
 快訊	kgxw
 快像	kgxx
 快飲	kgyb
+快銀	kgybo
 快遊	kgyd
 快言	kgyf
 快硬	kgyg
@@ -51423,8 +51556,8 @@ use_preset_vocabulary: false
 口出狂言	kjky
 酷極了	kjl
 褲料	kjlc
-酷烈	kjld
-骷髏	kjldi
+骷髏	kjld
+酷烈	kjldv
 哭了	kjle
 苦了	kjlei
 苦樂	kjleiu
@@ -51927,7 +52060,7 @@ use_preset_vocabulary: false
 炕梢	kpez
 扛著	kpfe
 康復	kpfj
-康志	kpfk
+抗旨	kpfk
 炕桌	kpfl
 康莊	kpfm
 亢奮	kpfn
@@ -52362,6 +52495,8 @@ use_preset_vocabulary: false
 困獸	kwedi
 崑山	kwef
 坤樞	kwej
+昆式	kwek
+課外書	kweo
 坤勝	kwer
 礦物質	kwf
 捆著	kwfe
@@ -53175,6 +53310,7 @@ use_preset_vocabulary: false
 臨產	lbjf
 林產	lbjfv
 鄰境	lbjg
+林徑	lbjgv
 鄰居	lbjl
 來不及了	lbjlv
 林間	lbjm
@@ -53759,6 +53895,7 @@ use_preset_vocabulary: false
 老調重彈	ldwtu
 列為	ldww
 流動性	ldx
+綠燈俠	ldxa
 漏芯	ldxb
 漏洩	ldxd
 來電顯示	ldxe
@@ -53918,6 +54055,7 @@ use_preset_vocabulary: false
 勒芒	lemp
 了嗎	lems
 了嘛	lemsa
+勒馬	lemsv
 李世民	lemv
 六十年代	lend
 了呢	lene
@@ -54182,6 +54320,7 @@ use_preset_vocabulary: false
 攔網	lfwp
 濫挖	lfws
 闌尾	lfww
+爛尾	lfwwo
 懶蟲	lfwy
 羅志祥	lfx
 蘭新	lfxb
@@ -54368,7 +54507,7 @@ use_preset_vocabulary: false
 鈴木	lgmji
 另覓	lgmk
 陵門	lgmn
-令夢	lgmr
+靈夢	lgmr
 令妹	lgmw
 靈貓	lgmz
 令您	lgnb
@@ -54652,7 +54791,6 @@ use_preset_vocabulary: false
 來啦	lhlsv
 老黃曆	lhlu
 臉紅了	lhlua
-臉紅了	lhluaa
 略論	lhlw
 來輛	lhlx
 來龍	lhly
@@ -55006,6 +55144,7 @@ use_preset_vocabulary: false
 顱腔	ljqx
 利己主義	ljqy
 梁靜茹	ljr
+綠巨人	ljra
 鹿肉	ljrd
 滷肉	ljrda
 冷嘲熱諷	ljrf
@@ -55053,6 +55192,7 @@ use_preset_vocabulary: false
 蘆葦	ljww
 爐床	ljwx
 邏輯性	ljx
+綠箭俠	ljxa
 露信	ljxb
 陸校	ljxc
 落井下石	ljxe
@@ -55370,7 +55510,8 @@ use_preset_vocabulary: false
 離奇	lkqko
 離棄	lkqkov
 立起	lkqkov
-利器	lkqku
+戾氣	lkqku
+利器	lkqkuo
 離去	lkql
 裡去	lkqlo
 黎鎮	lkqn
@@ -55692,11 +55833,14 @@ use_preset_vocabulary: false
 寥寥幾句	lljjo
 理論基礎	lljjv
 邏輯	lljk
+洛基	lljka
 律己	lljku
 旅居	lljl
 屢見	lljm
+綠箭	lljma
 縷陳	lljn
 鋁廠	lljp
+羅裳	lljpi
 旅程	lljr
 綠城	lljra
 落成	lljri
@@ -55964,6 +56108,7 @@ use_preset_vocabulary: false
 羅曼史	lmei
 臉熟	lmej
 六脈神劍	lmejo
+連署	lmejv
 鏈式	lmek
 連說	lmel
 聯審	lmen
@@ -56745,6 +56890,7 @@ use_preset_vocabulary: false
 留足	lqzj
 留作	lqzl
 良禽擇木	lqzm
+良禽擇木而棲	lqzq
 劉纘	lqzt
 留賊	lqzw
 劉總	lqzy
@@ -56981,6 +57127,7 @@ use_preset_vocabulary: false
 拉車	lsjei
 拉出	lsjj
 垃圾	lsjk
+辣雞	lsjko
 拉鋸	lsjl
 拉抻	lsjn
 拉長	lsjp
@@ -57347,6 +57494,7 @@ use_preset_vocabulary: false
 亂頁	ltye
 亂演	ltyf
 亂贏	ltyg
+領頭羊	ltyi
 卵翼	ltyk
 亂呀	ltys
 亂怨	ltyt
@@ -57530,7 +57678,6 @@ use_preset_vocabulary: false
 淪沒	lwml
 肋膜	lwmlu
 雷蒙	lwmr
-勒馬	lwms
 雷鳥	lwnc
 耒耨	lwnd
 論難	lwnf
@@ -58791,6 +58938,7 @@ use_preset_vocabulary: false
 默伯桑	mbs
 面壁思過	mbsg
 民俗	mbsj
+民宿	mbsja
 敏思	mbsk
 摸不透	mbt
 民庭	mbtg
@@ -58847,6 +58995,7 @@ use_preset_vocabulary: false
 妙道	mcdz
 苗刀	mcdzi
 妙手	mced
+秒射	mcee
 描述	mcej
 藐視	mcek
 瞄上	mcep
@@ -58871,6 +59020,7 @@ use_preset_vocabulary: false
 描畫	mchq
 描紅	mchy
 描金	mcjb
+秒進	mcjbu
 廟街	mcjd
 妙經	mcjg
 妙訣	mcjh
@@ -58898,6 +59048,8 @@ use_preset_vocabulary: false
 秒內	mcnw
 買彩票	mcp
 妙品	mcpb
+秒拍	mcph
+秒排	mcphu
 苗圃	mcpj
 瞄著	mcqe
 苗情	mcqg
@@ -58928,7 +59080,8 @@ use_preset_vocabulary: false
 苗細	mcxk
 描敘	mcxl
 苗繡	mcxq
-廟下	mcxs
+妙啊	mcxs
+廟下	mcxso
 苗鄉	mcxx
 瞄向	mcxxi
 妙言	mcyf
@@ -58946,6 +59099,7 @@ use_preset_vocabulary: false
 磨刀不誤砍柴工	mdbg
 某部	mdbj
 謀變	mdbm
+滅霸	mdbs
 謀財	mdch
 某次	mdck
 某村	mdcw
@@ -59430,6 +59584,7 @@ use_preset_vocabulary: false
 名店	mgdm
 明黨	mgdp
 目光短淺	mgdq
+美國隊長	mgdqo
 明燈	mgdr
 命大	mgds
 明達	mgdso
@@ -60076,6 +60231,7 @@ use_preset_vocabulary: false
 募款	mjkt
 木框	mjkx
 孟加拉	mjl
+沒救了	mjla
 睦鄰	mjlb
 木料	mjlc
 幕僚	mjlci
@@ -60262,6 +60418,7 @@ use_preset_vocabulary: false
 密實	mkeko
 祕史	mkekoi
 密室	mkekoo
+密事	mkekov
 覓食	mkeku
 米深	mken
 迷上	mkep
@@ -60695,6 +60852,7 @@ use_preset_vocabulary: false
 墨竹	mlqj
 莫屬	mlqji
 默契	mlqk
+抹起	mlqki
 末期	mlqkv
 万俟	mlqkvi
 抹去	mlql
@@ -60702,6 +60860,7 @@ use_preset_vocabulary: false
 名列前茅	mlqm
 魔針	mlqn
 魔掌	mlqp
+魔障	mlqpo
 末球	mlqq
 毛里求斯	mlqs
 賣力氣	mlqv
@@ -60784,6 +60943,7 @@ use_preset_vocabulary: false
 默許	mlxl
 莫須	mlxli
 墨線	mlxm
+昧良心	mlxo
 摸瞎	mlxs
 模向	mlxx
 抹胸	mlxy
@@ -61158,6 +61318,7 @@ use_preset_vocabulary: false
 摩納哥	mng
 門拐	mngg
 門槓	mngp
+門崗	mngpo
 門館	mngt
 悶棍	mngw
 木訥寡言	mngy
@@ -61639,6 +61800,7 @@ use_preset_vocabulary: false
 蒙在	mrzh
 蒙族	mrzj
 孟子	mrzk
+猛子	mrzku
 猛增	mrzr
 猛砸	mrzs
 猛鑽	mrzt
@@ -61929,6 +62091,7 @@ use_preset_vocabulary: false
 美特斯邦威	mtsw
 慢吞吞	mtt
 馬桶臺	mtti
+慢騰騰	mtto
 摩托車	mtw
 明天晚上	mtwe
 每天晚上	mtweu
@@ -61971,6 +62134,7 @@ use_preset_vocabulary: false
 每寸	mwcw
 沒從	mwcy
 沒對	mwdb
+美隊	mwdbo
 沒調	mwdc
 美德	mwde
 妹的	mwdea
@@ -62301,6 +62465,7 @@ use_preset_vocabulary: false
 美鈔	mwwz
 眉心	mwxb
 沒心	mwxba
+昧心	mwxbo
 媚笑	mwxc
 沒謝	mwxd
 美歐	mwxdo
@@ -62565,8 +62730,7 @@ use_preset_vocabulary: false
 每一天	myt
 沒有聽見	mytj
 蜜櫻桃	myto
-每一天	mytu
-麥芽糖	mytui
+麥芽糖	mytu
 某一天	mytv
 名揚天下	mytx
 民用船	myw
@@ -62749,6 +62913,7 @@ use_preset_vocabulary: false
 毛皮	mzpk
 毛坯	mzpku
 毛片	mzpm
+貓片	mzpmu
 毛滂	mzpp
 茅棚	mzpr
 冒泡	mzpz
@@ -63099,6 +63264,7 @@ use_preset_vocabulary: false
 你說的	ned
 那時的	neda
 那是多麼	nedm
+逆閃電	nedo
 那是當然	nedr
 你是誰	nee
 那是什麼	neem
@@ -63342,6 +63508,7 @@ use_preset_vocabulary: false
 南平	nfpg
 難平	nfpgv
 男排	nfph
+南派	nfphu
 男僕	nfpj
 南皮	nfpk
 南坡	nfpl
@@ -63815,6 +63982,7 @@ use_preset_vocabulary: false
 駑駘	njth
 怒濤	njtz
 怒斥	njwk
+難及萬一	njwy
 怒潮	njwz
 奴性	njxg
 駑下	njxs
@@ -64259,8 +64427,8 @@ use_preset_vocabulary: false
 你們的	nmd
 那麼的	nmda
 那麼地	nmdao
-那麼短	nmdaou
 那麼多	nmdaou
+那麼短	nmdaou
 那麼大	nmdaov
 那麼多次	nmdc
 那麼多的	nmdd
@@ -64587,6 +64755,7 @@ use_preset_vocabulary: false
 扭得	nqde
 牛蛋	nqdf
 紐帶	nqdh
+你確定	nqdi
 牛犢	nqdj
 能者多勞	nqdl
 扭打	nqds
@@ -65081,6 +65250,7 @@ use_preset_vocabulary: false
 那組	nszj
 那座	nszl
 女同胞	ntb
+納頭便拜	ntbb
 男同胞	ntbi
 牛頭不對馬嘴	ntbz
 暖調	ntdc
@@ -65236,6 +65406,7 @@ use_preset_vocabulary: false
 內眷	nwjt
 內江	nwjx
 內愧	nwkb
+內窺	nwkbi
 內科	nwke
 內刊	nwkf
 內褲	nwkj
@@ -65696,6 +65867,7 @@ use_preset_vocabulary: false
 腦勺	nzez
 硇州	nzfd
 鬧著	nzfe
+撓著	nzfei
 鬧翻	nzff
 腦質	nzfk
 鬧房	nzfp
@@ -65828,6 +66000,7 @@ use_preset_vocabulary: false
 聘書	pbej
 頻數	pbeji
 頻數	pbel
+怕不是	pbeo
 拼上	pbep
 頻生	pber
 拼殺	pbes
@@ -66975,6 +67148,7 @@ use_preset_vocabulary: false
 皮草	pkcz
 批鬥	pkdd
 批的	pkde
+屁的	pkdea
 皮蛋	pkdf
 皮帶	pkdh
 披讀	pkdj
@@ -66995,6 +67169,7 @@ use_preset_vocabulary: false
 砒霜	pkem
 披上	pkep
 皮繩	pker
+劈殺	pkes
 砒霜	pkex
 脾州	pkfd
 披著	pkfe
@@ -67609,6 +67784,7 @@ use_preset_vocabulary: false
 旁側	ppce
 胖次	ppck
 平平淡淡	ppdd
+拍拍打打	ppddi
 旁的	ppde
 旁貸	ppdh
 龐大	ppds
@@ -68314,6 +68490,7 @@ use_preset_vocabulary: false
 拋射	pzee
 炮身	pzen
 跑上	pzep
+跑商	pzepo
 炮聲	pzer
 跑著	pzfe
 泡著	pzfea
@@ -69038,12 +69215,14 @@ use_preset_vocabulary: false
 真的嗎	qdmu
 且沒	qdmw
 真的沒有	qdmy
+戰鬥民族	qdmz
 正當年	qdn
 迦南	qdnf
 切尼	qdnk
 怯懦	qdnl
 齊達內	qdno
 且能	qdnr
+啟動盤	qdp
 切盼	qdpf
 切迫	qdpl
 切片	qdpm
@@ -69180,6 +69359,7 @@ use_preset_vocabulary: false
 遮擋	qedp
 這檔	qedpo
 這等	qedr
+折凳	qedri
 浙大	qeds
 折斷	qedt
 這段	qedto
@@ -69361,6 +69541,7 @@ use_preset_vocabulary: false
 欺上瞞下	qemx
 其實沒有	qemy
 確實沒有	qemyv
+秦時明月	qemyvo
 青少年	qen
 七十年代	qend
 著呢	qene
@@ -70793,6 +70974,7 @@ use_preset_vocabulary: false
 鑄錯	qjcl
 貯藏	qjcp
 貯存	qjcw
+駐村	qjcwi
 主從	qjcy
 主槽	qjcz
 千斤頂	qjd
@@ -71200,6 +71382,7 @@ use_preset_vocabulary: false
 豬心	qjxb
 註銷	qjxc
 住校	qjxci
+助銷	qjxcii
 逐謝	qjxd
 折節下士	qjxe
 助興	qjxg
@@ -71265,8 +71448,8 @@ use_preset_vocabulary: false
 主要	qjyz
 住嘴	qjzb
 逐走	qjzd
-主宰	qjzh
-住在	qjzhi
+住在	qjzh
+主宰	qjzho
 豬仔	qjzhv
 駐足	qjzj
 珠子	qjzk
@@ -71448,7 +71631,8 @@ use_preset_vocabulary: false
 氣海	qkhh
 期貨	qkhl
 起火	qkhlv
-齊璜	qkhm
+歧黃	qkhm
+齊璜	qkhmo
 氣恨	qkhn
 啟航	qkhp
 起航	qkhpv
@@ -71461,7 +71645,8 @@ use_preset_vocabulary: false
 奇幻	qkht
 漆黑	qkhw
 氣昏	qkhwu
-齊璜	qkhx
+歧黃	qkhx
+齊璜	qkhxo
 起鬨	qkhy
 旗號	qkhz
 七號	qkhzv
@@ -71558,6 +71743,7 @@ use_preset_vocabulary: false
 淒冷	qklr
 齊拉	qkls
 逐客令	qklv
+區塊鏈	qklvv
 棋類	qklw
 汽輪	qklwa
 七輪	qklwv
@@ -71747,6 +71933,7 @@ use_preset_vocabulary: false
 奇秀	qkxq
 汽修	qkxqa
 旗下	qkxs
+棲霞	qkxsv
 氣旋	qkxt
 七旬	qkxw
 氣象	qkxx
@@ -72090,8 +72277,9 @@ use_preset_vocabulary: false
 去投	qltd
 趣談	qltf
 去臺	qlth
-取土	qltj
+牆裂推薦	qltj
 嶄露頭角	qltji
+取土	qltjv
 軀體	qltk
 去託	qltl
 去填	qltm
@@ -72760,6 +72948,7 @@ use_preset_vocabulary: false
 七年之癢	qnfyvu
 朕兆	qnfz
 珍貴	qngb
+真貴	qngbu
 真夠	qngd
 真格	qnge
 真個	qngeu
@@ -72794,6 +72983,7 @@ use_preset_vocabulary: false
 真好	qnhz
 七年級	qnj
 真金	qnjb
+枕巾	qnjbv
 陣腳	qnjc
 貞潔	qnjd
 貞節	qnjdi
@@ -73008,6 +73198,7 @@ use_preset_vocabulary: false
 遷怒於人	qnyr
 鎮壓	qnys
 震源	qnyt
+真元	qnytu
 真暈	qnyw
 真要	qnyz
 賑災	qnzh
@@ -73264,6 +73455,7 @@ use_preset_vocabulary: false
 掌灶	qpzz
 正準備	qqb
 清清白白	qqbb
+七七八八	qqbbv
 千奇百怪	qqbg
 求敗	qqbh
 瞿秋白	qqbi
@@ -73420,6 +73612,7 @@ use_preset_vocabulary: false
 主戰場	qqjo
 球場	qqjp
 求救	qqjq
+戰爭機器	qqjqo
 妻妾成群	qqjqv
 求成	qqjr
 證券交易所	qqjs
@@ -73427,6 +73620,7 @@ use_preset_vocabulary: false
 求降	qqjx
 證券交易	qqjy
 權錢交易	qqjyv
+謙謙君子	qqjz
 丘克	qqke
 求快	qqkg
 秋褲	qqkj
@@ -74136,6 +74330,7 @@ use_preset_vocabulary: false
 正態分佈	qtfb
 泉州	qtfd
 全副	qtfj
+蜷伏	qtfji
 全職	qtfk
 全脂	qtfki
 其他方面	qtfm
@@ -74498,6 +74693,7 @@ use_preset_vocabulary: false
 裙褲	qwkj
 準考	qwkz
 掌握了	qwl
+群聊	qwlc
 準了	qwle
 群嶺	qwlg
 準靈	qwlga
@@ -74573,6 +74769,7 @@ use_preset_vocabulary: false
 群藝	qwyk
 准予	qwyl
 爭創一流	qwylu
+群員	qwyt
 千萬元	qwyu
 掌握在	qwz
 准奏	qwzd
@@ -74761,6 +74958,7 @@ use_preset_vocabulary: false
 張學良	qxlau
 強鄰	qxlb
 強烈	qxld
+牆裂	qxlda
 搶了	qxle
 強令	qxlg
 搶掠	qxlh
@@ -74923,6 +75121,7 @@ use_preset_vocabulary: false
 千依百順	qybe
 這也不是	qybeo
 主要不是	qybeov
+奇異博士	qybev
 這一部分	qybf
 主要部分	qybfo
 窮兵	qybg
@@ -75064,6 +75263,7 @@ use_preset_vocabulary: false
 佔有量	qyliv
 穹廬	qylj
 窮理	qylk
+正義聯盟	qylm
 這一來	qylo
 牽引力	qyloa
 這一類	qylov
@@ -75504,10 +75704,10 @@ use_preset_vocabulary: false
 銳利	rblk
 銳敏	rbmb
 睿明	rbmg
-惹不起	rbq
-忍不住	rbqa
+忍不住	rbq
 睿哲	rbqe
 日本政府	rbqf
+惹不起	rbqi
 銳氣	rbqk
 瑞簽	rbqm
 人本主義	rbqy
@@ -75867,6 +76067,7 @@ use_preset_vocabulary: false
 熱輻射	rfe
 染手	rfed
 蚺蛇	rfee
+忍者神龜	rfeg
 然是	rfek
 染上	rfep
 人非聖賢	rfex
@@ -76620,7 +76821,8 @@ use_preset_vocabulary: false
 人民軍	rmj
 人民軍隊	rmjd
 人民出版社	rmje
-人民解放	rmjf
+如沐春風	rmjf
+人民解放	rmjfi
 人民解放軍	rmjj
 人民警察	rmjw
 如夢初醒	rmjx
@@ -77080,7 +77282,8 @@ use_preset_vocabulary: false
 仍想	rrxx
 仍有	rryd
 仍由	rrydi
-如人飲水	rrye
+人人影視	rrye
+如人飲水	rryea
 仍應	rryg
 榮辱與共	rrygo
 仍以	rryk
@@ -78404,6 +78607,7 @@ use_preset_vocabulary: false
 腮腺	shxm
 四合院	shy
 塞雁	shyf
+三會一課	shyk
 賽魚	shyl
 賽揚	shyp
 三合一	shyv
@@ -78607,6 +78811,7 @@ use_preset_vocabulary: false
 俗物	sjwj
 蘇武	sjwji
 素聞	sjwn
+素問	sjwnv
 夙望	sjwp
 宿仇	sjwq
 速查	sjws
@@ -78725,6 +78930,7 @@ use_preset_vocabulary: false
 四史	skeki
 私事	skeku
 死屍	skekv
+死侍	skekvi
 斯說	skel
 四雙	skem
 死神	sken
@@ -78845,6 +79051,7 @@ use_preset_vocabulary: false
 四成	skjr
 私家	skjs
 思春	skjw
+死蠢	skjwv
 四講	skjx
 思潮	skjz
 死扣	skkd
@@ -78899,6 +79106,7 @@ use_preset_vocabulary: false
 四米	skmk
 斯密	skmkv
 死磨	skml
+廝磨	skmlv
 四面	skmm
 似夢	skmr
 司馬	skms
@@ -79133,6 +79341,7 @@ use_preset_vocabulary: false
 鎖閂	slet
 酸辣粉	slf
 鎖著	slfe
+死靈之書	slfev
 所犯	slff
 索債	slfh
 所附	slfj
@@ -79222,6 +79431,7 @@ use_preset_vocabulary: false
 斯里蘭卡	sllkv
 所慮	slll
 鎖鏈	sllm
+賽璐路	sllo
 索朗	sllp
 賽璐璐片	sllpo
 所累	sllw
@@ -79321,6 +79531,7 @@ use_preset_vocabulary: false
 所繫	slxk
 所需	slxl
 所限	slxm
+思來想去	slxq
 所轄	slxs
 所選	slxt
 所想	slxx
@@ -79530,6 +79741,7 @@ use_preset_vocabulary: false
 三人行	srx
 僧鞋	srxd
 三人行，必有我師	srxe
+殺人越貨	sryh
 僧衣	sryk
 僧院	sryt
 隨隨便便	ssbb
@@ -79576,6 +79788,7 @@ use_preset_vocabulary: false
 撒賴	sslh
 灑利	sslk
 灑落	ssll
+絲絲縷縷	sslla
 三三兩兩	ssllv
 撒冷	sslr
 撒拉	ssls
@@ -79798,7 +80011,7 @@ use_preset_vocabulary: false
 蘇維埃	swx
 損血	swxh
 孫兒	swxj
-孫息	swxk
+孫媳	swxk
 孫婿	swxl
 算無遺策	swyc
 損友	swyd
@@ -80405,6 +80618,7 @@ use_preset_vocabulary: false
 推脫	tbtl
 推託	tbtli
 頹唐	tbtp
+停杯投箸	tbtq
 腿疼	tbtr
 退團	tbtt
 頭版頭條	tbttv
@@ -81007,6 +81221,7 @@ use_preset_vocabulary: false
 貼貼	tdtda
 鐵頭	tdtdi
 頭頭	tdtdv
+頭鐵	tdtdvi
 太多太多	tdtdvu
 偷聽	tdtg
 投胎	tdth
@@ -82995,6 +83210,7 @@ use_preset_vocabulary: false
 舔了舔	tlt
 拖腿	tltb
 妥帖	tltd
+攤了攤手	tlte
 脫碳	tltf
 脫胎	tlth
 捅了捅	tlti
@@ -84038,6 +84254,7 @@ use_preset_vocabulary: false
 淘汰出局	ttjja
 湍急	ttjk
 團聚	ttjl
+團建	ttjm
 團場	ttjp
 團課	ttke
 痛痛快快	ttkk
@@ -84051,6 +84268,7 @@ use_preset_vocabulary: false
 拖拖拉拉	ttll
 團練	ttlm
 湍流	ttlq
+桃太郎	ttlv
 榻榻米	ttm
 團滅	ttmd
 偷偷摸摸	ttmm
@@ -84208,6 +84426,7 @@ use_preset_vocabulary: false
 天下第一	txdy
 通訊社	txe
 貪小失大	txed
+騰訊視頻	txep
 陶行知	txf
 天下之大	txfd
 談笑風生	txfe
@@ -84267,6 +84486,7 @@ use_preset_vocabulary: false
 通訊網	txwao
 她希望	txwau
 天下無敵	txwd
+騰訊文檔	txwdu
 天下無雙	txwe
 天下為公	txwg
 天下烏鴉一般黑	txwh
@@ -84909,6 +85129,7 @@ use_preset_vocabulary: false
 投資人	tzr
 陶然	tzrf
 天災人禍	tzrh
+套入	tzrj
 桃仁	tzrn
 討人	tzrno
 討饒	tzrz
@@ -85168,6 +85389,7 @@ use_preset_vocabulary: false
 我錯了	wcl
 我操你媽	wcnm
 無從談起	wctq
+萬磁王	wcw
 無從下手	wcxe
 無從選擇	wcxz
 吃錯藥	wcy
@@ -85566,7 +85788,8 @@ use_preset_vocabulary: false
 為神馬	wemoo
 為甚麼	wemov
 車馬	wems
-烏紗帽	wemu
+衛生棉	wemu
+烏紗帽	wemua
 為什麼啊	wemx
 為什麼要	wemy
 為什麼有	wemyo
@@ -85832,6 +86055,7 @@ use_preset_vocabulary: false
 晚景	wfjg
 萬處	wfjj
 物質基礎	wfjju
+無法解決	wfjjua
 玩出	wfjjv
 頑疾	wfjk
 烷基	wfjko
@@ -86605,6 +86829,7 @@ use_preset_vocabulary: false
 物價指數	wjfeui
 武者	wjfev
 午飯	wjff
+無反	wjffu
 武夫	wjfj
 持久之計	wjfji
 刎頸之交	wjfju
@@ -86652,6 +86877,7 @@ use_preset_vocabulary: false
 無過	wjglui
 五國	wjglv
 無光	wjgm
+烏光	wjgmu
 無根	wjgn
 文件櫃	wjgo
 武鋼	wjgp
@@ -86663,6 +86889,7 @@ use_preset_vocabulary: false
 危機感	wjgu
 無光	wjgx
 外交關係	wjgxu
+烏光	wjgxui
 武功	wjgy
 務工	wjgya
 蜈蚣	wjgyi
@@ -87403,6 +87630,7 @@ use_preset_vocabulary: false
 吃油	wkydo
 外科醫生	wkye
 遲延	wkyf
+無可抑制	wkyfu
 吃硬	wkyg
 胃潰瘍	wkyi
 遲疑	wkyk
@@ -88620,6 +88848,7 @@ use_preset_vocabulary: false
 完全可以	wqky
 充其量	wql
 臭棋簍子	wqlz
+烏漆抹黑	wqmh
 溫情脈脈	wqmm
 完全沒有	wqmy
 五千年	wqn
@@ -88696,6 +88925,7 @@ use_preset_vocabulary: false
 文如其人	wrqr
 誤入歧途	wrqt
 惘然若失	wrre
+溫潤如玉	wrry
 穩如泰山	wrte
 翁塘	wrtp
 翁通	wrty
@@ -88834,8 +89064,8 @@ use_preset_vocabulary: false
 挖個	wsge
 蛙鼓	wsgj
 無所顧忌	wsgju
-瓦鍋	wsgl
-查過	wsglv
+查過	wsgl
+瓦鍋	wsglv
 挖根	wsgn
 查崗	wsgp
 哇嘎	wsgs
@@ -89369,6 +89599,7 @@ use_preset_vocabulary: false
 為的	wwde
 往往都是	wwdeu
 未得	wwdev
+微單	wwdf
 未定	wwdg
 未帶	wwdh
 偽代	wwdhi
@@ -89445,6 +89676,7 @@ use_preset_vocabulary: false
 為著	wwfeoi
 違反	wwff
 違犯	wwffa
+餵飯	wwffi
 蔚為壯觀	wwfg
 未付	wwfj
 為副	wwfjo
@@ -89655,6 +89887,7 @@ use_preset_vocabulary: false
 未滅	wwmd
 萬萬沒想到	wwmdi
 未滿	wwmf
+圍滿	wwmfi
 威名	wwmg
 為名	wwmgo
 未明	wwmgv
@@ -89956,6 +90189,7 @@ use_preset_vocabulary: false
 韋小寶	wxba
 持續不斷	wxbd
 朝鮮半島	wxbdu
+無限寶石	wxbe
 床板	wxbf
 創辦	wxbfi
 戊戌變法	wxbfv
@@ -90335,6 +90569,7 @@ use_preset_vocabulary: false
 沖決	wyjh
 茶餘酒後	wyjhi
 抽油機	wyji
+萬葉集	wyjii
 衝出	wyjj
 重出	wyjju
 衝擊	wyjk
@@ -90523,6 +90758,7 @@ use_preset_vocabulary: false
 唯一一個	wyygo
 重閱	wyyh
 我意已決	wyyj
+抽油煙機	wyyji
 重醫	wyyk
 充溢	wyykv
 充裕	wyyl
@@ -90977,6 +91213,7 @@ use_preset_vocabulary: false
 新舟	xbfd
 忻州	xbfdo
 心者	xbfe
+心折	xbfeo
 而不只是	xbfev
 心煩	xbff
 新番	xbffo
@@ -91094,8 +91331,8 @@ use_preset_vocabulary: false
 新建	xbjm
 信件	xbjmi
 信箋	xbjmiu
-心尖	xbjmo
-心間	xbjmoo
+心間	xbjmo
+心尖	xbjmoi
 新陳	xbjn
 心腸	xbjp
 新舊	xbjq
@@ -91225,6 +91462,7 @@ use_preset_vocabulary: false
 新橋	xbqc
 心切	xbqd
 心者	xbqe
+心折	xbqeo
 新站	xbqf
 心情	xbqg
 新債	xbqh
@@ -91307,6 +91545,7 @@ use_preset_vocabulary: false
 薪酬	xbwd
 辛丑	xbwdo
 新車	xbwe
+血本無歸	xbwg
 心外	xbwh
 小霸王	xbwi
 信物	xbwj
@@ -92097,6 +92336,7 @@ use_preset_vocabulary: false
 現代化進程	xdhjv
 偶或	xdhl
 卸貨	xdhlu
+邪火	xdhlv
 蟹黃	xdhm
 歐皇	xdhmv
 洩恨	xdhn
@@ -92216,6 +92456,7 @@ use_preset_vocabulary: false
 歐盟	xdmr
 漚麻	xdms
 歐美	xdmw
+邪魅	xdmwv
 想都沒想	xdmx
 鞋帽	xdmz
 想當年	xdn
@@ -92377,8 +92618,8 @@ use_preset_vocabulary: false
 席地而坐	xdxzo
 相當於	xdy
 消毒藥	xdya
-謳吟	xdyb
-諧音	xdybo
+諧音	xdyb
+謳吟	xdybo
 偶有	xdyd
 寫有	xdydo
 鞋油	xdydv
@@ -92557,8 +92798,8 @@ use_preset_vocabulary: false
 形神俱滅	xejm
 新手機	xejo
 新世界	xejov
-顯示出	xejova
 新世紀	xejova
+顯示出	xejova
 訛稱	xejr
 學術界	xeju
 二十九	xejv
@@ -93306,6 +93547,7 @@ use_preset_vocabulary: false
 行徑	xgjgu
 行經	xgjgua
 醒覺	xgjh
+小公舉	xgji
 星級	xgjk
 性急	xgjko
 星際	xgjkoa
@@ -93359,7 +93601,6 @@ use_preset_vocabulary: false
 倖免	xgmm
 星芒	xgmp
 行嗎	xgms
-行嗎	xgmsu
 形碼	xgmsv
 型煤	xgmw
 惡貫滿盈	xgmy
@@ -93633,6 +93874,7 @@ use_preset_vocabulary: false
 雪山	xhef
 新華社記者	xhefo
 行賄受賄	xheh
+小紅書	xhei
 學術	xhej
 血書	xheju
 愛書	xhejua
@@ -93876,6 +94118,7 @@ use_preset_vocabulary: false
 相互聯繫	xhlxv
 艾老	xhlz
 薛老	xhlzi
+小紅帽	xhm
 愛民	xhmb
 愛苗	xhmc
 二話沒說	xhme
@@ -94205,6 +94448,7 @@ use_preset_vocabulary: false
 二冊	xjce
 二次	xjck
 二層	xjcr
+下酒菜	xjcv
 二寸	xjcw
 而從	xjcy
 兒曹	xjcz
@@ -94349,6 +94593,7 @@ use_preset_vocabulary: false
 而精	xjjg
 戲劇家	xjji
 小姐姐	xjjia
+小賤賤	xjjiaa
 小雞雞	xjjiu
 而出	xjjj
 新春佳節	xjjjo
@@ -94472,6 +94717,7 @@ use_preset_vocabulary: false
 二戰	xjqf
 二輕	xjqg
 修成正果	xjqgi
+小產權	xjqi
 耳燭	xjqj
 二期	xjqk
 而起	xjqkv
@@ -94803,6 +95049,7 @@ use_preset_vocabulary: false
 細長	xkjpa
 星空鍵道雙拼	xkjpo
 喜酒	xkjq
+習酒	xkjqa
 戲稱	xkjr
 西城	xkjrv
 西家	xkjs
@@ -95004,7 +95251,8 @@ use_preset_vocabulary: false
 吸血	xkxho
 西學	xkxhv
 小可愛	xkxi
-西二	xkxj
+希爾	xkxj
+西二	xkxjv
 洗洗	xkxk
 細細	xkxka
 嬉戲	xkxkai
@@ -95119,7 +95367,7 @@ use_preset_vocabulary: false
 希臘神話	xlehu
 敘述	xlej
 虛數	xleji
-心靈深處	xlejo
+序數	xlejo
 敘事	xlek
 阿拉山口	xleka
 虛實	xleki
@@ -95194,6 +95442,7 @@ use_preset_vocabulary: false
 稀里嘩啦	xlhlu
 虛晃	xlhm
 心裡話	xlho
+序列號	xlhov
 續航	xlhp
 虛化	xlhq
 盱衡	xlhr
@@ -95370,7 +95619,6 @@ use_preset_vocabulary: false
 許下	xlxs
 虛懸	xlxt
 笑了笑	xlxu
-笑了笑	xlxua
 愛立信	xlxuo
 奧利奧	xlxuu
 行李箱	xlxuv
@@ -95709,6 +95957,7 @@ use_preset_vocabulary: false
 先批	xmpk
 先騙	xmpm
 相貌平平	xmpp
+血脈賁張	xmpq
 先賠	xmpw
 先跑	xmpz
 蕁麻疹	xmq
@@ -95839,8 +96088,7 @@ use_preset_vocabulary: false
 現形	xmxgv
 鮮血	xmxh
 獻血	xmxhi
-銜哀	xmxhu
-腺癌	xmxhuo
+腺癌	xmxhu
 現學	xmxhv
 纖細	xmxk
 先須	xmxl
@@ -96235,6 +96483,7 @@ use_preset_vocabulary: false
 溴素	xqsj
 修斯	xqsk
 羞縮	xqsl
+修鎖	xqsli
 星期四	xqso
 鏽損	xqsw
 羞臊	xqsz
@@ -96279,6 +96528,7 @@ use_preset_vocabulary: false
 安全性	xqxo
 新氣象	xqxou
 安琪兒	xqxov
+性取向	xqxovu
 星期二	xqxovv
 秀秀	xqxq
 繡繡	xqxqa
@@ -96343,6 +96593,7 @@ use_preset_vocabulary: false
 安如磐石	xrpe
 仙人掌	xrq
 心如死灰	xrsh
+渲染圖	xrt
 心如鐵石	xrte
 安如泰山	xrteo
 小人物	xrw
@@ -97050,6 +97301,7 @@ use_preset_vocabulary: false
 選注	xtqj
 選取	xtql
 選區	xtqla
+星條旗	xtqo
 旋球	xtqq
 宣政	xtqr
 選準	xtqw
@@ -97398,7 +97650,7 @@ use_preset_vocabulary: false
 像病	xxbg
 刑訊逼供	xxbgv
 想拜	xxbh
-想象不出	xxbj
+相簿	xxbj
 相比	xxbk
 想必	xxbkv
 相逼	xxbkvv
@@ -97541,6 +97793,7 @@ use_preset_vocabulary: false
 小媳婦	xxfi
 休閒服	xxfio
 享福	xxfj
+銜哀致誠	xxfju
 相符	xxfjv
 相輔	xxfjvv
 相知	xxfk
@@ -98218,13 +98471,13 @@ use_preset_vocabulary: false
 胸寬	xykt
 下一刻	xykv
 凶狂	xykx
-吸引了	xyl
+吸引力	xyl
 行雲流水	xyle
 雄略	xylh
 雄鹿	xylj
 凶厲	xylk
 熊侶	xyll
-吸引力	xylo
+吸引了	xylo
 新一輪	xylov
 心有靈犀一點通	xylt
 匈牙利	xylu
@@ -98347,7 +98600,7 @@ use_preset_vocabulary: false
 需要一個	xyygv
 閒雲野鶴	xyyh
 縣醫院	xyyi
-工程	xyyj
+211工程	xyyj
 心有餘悸	xyyjo
 胸臆	xyyk
 雄魚	xyyl
@@ -98500,9 +98753,11 @@ use_preset_vocabulary: false
 小資產階級	xzwji
 嗷嗚	xzwjo
 現在我們	xzwm
+奧創	xzwmu
 澳網	xzwp
 凹窪	xzws
 奧維	xzww
+奧創	xzwx
 選擇性	xzx
 熬心	xzxb
 奧校	xzxc
@@ -98931,6 +99186,7 @@ use_preset_vocabulary: false
 銀條	ybtc
 癮頭	ybtd
 一敗塗地	ybtdv
+一拜天地	ybtdvi
 因特	ybte
 陰挺	ybtg
 印臺	ybth
@@ -99637,6 +99893,7 @@ use_preset_vocabulary: false
 又隨	ydsb
 亞的斯亞貝巴	ydsbv
 有色	ydse
+緣定三生	ydsea
 右三	ydsf
 由蘇	ydsj
 約定俗成	ydsja
@@ -100189,7 +100446,7 @@ use_preset_vocabulary: false
 也是如此	yerc
 葉肉	yerd
 也如	yerj
-由奢入簡	yerji
+由奢入儉	yerji
 夜深人靜	yerjo
 議事日程	yerjov
 野人	yern
@@ -100366,6 +100623,7 @@ use_preset_vocabulary: false
 沿邊	yfbma
 延邊	yfbmu
 贗本	yfbn
+宇智波	yfbo
 豔福不淺	yfbq
 巖崩	yfbr
 鹽巴	yfbs
@@ -101274,7 +101532,8 @@ use_preset_vocabulary: false
 異國他鄉	ygtx
 勇冠天下	ygtxa
 夜觀天象	ygtxo
-應同	ygty
+嬰童	ygty
+應同	ygtyo
 櫻桃	ygtz
 應酬	ygwd
 瑩澈	ygwe
@@ -101498,6 +101757,7 @@ use_preset_vocabulary: false
 約翰	yhhf
 越壞	yhhg
 粵海	yhhh
+越貨	yhhl
 暈乎乎	yhho
 月華	yhhq
 月環	yhht
@@ -101720,6 +101980,7 @@ use_preset_vocabulary: false
 已經不	yjb
 一成不變	yjbb
 揚長避短	yjbd
+嚴懲不貸	yjbdo
 已經不是	yjbe
 應屆畢業生	yjbeo
 研究報告	yjbg
@@ -101797,8 +102058,8 @@ use_preset_vocabulary: false
 養家餬口	yjhk
 有機會	yjhv
 研究會	yjhvo
-有計劃	yjhvoa
 原計劃	yjhvoa
+有計劃	yjhvoa
 有句話	yjhvu
 衣錦還鄉	yjhx
 有機化學	yjhxv
@@ -101814,6 +102075,7 @@ use_preset_vocabulary: false
 已經成了	yjjl
 一舉成名	yjjm
 一級簡碼	yjjmv
+易筋經	yjjo
 一件件	yjjv
 已經成為	yjjw
 已經出現	yjjx
@@ -101857,7 +102119,7 @@ use_preset_vocabulary: false
 以及其它	yjqta
 一見傾心	yjqx
 一家人	yjr
-由簡入奢	yjre
+由儉入奢	yjre
 一見如故	yjrg
 衣錦榮歸	yjrgo
 研究人員	yjry
@@ -101942,6 +102204,7 @@ use_preset_vocabulary: false
 一波	ykbl
 衣鉢	ykblo
 一撥	ykblv
+一搏	ykblvi
 一邊	ykbm
 以便	ykbma
 異變	ykbmi
@@ -102046,6 +102309,7 @@ use_preset_vocabulary: false
 一棟	ykdyv
 一口答應	ykdyvo
 一道	ykdz
+已到	ykdza
 胰島	ykdzu
 移到	ykdzuv
 一刀	ykdzv
@@ -102246,6 +102510,7 @@ use_preset_vocabulary: false
 蟻后	ykhdi
 一吼	ykhdv
 義和	ykhe
+伊賀	ykhei
 一盒	ykhev
 遺憾	ykhf
 遺骸	ykhh
@@ -102398,6 +102663,7 @@ use_preset_vocabulary: false
 一空	ykky
 依靠	ykkz
 倚靠	ykkzi
+油庫裡	ykl
 宜林	yklb
 意林	yklbo
 一凜	yklbv
@@ -102624,6 +102890,7 @@ use_preset_vocabulary: false
 翌日	ykrka
 藝人	ykrn
 伊人	ykrni
+蟻人	ykrnii
 宜人	ykrno
 怡人	ykrnoi
 一任	ykrnv
@@ -102642,7 +102909,6 @@ use_preset_vocabulary: false
 一三	yksfv
 義賽	yksh
 醫訴	yksj
-一宿	yksjv
 意思	yksk
 已死	ykska
 以死	ykskav
@@ -102796,6 +103062,7 @@ use_preset_vocabulary: false
 胰腺	ykxmu
 伊恩	ykxn
 衣袖	ykxq
+一宿	ykxqv
 一下	ykxs
 以下	ykxsa
 已下	ykxsav
@@ -103212,8 +103479,7 @@ use_preset_vocabulary: false
 雨量	yllx
 餘量	yllxi
 餘糧	yllxio
-裕隆	ylly
-魚龍	yllyu
+魚龍	ylly
 玉龍	yllyv
 漁撈	yllz
 有禮貌	ylm
@@ -103573,6 +103839,7 @@ use_preset_vocabulary: false
 緣木求魚	ymqy
 虞美人	ymr
 顏面掃地	ymsd
+一畝三分地	ymsdv
 與民同樂	ymtl
 揚眉吐氣	ymtq
 有名無實	ymwe
@@ -103847,6 +104114,7 @@ use_preset_vocabulary: false
 氧氣	ypqk
 洋氣	ypqka
 陽氣	ypqkau
+漾起	ypqkav
 揚起	ypqki
 央企	ypqkii
 揚棄	ypqkiv
@@ -103964,6 +104232,7 @@ use_preset_vocabulary: false
 悠著點	yqdii
 玉砌雕闌	yqdl
 一切的一切	yqdq
+一騎當千	yqdqv
 有針對性	yqdx
 一切東西	yqdxv
 尤其是	yqe
@@ -103982,7 +104251,8 @@ use_preset_vocabulary: false
 粵犬吠雪	yqfx
 一氣之下	yqfxv
 尤其重要	yqfy
-有其父必有其子	yqfz
+一親芳澤	yqfz
+有其父必有其子	yqfzv
 有這個	yqg
 欲擒故縱	yqgz
 邀請函	yqh
@@ -104081,6 +104351,7 @@ use_preset_vocabulary: false
 怡情悅性	yqyxo
 有情有義	yqyy
 野戰醫院	yqyyi
+越戰越勇	yqyyv
 一清早	yqz
 眼珠子	yqzi
 一陣子	yqzv
@@ -104695,7 +104966,6 @@ use_preset_vocabulary: false
 原絨	ytry
 淵藪	ytsd
 原色	ytse
-緣定三生	ytsea
 一潭死水	ytsev
 元素	ytsj
 冤死	ytsk
@@ -104740,7 +105010,7 @@ use_preset_vocabulary: false
 遠傳	ytwt
 原位	ytww
 願為	ytwwv
-原為	ytwwvo
+原味	ytwwvo
 原委	ytwwvu
 遠未	ytwwvv
 原創	ytwx
@@ -105366,6 +105636,7 @@ use_preset_vocabulary: false
 意義上	yye
 用水	yyeb
 用手	yyed
+應用商店	yyedo
 意義上說	yyee
 嚴嚴實實	yyeeo
 用膳	yyef
@@ -105444,6 +105715,7 @@ use_preset_vocabulary: false
 優越感	yygi
 用過	yygl
 用光	yygm
+嚶嚶怪	yygo
 用鋼	yygp
 陰陽怪氣	yygq
 傭耕	yygr
@@ -105665,6 +105937,7 @@ use_preset_vocabulary: false
 用途	yytj
 泳體	yytk
 營業廳	yyto
+音悅臺	yytoo
 音樂廳	yytou
 衣原體	yytov
 冤有頭，債有主	yytq
@@ -106417,6 +106690,7 @@ use_preset_vocabulary: false
 罪證	zbqr
 最全	zbqt
 醉拳	zbqtv
+遭不住	zbqv
 最準	zbqw
 最強	zbqx
 最窮	zbqy
@@ -107885,9 +108159,10 @@ use_preset_vocabulary: false
 紫竹	zkqji
 資助	zkqjo
 自助	zkqju
-自棄	zkqk
+自啟	zkqk
 紫氣	zkqki
 自欺	zkqku
+自棄	zkqkuv
 自取	zkql
 自謙	zkqm
 滋長	zkqp
@@ -108454,6 +108729,7 @@ use_preset_vocabulary: false
 葬身	zpen
 臧否	zpfd
 臟腑	zpfj
+自拍杆	zpg
 髒賅	zpgh
 贓官	zpgt
 贓賄	zphb
@@ -108788,6 +109064,7 @@ use_preset_vocabulary: false
 砸了	zslev
 砸爛	zslf
 雜錄	zslj
+砸落	zsll
 雜流	zslq
 咋啦	zsls
 雜亂	zslt
@@ -109102,6 +109379,7 @@ use_preset_vocabulary: false
 罪惡滔天	zxtt
 自行車	zxw
 在線文檔	zxwd
+鑽心剜骨	zxwg
 走鄉串戶	zxwh
 做學問	zxwi
 子虛烏有	zxwy
@@ -109472,6 +109750,7 @@ use_preset_vocabulary: false
 造廢	zzfw
 棗莊	zzfx
 早種	zzfy
+遭重	zzfyv
 早該	zzgh
 早寡	zzgq
 糟糕	zzgz
@@ -109509,6 +109788,7 @@ use_preset_vocabulary: false
 造成	zzjr
 造價	zzjs
 造假	zzjsu
+皂莢	zzjsui
 早春	zzjw
 早朝	zzjz
 早課	zzke
