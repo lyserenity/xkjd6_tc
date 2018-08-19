@@ -7,7 +7,7 @@
 #     請見諒。
 ---
 name : xkjd6.wxw
-version : 2018.08.07
+version : 2018.08.19
 sort: original
 use_preset_vocabulary: false
 ...
@@ -503,6 +503,7 @@ use_preset_vocabulary: false
 他們	ti
 聽見	tia
 通過	tia
+聽著	tii
 痛苦	tii
 她們	tio
 條件	tiu
