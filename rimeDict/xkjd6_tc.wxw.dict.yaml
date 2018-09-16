@@ -7,7 +7,7 @@
 #     請見諒。
 ---
 name : xkjd6.wxw
-version : 2018.08.19
+version : 2018.09.16
 sort: original
 use_preset_vocabulary: false
 ...
@@ -51,8 +51,7 @@ use_preset_vocabulary: false
 此人	cii
 催促	cio
 從小	ciu
-村長	civ
-財會	civ
+從此	civ
 此時	co
 村裡	coa
 測試	coa
@@ -177,7 +176,8 @@ use_preset_vocabulary: false
 關係	giu
 高手	giu
 關上	giv
-國家	go
+感覺	go
+國家	goo
 告訴	goa
 改變	goa
 更是	goi
@@ -186,7 +186,6 @@ use_preset_vocabulary: false
 果然	gua
 各自	gui
 感受	guo
-感覺	guo
 過後	guu
 各種	guv
 過去	gv
@@ -205,6 +204,7 @@ use_preset_vocabulary: false
 好人	hii
 黃金	hio
 好看	hiu
+如何	hiv
 還會	hiv
 還是	ho
 懷裡	hoa
@@ -298,8 +298,8 @@ use_preset_vocabulary: false
 兩隻	lio
 立馬	liv
 臉上	liv
-來說	lo
-理論	loa
+厲害	lo
+來說	loa
 力量	loi
 老闆	loi
 離開	loi
@@ -523,7 +523,7 @@ use_preset_vocabulary: false
 通知	tuv
 天天	tv
 聽到	tva
-抬起	tvo
+同樣	tvo
 討厭	tvu
 為了	wa
 超級	waa

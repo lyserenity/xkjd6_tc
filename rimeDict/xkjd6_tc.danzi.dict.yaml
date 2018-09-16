@@ -8,7 +8,7 @@
 #   -「東」、「車」二字及以其為偏旁的字：維持 va 編碼
 ---
 name : xkjd6_tc.danzi
-version : 2018.08.07
+version : 2018.09.16
 sort: original
 use_preset_vocabulary: false
 ...
@@ -112,11 +112,11 @@ use_preset_vocabulary: false
 𨭉	bfovi	27	bfovio
 瘢	bfovu	300	bfovuu
 癍	bfovv	300	bfovvv
-般	bfu	300	bfuuua
-版	bfui	300	bfuiuu
+版	bfu	300	bfuiuu
 頒	bfuo	300	bfuovu
 攽	bfuou	28	bfuouv
-舨	bfuu	300	bfuuuu
+般	bfuu	300	bfuuua
+舨	bfuuu	300	bfuuuu
 班	bfv	300	bfvvou
 靽	bfvi	28	bfviou
 坂	bfvo	300	bfvouu
@@ -1708,7 +1708,6 @@ use_preset_vocabulary: false
 謫	feoao	300	feoaov
 這	feoaoa	300	feoaoa
 褚	feoau	300	feoauo
-嘀	feoo	300	feoovo
 啫	feou	28	feouov
 着	feoui	300	feouia
 鷓	feov	300	feovui
@@ -2547,6 +2546,7 @@ use_preset_vocabulary: false
 剮	gliaii	300	gliaii
 崞	gliao	300	gliaov
 咼	gliav	300	gliavi
+菓	glii	300	gliiia
 鍋	glio	300	glioia
 餜	glioi	29	glioia
 錁	glioia	300	glioia
@@ -3160,7 +3160,6 @@ use_preset_vocabulary: false
 蛤	hsi	300	hsiaiv
 蝦	hsia	300	hsiaav
 鉿	hsio	300	hsioiv
-呵	hso	300	hsovoi
 環	ht	300	htvvia
 緩	hta	300	htaauo
 幻	htaa	300	htaaaa
@@ -5542,6 +5541,7 @@ use_preset_vocabulary: false
 魔	mlo	300	mlovui
 袜	mloa	300	mloavv
 謨	mloai	300	mloaii
+嗼	mloi	300	mloiio
 寞	mloo	300	mlooii
 嘜	mlou	300	mlouoi
 摩	mlov	300	mloviu
@@ -6100,10 +6100,10 @@ use_preset_vocabulary: false
 扑	pjiu	300	pjiuio
 舖	pjiv	300	pjivvi
 攴	pjiva	300	pjivao
-譜	pjo	300	pjoaou
-襆	pjoa	300	pjoaii
-噗	pjoi	300	pjoiio
-蹼	pjoii	300	pjoiii
+噗	pjo	300	pjoiio
+譜	pjoa	300	pjoaou
+襆	pjoai	300	pjoaii
+蹼	pjoi	300	pjoiii
 曝	pjoio	300	pjoioi
 暴	pjoiv	300	pjoivi
 哺	pjov	300	pjovia
@@ -6123,8 +6123,9 @@ use_preset_vocabulary: false
 皮	pka	300	pkauao
 紕	pkaa	300	pkaava
 澼	pkaau	28	pkaauo
-淠	pkai	300	pkaiav
+阰	pkai	300	pkaiva
 陂	pkaia	300	pkaiau
+淠	pkaiav	300	pkaiav
 陴	pkaiu	300	pkaiui
 疋	pkaiv	300	pkaivu
 媲	pkau	300	pkauui
@@ -6430,8 +6431,7 @@ use_preset_vocabulary: false
 謫	qeoaov	300	qeoaov
 褚	qeoau	300	qeoauo
 跖	qeoi	300	qeoivu
-嘀	qeoo	300	qeoovo
-懾	qeoov	300	qeoovi
+懾	qeoo	300	qeoovi
 着	qeou	300	qeouia
 鷓	qeov	300	qeovui
 䗪	qeovi	27	qeovia
@@ -6703,6 +6703,7 @@ use_preset_vocabulary: false
 七	qkva	300	qkvaa
 妻	qkvaa	300	qkvaau
 郪	qkvaai	28	qkvaai
+炁	qkvao	300	qkvaoo
 軝	qkvau	27	qkvaua
 棄	qkvav	300	qkvavi
 杞	qkvava	300	qkvava
@@ -8085,6 +8086,7 @@ use_preset_vocabulary: false
 鼯	wjui	300	wjuivi
 烏	wjuia	300	wjuiav
 鄔	wjuiai	300	wjuiai
+䒉	wjuu	28	wjuuuv
 午	wjuv	300	wjuvuo
 迕	wjuvo	300	wjuvoa
 舞	wjuvu	300	wjuvua
@@ -8484,6 +8486,7 @@ use_preset_vocabulary: false
 鑫	xbioi	300	xbioio
 鐔	xbiov	300	xbiovi
 心	xbo	300	xboaoo
+訢	xboa	28	xboauu
 昕	xboi	300	xboiuu
 忻	xboo	300	xboouu
 炘	xbou	29	xbouuu
@@ -8565,7 +8568,7 @@ use_preset_vocabulary: false
 藕	xdii	300	xdiivv
 薢	xdiiu	28	xdiiua
 薤	xdiiv	300	xdiivu
-攜	xdiu	300	xdiuia
+攜	xdiu	28	xdiuia
 擷	xdiuv	300	xdiuvo
 挾	xdiuvi	300	xdiuvi
 揳	xdiuvv	29	xdiuvv
@@ -8842,7 +8845,7 @@ use_preset_vocabulary: false
 席	xko	300	xkovia
 禧	xkoa	300	xkoavo
 裼	xkoao	300	xkoaoi
-	xkoau	28	xkoauu
+訢	xkoau	28	xkoauu
 禊	xkoav	300	xkoavv
 晰	xkoi	300	xkoivu
 曦	xkoio	300	xkoiou
@@ -8863,6 +8866,7 @@ use_preset_vocabulary: false
 羲	xkouuv	300	xkouuv
 粞	xkouv	300	xkouvi
 襲	xkov	300	xkovov
+瘜	xkov	300	xkovui
 𠅤	xkovi	27	xkovia
 嘻	xkovo	300	xkovoo
 系	xku	300	xkuaiu
@@ -8950,6 +8954,7 @@ use_preset_vocabulary: false
 欻	xlouu	29	xlouua
 馘	xlouv	300	xlouvo
 序	xlov	300	xlovao
+呵	xlov	300	xlovoi
 畜	xlovi	300	xlovia
 吁	xlovv	300	xlovvi
 須	xlu	300	xluuvu
@@ -9091,7 +9096,7 @@ use_preset_vocabulary: false
 珛	xqvvv	28	xqvvvu
 嗯	xr	300	xroiav
 唔	xro	300	xrovia
-下	xs	300	xsvioo
+啊	xs	300	xsoaiv
 阿	xsa	300	xsaivo
 遐	xsav	300	xsavoa
 俠	xsi	300	xsivii
@@ -9104,16 +9109,14 @@ use_preset_vocabulary: false
 錒	xsio	300	xsioai
 挾	xsiu	300	xsiuvi
 斜	xsiv	300	xsivoo
-啊	xso	300	xsoaiv
+嚇	xso	500	xsovou
 暇	xsoi	300	xsoiav
 呷	xsoia	300	xsoiav
 吖	xsoo	300	xsooui
 愜	xsoov	300	xsoovv
-嚇	xsov	500	xsovou
+廈	xsov	300	xsovvu
 瘕	xsova	300	xsovav
-呵	xsovo	300	xsovoi
 嗄	xsovu	300	xsovui
-廈	xsovv	300	xsovvu
 狹	xsu	300	xsuavi
 狎	xsua	300	xsuaia
 罅	xsuv	300	xsuviv
@@ -9121,6 +9124,7 @@ use_preset_vocabulary: false
 轄	xsva	300	xsvaoo
 匣	xsvi	300	xsviav
 柙	xsvia	300	xsviav
+下	xsvio	300	xsvioo
 醃	xsviv	300	xsviv
 霞	xsvo	300	xsvoav
 槎	xsvou	300	xsvouv
@@ -9330,6 +9334,7 @@ use_preset_vocabulary: false
 音	ybo	300	ybovoi
 吲	yboa	300	yboava
 冘	yboau	28	yboaua
+訢	yboauu	28	yboauu
 禋	yboav	28	yboavi
 諲	yboavi	27	yboavi
 吟	yboi	300	yboioa
