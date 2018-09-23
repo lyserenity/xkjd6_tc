@@ -33,7 +33,7 @@
  
 1. 本項目僅提供由本人維護的**碼表繁體版**，可導入其他輸入法平台使用.
 2. 項目所提供之碼表本質皆為純文字檔，主要以 RIME 及落格平台適用之格式為優先；適用其他平台之格式請自行更改.
-<table style="border-top:2px  solid;border-bottom:2px solid;border-right:1px hidden;border-left:1px hidden;" cellpadding="10" border='1'>
+<table>
   <colgroup>
     <col style="border-right:1px hidden">
   </colgroup>
@@ -127,7 +127,7 @@
 
 
 [ys168]: http://daniushuangpin.ys168.com/
-[Rime_JD]: https://gitee.com/nmlixa/Rime_JD
+[Rime_JD]: https://gitee.com/nshu/Rime_JD
 [thxnder]: https://gitee.com/thxnder/xxjd
 [official_help]: https://xkjd.coding.me/doc/
 [thxnder_help]: https://gitee.com/thxnder/xxjd/wikis/pages?title=Home
