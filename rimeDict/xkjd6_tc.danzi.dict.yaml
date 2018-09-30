@@ -8,7 +8,7 @@
 #   -「東」、「車」二字及以其為偏旁的字：維持 va 編碼
 ---
 name : xkjd6_tc.danzi
-version : 2018.09.16
+version : 2018.09.30
 sort: original
 use_preset_vocabulary: false
 ...
@@ -4287,7 +4287,6 @@ use_preset_vocabulary: false
 唇	jwvuo	300	jwvuoo
 蠢	jwvv	300	jwvvia
 珺	jwvva	29	jwvvav
-璿	jwvvi	300	jwvviv
 椿	jwvvv	300	jwvvvv
 瑃	jwvvvv	28	jwvvvv
 將	jx	300	jxaiua
@@ -9096,7 +9095,6 @@ use_preset_vocabulary: false
 珛	xqvvv	28	xqvvvu
 嗯	xr	300	xroiav
 唔	xro	300	xrovia
-啊	xs	300	xsoaiv
 阿	xsa	300	xsaivo
 遐	xsav	300	xsavoa
 俠	xsi	300	xsivii
@@ -9109,14 +9107,15 @@ use_preset_vocabulary: false
 錒	xsio	300	xsioai
 挾	xsiu	300	xsiuvi
 斜	xsiv	300	xsivoo
-嚇	xso	500	xsovou
+啊	xso	300	xsoaiv
 暇	xsoi	300	xsoiav
 呷	xsoia	300	xsoiav
 吖	xsoo	300	xsooui
 愜	xsoov	300	xsoovv
-廈	xsov	300	xsovvu
+嚇	xsov	500	xsovou
 瘕	xsova	300	xsovav
 嗄	xsovu	300	xsovui
+廈	xsovv	300	xsovvu
 狹	xsu	300	xsuavi
 狎	xsua	300	xsuaia
 罅	xsuv	300	xsuviv
@@ -9178,6 +9177,7 @@ use_preset_vocabulary: false
 壎	xtvou	300	xtvouv
 碹	xtvu	300	xtvuoo
 瑄	xtvv	28	xtvvoo
+璿	xtvvi	300	xtvviv
 玹	xtvvo	28	xtvvov
 琄	xtvvou	28	xtvvou
 尋	xw	500	xwavvi
@@ -10027,6 +10027,7 @@ use_preset_vocabulary: false
 員	yto	300	ytoaoo
 冤	ytoa	300	ytoaua
 宛	ytoo	300	ytooua
+鵷	ytoou	28	ytooui
 羱	ytou	28	ytouvu
 怨	ytu	300	ytuaoa
 猿	ytua	300	ytuavo
