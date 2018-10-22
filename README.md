@@ -14,7 +14,7 @@
 
 <a name="title-1"></a>
 
-# :bookmark: 項目簡介
+# 項目簡介
 
 <a name="title-1.1"></a>
 ## 鍵道雙拼方案說明
@@ -82,7 +82,7 @@
 <br>
 
 <a name="title-2"></a>
-# :memo: 繁體碼表使用須知
+# 繁體碼表使用須知
 
 <a name="title-2.1"></a>
 ## 說明
@@ -113,9 +113,9 @@
 <br>
 
 <a name="title-3"></a>
-# :ballot_box_with_check:  待處理
+# 待處理
 
-- add: 一對多繁體詞組
+- [ ] add: 一對多繁體詞組
 
 ---
 <!-- # 版權聲明 -->
