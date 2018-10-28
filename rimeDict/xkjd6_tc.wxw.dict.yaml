@@ -1,15 +1,8 @@
-# 鍵道 6 聲筆(筆)詞組繁體碼表
-#
-# 說明:
-# 本碼表以繁體字形為編碼，以下為使用上須注意的地方：
-#   - 105 SB (聲筆) 與 525 SBB (聲筆筆)詞組因有用字頻率上的考量，
-#     詞組用字未變更；筆形編碼以繁體字形替換。造成部分詞組有重碼，
-#     請見諒。
+# 525聲筆筆詞組 
 ---
-name : xkjd6.wxw
-version : 2018.10.21
+name : xkjd6_tc.wxw
+version: "2018.03.03"
 sort: original
-use_preset_vocabulary: false
 ...
 不能	ba
 不斷	baa

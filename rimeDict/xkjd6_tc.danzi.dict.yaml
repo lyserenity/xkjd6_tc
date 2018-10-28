@@ -1,16 +1,25 @@
-# 鍵道 6 單字繁體碼表
-# 說明:
-# 本碼表以繁體字形為編碼，以下為使用上須注意的地方：
-#   -「言」字、部首或以其為偏旁的字：編碼皆改為 oa
-#     - 考量如果使用 ov ，重碼可能增加
-#     - 可視為雙編碼形式
-#   -「門」以此為部首或偏旁所構成的字：維持 oi 編碼
-#   -「東」、「車」二字及以其為偏旁的字：維持 va 編碼
+# Rime dictionary
+# encoding: utf-8
+# 49 自加特殊字
 ---
 name : xkjd6_tc.danzi
-version : 2018.10.14
+version : 2018.10.28
 sort: original
 use_preset_vocabulary: false
+# columns:
+#   - text #第一列字／詞
+#   - code #第二列碼
+#   - weight #第三列字／詞頻
+#   - stem #第四列造詞碼
+# encoder:
+#   exclude_patterns:
+#   rules:
+#     - length_equal: 2 # 聲韻聲韻|A筆B筆
+#       formula: "AaAbBaBbAcBc"
+#     - length_equal: 3 # 聲聲聲韻筆|A筆B筆
+#       formula: "AaBaZaAcBcZc"
+#     - length_in_range: [4, 20]
+#       formula: "AaBaCaZaAcBc"
 ...
 一	y	300	ykvvv
 三	s	300	sfvvvv
@@ -1141,6 +1150,7 @@ use_preset_vocabulary: false
 躉	dwii	300	dwiioi
 鐓	dwio	300	dwioov
 飩	dwiov	300	dwiova
+㨃	dwiu	300	dwiuov
 噸	dwo	300	dwovai
 蹲	dwoi	300	dwoiou
 蹾	dwoio	28	dwoiov
@@ -4138,6 +4148,7 @@ use_preset_vocabulary: false
 牚	jriov	28	jriova
 搶	jriu	300	jriuio
 偁	jriuo	28	jriuoo
+㨃	jriuov	28	jriuov
 騁	jriv	300	jrivia
 呈	jro	300	jrovvi
 誠	jroa	300	jroavu
@@ -5648,6 +5659,7 @@ use_preset_vocabulary: false
 礞	mrvu	300	mrvuii
 嗎	ms	300	msoivv
 媽	msa	300	msauiv
+孖	msaa	28	msaaaa
 孖	msai	29	msaiai
 嬤	msau	300	msauov
 嫲	msauo	300	msauov
@@ -6099,10 +6111,10 @@ use_preset_vocabulary: false
 扑	pjiu	300	pjiuio
 舖	pjiv	300	pjivvi
 攴	pjiva	300	pjivao
-噗	pjo	300	pjoiio
-譜	pjoa	300	pjoaou
+譜	pjo	300	pjoaou
 襆	pjoai	300	pjoaii
 蹼	pjoi	300	pjoiii
+噗	pjoii	300	pjoiio
 曝	pjoio	300	pjoioi
 暴	pjoiv	300	pjoivi
 哺	pjov	300	pjovia
@@ -6327,10 +6339,10 @@ use_preset_vocabulary: false
 剖	pzov	300	pzovii
 庖	pzovu	300	pzovua
 疱	pzovua	300	pzovua
-鮑	pzu	300	pzuaua
-刨	pzua	300	pzuaii
-狍	pzuau	300	pzuaua
-颮	pzuaua	300	pzuaua
+刨	pzu	300	pzuaii
+狍	pzua	300	pzuaua
+颮	pzuau	300	pzuaua
+鮑	pzuaua	300	pzuaua
 脬	pzuu	300	pzuuoo
 匏	pzv	300	pzvuua
 砲	pzvu	300	pzvuua
@@ -7364,8 +7376,8 @@ use_preset_vocabulary: false
 四	sk	300	skiaua
 司	ska	300	skavoo
 絲	skaa	300	skaaaa
-糸	skaaiu	28	skaaiu
 緦	skaai	300	skaaia
+糸	skaaiu	28	skaaiu
 涘	skaao	28	skaaou
 鷥	skaau	300	skaaui
 汜	skaav	300	skaava
@@ -10273,6 +10285,7 @@ use_preset_vocabulary: false
 子	zka	300	zkaivv
 淄	zkaa	300	zkaaaa
 緇	zkaaa	300	zkaaaa
+孖	zkaaaa	28	zkaaaa
 甾	zkaai	300	zkaaia
 孜	zkai	300	zkaiuv
 孖	zkaia	29	zkaiai
