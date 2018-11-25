@@ -3,7 +3,7 @@
 # 49 自加特殊字
 ---
 name : xkjd6_tc.danzi
-version : 2018.10.28
+version : 2018.11.25
 sort: original
 use_preset_vocabulary: false
 # columns:
@@ -1447,6 +1447,7 @@ use_preset_vocabulary: false
 師	ekui	300	ekuivi
 鼫	ekuiv	28	ekuivu
 邿	ekuo	300	ekuoai
+辻 	ekuoo	28	ekuooa
 釋	ekuoi	300	ekuoia
 弒	ekuov	300	ekuovv
 失	ekuv	300	ekuvvu
