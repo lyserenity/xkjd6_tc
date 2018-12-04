@@ -3,7 +3,7 @@
 # 49 自加特殊字
 ---
 name : xkjd6_tc.danzi
-version : 2018.11.25
+version : 2018.12.04
 sort: original
 use_preset_vocabulary: false
 # columns:
@@ -4143,6 +4143,7 @@ use_preset_vocabulary: false
 撐	jri	300	jriuio
 瞠	jria	300	jriaio
 蟶	jriav	300	jriavi
+峸	jriavu	300	jriavu
 傖	jrii	300	jriioa
 鋮	jrio	300	jriovu
 鐺	jrioi	300	jrioio
