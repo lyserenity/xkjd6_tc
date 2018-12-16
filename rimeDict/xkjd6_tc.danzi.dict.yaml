@@ -3,7 +3,7 @@
 # 49 自加特殊字
 ---
 name : xkjd6_tc.danzi
-version : 2018.12.04
+version : 2018.12.16
 sort: original
 use_preset_vocabulary: false
 # columns:
@@ -1447,8 +1447,8 @@ use_preset_vocabulary: false
 師	ekui	300	ekuivi
 鼫	ekuiv	28	ekuivu
 邿	ekuo	300	ekuoai
-辻 	ekuoo	28	ekuooa
 釋	ekuoi	300	ekuoia
+辻 	ekuoo	28	ekuooa
 弒	ekuov	300	ekuovv
 失	ekuv	300	ekuvvu
 舐	ekuvu	300	ekuvua
@@ -8910,6 +8910,7 @@ use_preset_vocabulary: false
 犧	xkuvo	300	xkuvou
 憩	xkuvoa	300	xkuvoa
 繫	xkv	300	xkviaa
+卌	xkv	300	xkviii
 樨	xkva	300	xkvavu
 匚	xkvaa	300	xkvaa
 昔	xkvi	300	xkvioi
@@ -9323,6 +9324,7 @@ use_preset_vocabulary: false
 聱	xzvovi	300	xzvovi
 奡	xzvu	28	xzvuvu
 璈	xzvv	29	xzvvvo
+一	y	300	ykvvv
 因	yb	300	ybiavu
 引	yba	300	ybavii
 絪	ybaa	27	ybaaia
@@ -9516,6 +9518,7 @@ use_preset_vocabulary: false
 晏	yfoio	300	yfoioo
 閼	yfoiov	300	yfoiov
 閻	yfoiu	300	yfoiua
+昖	yfoiuo	300	yfoiuo
 閹	yfoiv	300	yfoivu
 趼	yfoivv	300	yfoivv
 閆	yfoivv	300	yfoivv
