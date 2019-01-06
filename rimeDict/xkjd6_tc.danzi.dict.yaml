@@ -3,7 +3,7 @@
 # 49 自加特殊字
 ---
 name : xkjd6_tc.danzi
-version : 2019.01.02
+version : 2019.01.06
 sort: original
 use_preset_vocabulary: false
 # columns:
@@ -2360,7 +2360,7 @@ use_preset_vocabulary: false
 購	gda	300	gdaoua
 緱	gdaa	300	gdaaia
 韝	gdai	300	gdaivv
-溝	gdau	300	gdauaa
+溝	gdav	300	gdavvi
 姤	gdauu	28	gdauuu
 媾	gdauv	300	gdauvv
 鉤	gdi	300	gdioua
