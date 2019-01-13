@@ -3,7 +3,7 @@
 # 49 自加特殊字
 ---
 name : xkjd6_tc.danzi
-version : 2019.01.06
+version : 2019.01.13
 sort: original
 use_preset_vocabulary: false
 # columns:
@@ -1118,6 +1118,7 @@ use_preset_vocabulary: false
 嗒	dsoi	300	dsoiii
 躂	dsoiv	29	dsoivo
 怛	dsoo	300	dsoooi
+呾	dsooi	300	dsooiv
 憚	dsooo	300	dsoooo
 嗲	dsou	300	dsouou
 炟	dsouo	28	dsouoi
@@ -2360,9 +2361,9 @@ use_preset_vocabulary: false
 購	gda	300	gdaoua
 緱	gdaa	300	gdaaia
 韝	gdai	300	gdaivv
-溝	gdav	300	gdavvi
 姤	gdauu	28	gdauuu
 媾	gdauv	300	gdauvv
+溝	gdav	300	gdavvi
 鉤	gdi	300	gdioua
 岣	gdia	300	gdiaua
 苟	gdii	300	gdiiua
@@ -2547,10 +2548,10 @@ use_preset_vocabulary: false
 穀	gjvoua	300	gjvoua
 轂	gjvoua	300	gjvoua
 梏	gjvu	300	gjvuvi
-國	gl	300	gliavo
+過	gl	300	gliaoa
 渦	gla	300	glaiav
 漍	glai	27	glaiav
-過	gli	300	gliaoa
+國	gli	300	gliavo
 果	glia	300	gliavv
 幗	gliai	300	gliaia
 蜾	gliaia	300	gliaia
