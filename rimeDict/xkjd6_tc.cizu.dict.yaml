@@ -9138,7 +9138,8 @@ sort: original
 對座	dbzl
 電磁波	dcb
 掉膘	dcbc
-雕版	dcbf
+調班	dcbf
+雕版	dcbfu
 調兵	dcbg
 凋敗	dcbh
 凋敝	dcbk
@@ -14459,6 +14460,7 @@ sort: original
 調查報告	dwbgo
 頓筆	dwbk
 頓踣	dwbl
+蹲便	dwbm
 敦本	dwbn
 調查表	dwbo
 大酬賓	dwbv
@@ -14729,6 +14731,7 @@ sort: original
 地形圖	dxtvv
 大學同學	dxtx
 定心丸	dxw
+地下五筆	dxwb
 大而無當	dxwd
 第二位	dxwu
 達爾文	dxwv
@@ -15846,6 +15849,7 @@ sort: original
 尚不能	ebni
 數百年	ebniv
 水泥	ebnk
+水逆	ebnka
 受不鳥了	ebnl
 水碾	ebnm
 水嫩	ebnn
@@ -26920,6 +26924,7 @@ sort: original
 方有	fpydo
 方言	fpyf
 放眼	fpyfo
+房檐	fpyfu
 放映	fpyg
 防疫	fpyk
 防禦	fpyl
@@ -29523,7 +29528,7 @@ sort: original
 中通	fytyi
 中統	fytyia
 中套	fytz
-敷衍我	fyw
+中英文	fyw
 重錘	fywb
 風月無邊	fywbu
 眾籌	fywd
@@ -29533,7 +29538,6 @@ sort: original
 這意味著	fywfo
 中外	fywh
 中央委員會	fywhi
-中英文	fywi
 中午	fywj
 重物	fywju
 負隅頑抗	fywk
@@ -29553,6 +29557,7 @@ sort: original
 中船	fywt
 這一問題	fywto
 重要問題	fywtu
+敷衍我	fywv
 中尉	fyww
 中位	fywwi
 眾位	fywwii
@@ -30444,8 +30449,8 @@ sort: original
 購點	gddm
 勾當	gddp
 更多的人	gddr
-勾搭	gdds
-夠大	gddsu
+夠大	gdds
+勾搭	gddsu
 狗洞	gddy
 狗東	gddyu
 夠到	gddz
@@ -39672,6 +39677,7 @@ sort: original
 華納	hqns
 花娘	hqnx
 化膿	hqny
+華農	hqnyi
 畫品	hqpb
 花盤	hqpf
 花瓶	hqpg
@@ -39732,6 +39738,7 @@ sort: original
 花壇	hqtf
 化痰	hqtfi
 花廳	hqtg
+花庭	hqtgi
 划艇	hqtgv
 華泰	hqth
 畫圖	hqtj
@@ -40803,7 +40810,8 @@ sort: original
 黃山	hxef
 荒山	hxefi
 黃鱔	hxefv
-和諧社會	hxeh
+互相傷害	hxeh
+和諧社會	hxehu
 皇叔	hxej
 皇室	hxek
 黃石	hxekv
@@ -45205,7 +45213,7 @@ sort: original
 節節敗退	jjbt
 儲備	jjbw
 經久不息	jjbx
-九九八十一 	jjby
+九九八十一	jjby
 出包	jjbz
 觸寶	jjbzu
 經濟艙	jjc
@@ -45932,8 +45940,8 @@ sort: original
 忌妒	jkdjaa
 幾度	jkdjao
 季度	jkdju
-基督	jkdjv
-極度	jkdjvo
+極度	jkdjv
+基督	jkdjvi
 基地	jkdk
 幾滴	jkdka
 及第	jkdku
@@ -46569,6 +46577,7 @@ sort: original
 傑克遜	jkxi
 繼而	jkxj
 既而	jkxja
+雞兒	jkxju
 即席	jkxk
 雞西	jkxku
 極細	jkxkv
@@ -49607,7 +49616,8 @@ sort: original
 假想	jsxxiv
 夾襖	jsxz
 佳音	jsyb
-甲寅	jsybi
+假音	jsybi
+甲寅	jsybio
 加油	jsyd
 家有	jsydo
 家業	jsye
@@ -50384,9 +50394,9 @@ sort: original
 長吁短嘆	jxdti
 近現代	jxdu
 江東	jxdy
-降到	jxdz
-講到	jxdzo
-講道	jxdzoo
+講到	jxdz
+降到	jxdza
+講道	jxdzo
 經銷商	jxe
 江西省	jxea
 幾小時	jxeai
@@ -50494,6 +50504,7 @@ sort: original
 江姐	jxjdaa
 成雙成對	jxjdv
 將車	jxje
+機械降神	jxjev
 久而久之	jxjf
 見性成佛	jxjfi
 長效機制	jxjfio
@@ -50673,6 +50684,7 @@ sort: original
 姜文	jxwno
 記敘文	jxwo
 將查	jxws
+薑茶	jxwsi
 江川	jxwt
 出現問題	jxwta
 降為	jxww
@@ -54102,6 +54114,7 @@ sort: original
 狂拼	kxpb
 誆騙	kxpm
 狂噴	kxpn
+狂想曲	kxq
 狂敲	kxqc
 況且	kxqd
 狂戰	kxqf
@@ -60323,7 +60336,7 @@ sort: original
 老二	lzxj
 老兒	lzxju
 老徐	lzxl
-老先	lzxm
+老仙	lzxm
 老朽	lzxq
 烙下	lzxs
 老鄉	lzxx
@@ -62301,6 +62314,7 @@ sort: original
 魔方	mlfpo
 磨坊	mlfpov
 魔法	mlfs
+麥粒腫	mlfu
 梅蘭芳	mlfv
 莫非	mlfw
 墨菲	mlfwi
@@ -63071,7 +63085,8 @@ sort: original
 忙個	mpge
 盲幹	mpgf
 盲谷	mpgj
-芒果	mpgl
+杧果	mpgl
+芒果	mpgli
 忙工	mpgy
 門牌號	mph
 莽漢	mphf
@@ -64409,7 +64424,7 @@ sort: original
 沒意義	myya
 沒有用	myyav
 沒有一次	myyc
-沒有一點	myyd
+沒有用的	myyd
 沒有一個是	myye
 綿陽一中	myyf
 沒有一種	myyfa
@@ -64644,6 +64659,8 @@ sort: original
 滿足於	mzy
 毛蚴	mzyd
 冒煙	mzyf
+帽沿	mzyfi
+帽檐	mzyfiv
 貓眼	mzyfu
 帽纓	mzyg
 貿易	mzyk
@@ -72070,6 +72087,7 @@ sort: original
 慶功	qggyo
 輕工	qggyv
 清高	qggz
+清稿	qggza
 這個好	qgh
 請回	qghb
 慶賀	qghe
@@ -74925,6 +74943,7 @@ sort: original
 真忙	qnmp
 真猛	qnmr
 針麻	qnms
+真碼	qnmsu
 震麻	qnmsv
 真沒	qnmw
 真美	qnmwu
@@ -82685,6 +82704,7 @@ sort: original
 頹唐	tbtp
 停杯投箸	tbtq
 腿疼	tbtr
+推塔	tbts
 退團	tbtt
 頭版頭條	tbttv
 同班同學	tbtx
@@ -88805,6 +88825,7 @@ sort: original
 外債	whqh
 外企	whqk
 歪曲	whql
+文化侵略	whqlo
 外遷	whqm
 文化圈	whqo
 外長	whqp
@@ -88818,6 +88839,7 @@ sort: original
 外罩	whqz
 文化人	whr
 外人	whrn
+文化入侵	whrq
 五花肉	whrv
 五湖四海	whsh
 外鎖	whsl
@@ -89039,6 +89061,7 @@ sort: original
 無雙	wjem
 無神	wjen
 誤傷	wjep
+捂上	wjepi
 吃驚受怕	wjepo
 無上	wjepu
 無傷	wjepui
@@ -97552,6 +97575,7 @@ sort: original
 細佬	xklz
 細描	xkmc
 熄滅	xkmd
+奧卡姆剃刀	xkmdu
 西滿	xkmf
 西銘	xkmg
 戲命	xkmgi
@@ -103733,6 +103757,7 @@ sort: original
 眼瞎	yfxsi
 嚥下	yfxso
 言下	yfxsov
+檐下	yfxsv
 言宣	yfxt
 一封信	yfxv
 煙燻	yfxw
@@ -105516,6 +105541,7 @@ sort: original
 遺囑	ykqj
 挹注	ykqji
 譯註	ykqjo
+易主	ykqjoo
 一株	ykqjv
 醫囑	ykqjvo
 一起	ykqk
@@ -111107,6 +111133,7 @@ sort: original
 則可以	zky
 滋陰	zkyb
 自由	zkyd
+茲有	zkydi
 自有	zkydu
 自幼	zkydua
 子夜	zkye
@@ -111156,6 +111183,7 @@ sort: original
 作弊	zlbk
 左臂	zlbkv
 左邊	zlbm
+坐便	zlbmi
 作本	zlbn
 作罷	zlbs
 坐背	zlbw

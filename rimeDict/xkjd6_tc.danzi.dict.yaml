@@ -3,7 +3,7 @@
 # 49 自加特殊字
 ---
 name : xkjd6_tc.danzi
-version : 2019.01.13
+version : 2019.01.20
 sort: original
 use_preset_vocabulary: false
 # columns:
@@ -184,6 +184,7 @@ use_preset_vocabulary: false
 怖	bjoo	300	bjoovu
 哺	bjov	300	bjovia
 瓿	bjovv	300	bjovva
+誧	bjovvi	300	bjovvi
 簿	bju	300	bjuvav
 阜	bjui	300	bjuiuo
 布	bjv	300	bjvuia
@@ -1450,7 +1451,7 @@ use_preset_vocabulary: false
 鼫	ekuiv	28	ekuivu
 邿	ekuo	300	ekuoai
 釋	ekuoi	300	ekuoia
-辻 	ekuoo	28	ekuooa
+辻	ekuoo	28	ekuooa
 弒	ekuov	300	ekuovv
 失	ekuv	300	ekuvvu
 舐	ekuvu	300	ekuvua
@@ -1968,6 +1969,7 @@ use_preset_vocabulary: false
 炙	fkuao	300	fkuaou
 觶	fkuaoo	300	fkuaoo
 鴟	fkuau	300	fkuaui
+㩼	fkuauo	29	fkuauo
 氏	fkuav	300	fkuava
 氐	fkuava	300	fkuava
 直	fkuo	300	fkuoia
@@ -3322,6 +3324,7 @@ use_preset_vocabulary: false
 皓	hzu	300	hzuiuv
 皞	hzui	28	hzuiui
 貉	hzuo	300	hzuoua
+䜰	hzuoui	300	hzuoui
 耗	hzv	300	hzvvuv
 郝	hzvo	300	hzvoai
 壕	hzvoo	300	hzvoov
@@ -5348,6 +5351,7 @@ use_preset_vocabulary: false
 犖	lzouu	300	lzouuv
 癆	lzov	300	lzovou
 耋	lzu	300	lzuova
+䜮	lzuooo	27	lzuooo
 酪	lzv	300	lzviua
 醪	lzvi	300	lzviao
 𡑍	lzvo	27	lzvoou
