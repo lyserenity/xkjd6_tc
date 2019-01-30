@@ -3,7 +3,7 @@
 # 49 自加特殊字
 ---
 name : xkjd6_tc.danzi
-version : 2019.01.20
+version : 2019.01.30
 sort: original
 use_preset_vocabulary: false
 # columns:
@@ -2400,6 +2400,7 @@ use_preset_vocabulary: false
 個	geii	300	geiia
 菏	geiia	300	geiiav
 蓋	geiiv	300	geiivo
+佮	geiivo	300	geiivo
 鉻	geio	300	geioua
 鎘	geiov	300	geiovo
 擱	geiu	300	geiuoi
@@ -4952,15 +4953,15 @@ use_preset_vocabulary: false
 溧	lkav	300	lkavia
 瀝	lkavu	300	lkavuu
 例	lki	300	lkivua
-罹	lkia	300	lkiaoo
-詈	lkiao	300	lkiaoa
+里	lkia	300	lkiavv
+罹	lkiao	300	lkiaoo
+詈	lkiaoa	300	lkiaoa
 螭	lkiaov	300	lkiaov
 蜊	lkiau	300	lkiauv
 仂	lkiauu	300	lkiauu
 蠣	lkiav	300	lkiavu
 㠣	lkiavu	27	lkiavu
 峛	lkiavu	28	lkiavu
-里	lkiavv	300	lkiavv
 莉	lkii	300	lkiiuv
 荔	lkiia	300	lkiiau
 蒞	lkiiao	300	lkiiao

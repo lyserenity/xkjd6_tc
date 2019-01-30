@@ -4565,6 +4565,7 @@
 菏	geiiav
 蓋	geiiv
 蓋	geiivo
+佮	geiivo
 鉻	geio
 鉻	geioua
 鎘	geiov
@@ -9428,9 +9429,10 @@
 瀝	lkavuu
 例	lki
 例	lkivua
-罹	lkia
+里	lkia
+里	lkiavv
+罹	lkiao
 罹	lkiaoo
-詈	lkiao
 詈	lkiaoa
 螭	lkiaov
 蜊	lkiau
@@ -9440,7 +9442,6 @@
 蠣	lkiavu
 㠣	lkiavu
 峛	lkiavu
-里	lkiavv
 莉	lkii
 莉	lkiiuv
 荔	lkiia
@@ -19950,6 +19951,7 @@
 辦不到	bbdo
 不必當真	bbdq
 不變的	bbdv
+棒棒的	bbdvv
 不必擔心	bbdx
 賓東	bbdy
 逼不得已	bbdyv
@@ -20511,6 +20513,7 @@
 憋死	bdsk
 本打算	bdsv
 冰凍三尺	bdsw
+鱉孫	bdswo
 別慫	bdsy
 半導體	bdt
 別貼	bdtd
@@ -23386,6 +23389,7 @@
 博導	bldzu
 比利時	ble
 搏手	bled
+便利商店	bledi
 表裡受敵	bledv
 波攝	blee
 博山	blef
@@ -26342,6 +26346,7 @@
 催化	cbhq
 崔顥	cbhz
 催交	cbjc
+催繳	cbjci
 催產	cbjf
 猝不及防	cbjfu
 翠菊	cbjl
@@ -35220,6 +35225,7 @@
 刀光	dzgm
 道光	dzgmo
 到港	dzgp
+到崗	dzgpv
 倒掛	dzgq
 導管	dzgt
 倒灌	dzgti
@@ -37726,7 +37732,7 @@
 石景山	ejevo
 舒爽	ejex
 樹梢	ejez
-石家莊	ejf
+時間軸	ejf
 樞軸	ejfd
 數軸	ejfdi
 豎著	ejfe
@@ -37760,6 +37766,8 @@
 抒發	ejfsi
 市井之徒	ejft
 十幾種	ejfu
+生產者	ejfuo
+石家莊	ejfv
 書費	ejfw
 世界範圍	ejfwv
 樹狀	ejfx
@@ -37987,6 +37995,7 @@
 生產能力	ejnlu
 十幾年來	ejnlua
 數年	ejnm
+鼠年	ejnmu
 樞紐	ejnq
 十幾年前	ejnqu
 孰能	ejnr
@@ -43441,6 +43450,7 @@
 皺著眉	ffmu
 皺皺眉	ffmuu
 反美	ffmw
+櫛風沐雨	ffmy
 繁茂	ffmz
 犯難	ffnf
 置之腦後	ffnh
@@ -43642,6 +43652,7 @@
 付之一炬	ffyj
 翻譯	ffyk
 反義	ffyku
+反譯	ffykuo
 犯疑	ffykuu
 繁育	ffyl
 梵語	ffylv
@@ -45331,6 +45342,7 @@
 只招	fkqzo
 支招	fkqzu
 炙肉	fkrd
+植鞣	fkrdv
 炙熱	fkre
 制熱	fkreu
 直燃	fkrf
@@ -45761,6 +45773,7 @@
 著陸	fllj
 著力	fllk
 著落	flll
+卓犖	fllli
 濁浪	fllp
 濁流	fllq
 佛羅倫薩	flls
@@ -50331,6 +50344,7 @@
 光彩照人	gcfr
 供參考	gck
 搞錯了	gcl
+乾脆面	gcm
 觀測站	gcq
 光彩照人	gcqr
 高蛋白	gdb
@@ -55159,6 +55173,7 @@
 貢川	gywt
 鬼壓床	gywu
 恭維	gyww
+宮位	gywwo
 共為	gywwv
 工位	gywwvi
 共創	gywx
@@ -55875,6 +55890,7 @@
 回車	hbje
 回敬	hbjg
 回京	hbjgi
+徽京	hbjgu
 回絕	hbjh
 匯出	hbjj
 貨幣基金	hbjji
@@ -61083,7 +61099,8 @@
 還有什麼	hyem
 紅參	hyen
 紅裳	hyep
-紅勝	hyer
+紅繩	hyer
+紅勝	hyera
 紅紗	hyes
 轟殺	hyesv
 混淆视听	hyet
@@ -61176,6 +61193,7 @@
 霍元甲	hyjv
 紅軍	hyjw
 紅脣	hyjwa
+會議紀要	hyjy
 洪朝	hyjz
 會員卡	hyk
 鴻逵	hykb
@@ -66280,6 +66298,7 @@
 紀念	jknma
 紀年	jknmau
 記念	jknmo
+雞年	jknmu
 飢渴難耐	jknn
 就可能	jkno
 技能	jknr
@@ -71307,6 +71326,7 @@
 潰爛	kblf
 愧領	kblg
 虧來	kblh
+卡巴拉	kbli
 饋路	kblj
 暌離	kblk
 開不了口	kblko
@@ -72417,6 +72437,7 @@
 快哉	kgzh
 筷子	kgzk
 開標	khbc
+葵花寶典	khbd
 開辦	khbf
 開班	khbfo
 開兵	khbg
@@ -74906,6 +74927,7 @@
 糧草先行	lcxxo
 聊友	lcyd
 聊以	lcyk
+療愈	lcyl
 療養	lcyp
 遼陽	lcypv
 獠牙	lcys
@@ -76829,6 +76851,7 @@
 粒粒	lklko
 歷歷	lklkv
 利落	lkll
+俐落	lklli
 利率	lkllu
 歷練	lklm
 里拉	lkls
@@ -77157,6 +77180,7 @@
 羅夫	llfji
 濾紙	llfk
 履職	llfka
+綠植	llfkav
 鋁製	llfki
 綠裝	llfm
 鋁粉	llfn
@@ -85202,9 +85226,9 @@
 難啊	nfxsv
 囊中羞澀	nfxsvi
 難選	nfxt
-南潯	nfxw
+難尋	nfxw
 南巡	nfxwu
-難尋	nfxwv
+南潯	nfxwua
 南雄	nfxy
 難熬	nfxz
 耐著性子	nfxzv
@@ -86123,6 +86147,7 @@
 內蒙古自治區	nmgq
 年庚	nmgr
 年關	nmgt
+南夢宮	nmgu
 年光	nmgx
 年供	nmgy
 年糕	nmgz
@@ -93017,6 +93042,7 @@
 助你	qjnki
 這幾年來	qjnl
 逐年	qjnm
+豬年	qjnmv
 前幾年	qjno
 主內	qjnw
 豬腦	qjnz
@@ -105005,6 +105031,7 @@
 提入	tkrj
 體弱	tkrl
 替人	tkrn
+體認	tkrni
 踢人	tkrno
 太空梭	tks
 提速	tksj
@@ -105094,6 +105121,7 @@
 拖駁	tlbl
 拖把	tlbs
 駝背	tlbw
+桃李不言，下自成蹊	tlbx
 桃李不言	tlby
 託詞	tlck
 脫掉	tldc
@@ -109003,6 +109031,7 @@
 持久之計	wjfji
 刎頸之交	wjfju
 五服	wjfjv
+五福	wjfjvo
 物質	wjfk
 無知	wjfku
 無紙	wjfkua
@@ -109791,6 +109820,7 @@
 馳往	wkwp
 吃茶	wkws
 吃穿	wkwt
+赤緯	wkww
 赤潮	wkwz
 偽科學	wkx
 痴心	wkxb
@@ -112063,6 +112093,7 @@
 圍魏救趙	wwjqi
 五味俱全	wwjqv
 圍城	wwjr
+渭城	wwjra
 圍成	wwjri
 未成	wwjrv
 為佳	wwjs
@@ -113644,7 +113675,7 @@
 新疆	xbjx
 新潮	xbjz
 心潮	xbjzo
-二八開	xbk
+想不開	xbk
 心口	xbkd
 信口	xbkdi
 辛口	xbkdo
@@ -113662,7 +113693,7 @@
 新卡	xbks
 新款	xbkt
 心寬	xbkto
-想不開	xbkv
+二八開	xbkv
 鋅礦	xbkx
 新空	xbky
 新考	xbkz
@@ -117719,6 +117750,7 @@
 戲子	xkzk
 席子	xkzko
 習作	xkzl
+細作	xkzla
 西藏	xkzp
 吸雜	xkzs
 洗澡	xkzz
@@ -119015,6 +119047,7 @@
 休養	xqypi
 愛奇藝	xqyu
 行政院	xqyuv
+惡政隱	xqyv
 岫雲	xqyw
 惡其餘胥	xqyx
 喜氣洋洋	xqyy
@@ -122689,6 +122722,7 @@
 謁拜	yebh
 一時半會	yebhv
 也不	yebj
+遇事不決	yebji
 也比	yebk
 一時半刻	yebkv
 一聲不吭	yebkvv
@@ -126555,6 +126589,7 @@
 業內人士	ynre
 一年四季	ynsj
 迎難而上	ynxe
+玉女心經	ynxj
 由內而外	ynxw
 一年一度	ynyd
 延年益壽	ynye
@@ -131368,6 +131403,7 @@
 作序	zlxl
 作秀	zlxq
 坐下	zlxs
+做下	zlxsi
 座下	zlxso
 左下	zlxsv
 左旋	zlxt
