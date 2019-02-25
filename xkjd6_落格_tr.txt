@@ -20089,6 +20089,7 @@
 不必要	bbyv
 並不影響	bbyx
 半輩子	bbz
+拜把子	bbzi
 並不怎麼	bbzm
 殯葬	bbzp
 不必在意	bbzy
@@ -20648,6 +20649,7 @@
 不是這麼	befm
 飽食終日	befr
 博碩肥腯	beft
+白蛇傳	befu
 不設防	befv
 不時之需	befx
 杯水之謝	befxv
@@ -29056,6 +29058,7 @@
 代表作	dbz
 對在	dbzh
 堆在	dbzhv
+打擺子	dbzi
 對子	dbzk
 對座	dbzl
 電磁波	dcb
@@ -36650,6 +36653,7 @@
 山水畫	eehi
 社火	eehl
 是時候了	eehlo
+涉黃	eehm
 啥時候	eeho
 是時候	eehoo
 說說話	eehooo
@@ -36659,6 +36663,7 @@
 受傷害	eehui
 攝魂	eehw
 涉黑	eehwa
+涉黃	eehx
 射洪	eehy
 折耗	eehz
 上世紀	eej
@@ -43012,6 +43017,7 @@
 這篇	fepm
 這片	fepmo
 遮篷	fepr
+分手炮	fepu
 副食品	fepv
 副市長	feq
 發生器	feqa
@@ -59090,6 +59096,7 @@
 很假	hnjs
 很蠢	hnjw
 很講	hnjx
+很犟	hnjxu
 很渴	hnke
 很可	hnkeu
 狠砍	hnkf
@@ -59415,6 +59422,7 @@
 華山	hqef
 花束	hqej
 好長時間	hqeja
+滑鼠	hqejau
 話術	hqejo
 很長時間	hqeju
 化石	hqek
@@ -66257,6 +66265,7 @@
 雞柳	jklqu
 急流	jklqua
 肌瘤	jklquo
+基流	jklqv
 極冷	jklr
 急拉	jkls
 極亂	jklt
@@ -67271,6 +67280,7 @@
 尖叫	jmjc
 建交	jmjca
 尖角	jmjci
+尖椒	jmjciv
 煎餃	jmjco
 簡介	jmjd
 見解	jmjdi
@@ -76043,14 +76053,13 @@
 領用	lgyy
 零用	lgyyv
 靈藥	lgyz
-兩國在	lgz
+兩個字	lgz
 領走	lgzd
 零族	lgzj
 領子	lgzk
 靈子	lgzkv
 另作	lgzl
 零雜	lgzs
-兩個字	lgzv
 令尊	lgzw
 來賓	lhbb
 略表	lhbc
@@ -79539,6 +79548,7 @@
 亮綠	lxll
 兩聯	lxlm
 離心力	lxlo
+六小齡童	lxlt
 留下來	lxlu
 李小龍	lxlv
 兩類	lxlw
@@ -79565,6 +79575,7 @@
 李先念	lxn
 椋鳥	lxnc
 兩難	lxnf
+諒你	lxnk
 靚女	lxnl
 兩年	lxnm
 靚妞	lxnq
@@ -82054,6 +82065,7 @@
 迷卡	mkks
 米寬	mkkt
 迷狂	mkkx
+馬卡龍	mkl
 密林	mklb
 米聊	mklc
 彌勒	mkle
@@ -86520,6 +86532,7 @@
 牛牛	nqnq
 妞妞	nqnqa
 牛腦	nqnz
+暖氣片	nqp
 牛票	nqpc
 紐襻	nqpf
 拈輕怕重	nqpfi
@@ -90271,12 +90284,14 @@
 刨個	pzge
 跑過	pzgl
 拋光	pzgm
+跑光	pzgmo
 刨根	pzgn
 袍褂	pzgq
 跑慣	pzgt
 炮管	pzgto
 跑官	pzgtoo
 拋光	pzgx
+跑光	pzgxo
 炮灰	pzhb
 跑回	pzhbo
 跑合	pzhe
@@ -99432,6 +99447,7 @@
 人無遠慮，必有近憂	rwyy
 潤澤	rwze
 潤資	rwzk
+人心不古	rxbg
 人心不足蛇吞象	rxbx
 人行道	rxd
 熱線電話	rxdh
@@ -101381,6 +101397,7 @@
 斯洛伐克	slfkv
 所著	slfl
 所分	slfn
+嗦粉	slfno
 縮放	slfp
 所封	slfr
 所發	slfs
@@ -102890,6 +102907,7 @@
 調遷	tcqm
 調前	tcqmo
 跳幀	tcqn
+跳針	tcqno
 調賬	tcqp
 跳球	tcqq
 調整	tcqr
@@ -120201,6 +120219,7 @@
 殉葬	xwzp
 尋蹤	xwzy
 癌細胞	xxb
+阿西巴	xxba
 香檳	xxbb
 雄心勃勃	xxbbv
 降表	xxbc
@@ -122459,7 +122478,7 @@
 又起	ydqkav
 有氣	ydqkv
 有期	ydqkvv
-又去	ydql
+有趣	ydql
 油區	ydqla
 游去	ydqlav
 幽趣	ydqli
@@ -125779,7 +125798,7 @@
 伊恩	ykxn
 衣袖	ykxq
 一宿	ykxqv
-一下	ykxs
+以下	ykxs
 以下	ykxsa
 已下	ykxsav
 意下	ykxso
@@ -129138,6 +129157,7 @@
 要忙	yzmp
 要盟	yzmr
 要嗎	yzms
+要嘛	yzmsv
 妖媚	yzmw
 又怎麼樣	yzmy
 要冒	yzmz
