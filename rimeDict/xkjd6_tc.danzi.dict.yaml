@@ -3,7 +3,7 @@
 # 49 自加特殊字
 ---
 name : xkjd6_tc.danzi
-version : 2019.01.30
+version : 2019.03.03
 sort: original
 use_preset_vocabulary: false
 # columns:
@@ -191,9 +191,10 @@ use_preset_vocabulary: false
 逋	bjvi	300	bjvioa
 醭	bjvii	300	bjviii
 鵏	bjviu	27	bjviui
-埠	bjvo	300	bjvoui
+埔	bjvo	300	bjvovi
+埠	bjvou	300	bjvoui
 埗	bjvoi	29	bjvoiv
-埔	bjvov	300	bjvovi
+㘵	bjvovu	300	bjvovu
 不	bjvu	300	bjvuio
 比	bk	300	bkvaua
 避	bka	300	bkavoa
@@ -573,6 +574,7 @@ use_preset_vocabulary: false
 粲	cfiv	300	cfivou
 驂	cfiva	300	cfivao
 慘	cfo	300	cfooao
+喰	cfoi	29	cfoioa
 慚	cfoo	300	cfoova
 燦	cfou	300	cfouia
 穇	cfu	29	cfuvao
@@ -5953,6 +5955,7 @@ use_preset_vocabulary: false
 吶	nsoi	300	nsoiau
 南	nsu	300	nsuoia
 肭	nsui	300	nsuiau
+雫	nsv	500	nsvovi
 暖	nt	300	ntoiuo
 煊	nto	300	ntouoo
 內	nw	300	nwiauo
@@ -6696,6 +6699,7 @@ use_preset_vocabulary: false
 棨	qkoavv	28	qkoavv
 禊	qkoavv	300	qkoavv
 蹊	qkoi	300	qkoiuo
+喰	qkoio	29	qkoioa
 跂	qkoiu	300	qkoiuo
 踦	qkoiv	28	qkoivu
 器	qkoo	300	qkoovu
@@ -7482,6 +7486,7 @@ use_preset_vocabulary: false
 損	swi	300	swiuoa
 蓀	swii	300	swiiai
 隼	swio	300	swiouo
+喰	swo	29	swoioa
 筍	swu	300	swuvav
 猻	swua	300	swuaai
 飧	swuai	300	swuaio
@@ -9593,6 +9598,7 @@ use_preset_vocabulary: false
 應	yg	300	ygovii
 盈	yga	300	ygauia
 纓	ygaa	300	ygaaao
+瀴	ygaao	300	ygaaoa
 瀅	ygao	300	ygaouo
 嬰	ygaoa	300	ygaoau
 瀠	ygaou	300	ygaouo
