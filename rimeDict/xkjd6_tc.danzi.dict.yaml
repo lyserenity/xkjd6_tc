@@ -3,7 +3,7 @@
 # 49 自加特殊字
 ---
 name : xkjd6_tc.danzi
-version : 2019.03.03
+version : 2019.03.10
 sort: original
 use_preset_vocabulary: false
 # columns:
@@ -6393,6 +6393,7 @@ use_preset_vocabulary: false
 瞧	qci	300	qciaio
 峭	qcia	300	qciaio
 睄	qciai	29	qciaio
+骹	qciao	29	qciaov
 嶠	qciau	300	qciauv
 俏	qcii	300	qciiou
 蕎	qciiu	300	qciiuv
@@ -9920,7 +9921,6 @@ use_preset_vocabulary: false
 瘀	ylovo	300	ylovov
 庾	ylovu	300	ylovui
 瘐	ylovui	300	ylovui
-吁	ylovv	300	ylovvi
 魚	ylu	300	yluaia
 獄	ylua	300	yluaoa
 㺄	yluai	27	yluaiv
