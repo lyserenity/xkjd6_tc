@@ -3,7 +3,7 @@
 # 49 自加特殊字
 ---
 name : xkjd6_tc.danzi
-version : 2019.03.10
+version : 2019.04.08
 sort: original
 use_preset_vocabulary: false
 # columns:
@@ -21,6 +21,9 @@ use_preset_vocabulary: false
 #     - length_in_range: [4, 20]
 #       formula: "AaBaCaZaAcBc"
 ...
+# 双音节字
+瓩	qmwsv	28	qmwsva
+# 一級簡碼
 一	y	300	ykvvv
 三	s	300	sfvvvv
 上	i	300	epivvv
@@ -42,7 +45,7 @@ use_preset_vocabulary: false
 有	v	300	ydvuuu
 才	c	300	chviuu
 的	d	300	deuiua
-得	u	300	de
+得	u	300	deuuoi
 而	x	300	xjvuia
 著	o	300	qeiiuo
 這	f	300	feoaoa
@@ -192,8 +195,8 @@ use_preset_vocabulary: false
 醭	bjvii	300	bjviii
 鵏	bjviu	27	bjviui
 埔	bjvo	300	bjvovi
-埠	bjvou	300	bjvoui
 埗	bjvoi	29	bjvoiv
+埠	bjvou	300	bjvoui
 㘵	bjvovu	300	bjvovu
 不	bjvu	300	bjvuio
 比	bk	300	bkvaua
@@ -359,15 +362,15 @@ use_preset_vocabulary: false
 苄	bmii	300	bmiiov
 萹	bmiiu	28	bmiiuu
 抃	bmiu	29	bmiuov
-褊	bmo	300	bmoauu
+辯	bmo	300	bmovoa
+褊	bmoa	300	bmoauu
 昪	bmoi	28	bmoiao
 窆	bmoo	300	bmoouo
 忭	bmooo	300	bmooov
 煸	bmou	300	bmouuu
-辯	bmov	300	bmovoa
+辨	bmov	300	bmovou
 辮	bmova	300	bmovaa
 卞	bmovi	300	bmovio
-辨	bmovo	300	bmovou
 邊	bmu	300	bmuioa
 鯿	bmua	300	bmuauu
 遍	bmuu	300	bmuuoa
@@ -1166,6 +1169,7 @@ use_preset_vocabulary: false
 憝	dwovo	300	dwovoa
 盾	dwu	300	dwuuuo
 得	dwuu	300	dwuuoi
+遯	dwuv	300	dwuvoa
 遁	dwuuo	300	dwuuoa
 礅	dwv	300	dwvuov
 墩	dwvo	300	dwvoov
@@ -2341,6 +2345,7 @@ use_preset_vocabulary: false
 庋	gbov	300	gbovuo
 廆	gbovu	28	gbovui
 鬼	gbu	300	gbuiao
+攰	gbuo	28	gbuoua
 龜	gbua	300	gbuaia
 鮭	gbuav	300	gbuavo
 鱖	gbuavu	300	gbuavu
@@ -5830,7 +5835,8 @@ use_preset_vocabulary: false
 萘	nhiiv	300	nhiivu
 佴	nhiv	300	nhivii
 瘧	nho	300	nhoviv
-哪	nhoa	300	nhoavv
+謔	nhoa	300	nhoaiv
+哪	nhoav	300	nhoavv
 氖	nhu	300	nhuvau
 耐	nhv	300	nhvuvi
 迺	nhvi	300	nhvioa
@@ -6498,7 +6504,8 @@ use_preset_vocabulary: false
 颭	qfuai	29	qfuaiv
 斬	qfv	300	qfvauu
 盞	qfva	300	qfvaia
-輾	qfvaa	300	qfvaav
+暫	qfvao	300	qfvaoi
+輾	qfvaav	300	qfvaav
 槧	qfvav	300	qfvavv
 霑	qfvo	300	qfvoai
 栴	qfvu	28	qfvuvu
@@ -8711,6 +8718,7 @@ use_preset_vocabulary: false
 闇	xfoio	300	xfoiov
 庵	xfov	300	xfovvu
 唵	xfovu	29	xfovuo
+鞌	xfoo	27	xfoovi
 氨	xfu	300	xfuvoo
 犴	xfua	300	xfuavv
 鮟	xfuao	27	xfuaoo
@@ -8777,7 +8785,7 @@ use_preset_vocabulary: false
 哀	xho	300	xhovou
 唉	xhoa	300	xhoaou
 誒	xhoaa	300	xhoaao
-謔	xhoai	300	xhoaiv
+謔	xhoai	0	xhoaiv
 哎	xhoi	300	xhoiiu
 曖	xhoiu	300	xhoiuo
 噱	xhoiv	300	xhoiva
@@ -9124,6 +9132,7 @@ use_preset_vocabulary: false
 珛	xqvvv	28	xqvvvu
 嗯	xr	300	xroiav
 唔	xro	300	xrovia
+下	xs	300	xsvioo
 阿	xsa	300	xsaivo
 遐	xsav	300	xsavoa
 俠	xsi	300	xsivii
@@ -9152,7 +9161,6 @@ use_preset_vocabulary: false
 轄	xsva	300	xsvaoo
 匣	xsvi	300	xsviav
 柙	xsvia	300	xsviav
-下	xsvio	300	xsvioo
 醃	xsviv	300	xsviv
 霞	xsvo	300	xsvoav
 槎	xsvou	300	xsvouv
@@ -9778,6 +9786,7 @@ use_preset_vocabulary: false
 癔	ykovov	300	ykovov
 毅	ykovu	300	ykovua
 疫	ykovua	300	ykovua
+施	ykovuv	300	ykovuv
 旖	ykovuv	300	ykovuv
 疙	ykovuv	300	ykovuv
 弈	ykovv	300	ykovvu
