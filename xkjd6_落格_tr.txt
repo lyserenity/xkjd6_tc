@@ -20883,6 +20883,7 @@
 不止是	bfevi
 不只是	bfevo
 本質上	bfevu
+板燒	bfez
 百分之	bff
 百分之百	bffb
 百分之一百	bffbv
@@ -27471,6 +27472,7 @@
 詞輔	ckfjo
 磁浮	ckfjv
 辭職	ckfk
+此致	ckfki
 次之	ckfko
 磁粉	ckfn
 次方	ckfp
@@ -30161,7 +30163,7 @@
 單幫	dfbp
 氮泵	dfbr
 但把	dfbs
-但被	dfbw
+單倍	dfbw
 地方保護主義	dfby
 擔保	dfbz
 大發慈悲	dfcb
@@ -34465,7 +34467,7 @@
 大尺度	dwdv
 大徹大悟	dwdw
 蹲到	dwdz
-第五十	dwe
+大晚上	dwe
 東窗事發	dwef
 多愁善感	dweg
 黨委書記	dwej
@@ -34476,6 +34478,7 @@
 蹲身	dwen
 墩身	dwenv
 頓生	dwer
+第五十	dweu
 蛋炒飯	dwf
 彈丸之地	dwfd
 蹲著	dwfe
@@ -34971,7 +34974,7 @@
 棟樑	dylx
 動量	dylxu
 東龍	dyly
-第一名	dym
+大姨媽	dym
 懂麼	dyme
 得意門生	dymeu
 動漫	dymf
@@ -34987,8 +34990,8 @@
 打羽毛球	dymqi
 東盟	dymr
 懂嗎	dyms
-大姨媽	dymv
-大沿帽	dymva
+第一名	dymu
+大沿帽	dymv
 冬梅	dymw
 電影明星	dymx
 第一年	dyn
@@ -44338,6 +44341,7 @@
 扶風	fjfr
 復發	fjfs
 浮渣	fjfsa
+復炸	fjfsu
 夫唱婦隨	fjfsv
 復轉	fjft
 反交費	fjfu
@@ -47670,8 +47674,8 @@
 發乾	fsgf
 榨乾	fsgfv
 發股	fsgj
-法國	fsgl
-發過	fsgla
+發過	fsgl
+法國	fsgla
 炸鍋	fsglo
 發光	fsgm
 軋光	fsgmv
@@ -51274,7 +51278,7 @@
 肝功	gfgyu
 各種各樣	gfgyuu
 趕稿	gfgz
-規範化	gfh
+公眾號	gfh
 趕回	gfhb
 幹吼	gfhd
 乾涸	gfhe
@@ -51288,6 +51292,7 @@
 敢恨	gfhn
 感化	gfhq
 公眾號	gfhu
+規範化	gfhv
 乾紅	gfhy
 幹好	gfhz
 鼓風機	gfj
@@ -52889,7 +52894,7 @@
 過心	glxb
 過小	glxc
 過些	glxd
-裡挾	glxdo
+裹挾	glxdo
 國安	glxf
 果形	glxg
 國學	glxh
@@ -53593,6 +53598,7 @@
 掛錶	gqbc
 刮板	gqbf
 顧前不顧後	gqbh
+鋼珠筆	gqbi
 瓜部	gqbj
 掛匾	gqbm
 公主抱	gqbu
@@ -59685,6 +59691,7 @@
 花城	hqjri
 畫家	hqjs
 花架	hqjsi
+花嫁	hqjsia
 花甲	hqjsii
 畫卷	hqjt
 很正常	hqju
@@ -64157,6 +64164,7 @@
 常抓不懈	jfbx
 初中畢業	jfby
 久治不愈	jfbyu
+產包	jfbz
 記分冊	jfc
 躔次	jfck
 角質層	jfcu
@@ -64395,6 +64403,7 @@
 產業	jfye
 絕非易事	jfyea
 讒言	jfyf
+見者有份	jfyfi
 教職員工	jfyg
 集中營	jfyi
 集中於	jfyii
@@ -67422,6 +67431,7 @@
 建華	jmhqa
 見橫	jmhr
 減緩	jmht
+場面話	jmhv
 漸黑	jmhw
 見紅	jmhy
 減號	jmhz
@@ -68919,6 +68929,7 @@
 就業	jqye
 交淺言深	jqyeo
 酒宴	jqyf
+見者有份	jqyfi
 就應	jqyg
 九月	jqyh
 就越	jqyho
@@ -69190,6 +69201,7 @@
 逞能	jrnr
 城內	jrnw
 成品	jrpb
+誠品	jrpbo
 堅如磐石	jrpe
 承盤	jrpf
 成平	jrpg
@@ -69792,8 +69804,8 @@
 長途跋涉	jtbe
 卷柏	jtbh
 家庭背景	jtbj
-絹帛	jtbl
-家庭暴力	jtblo
+家庭暴力	jtbl
+絹帛	jtbla
 卷邊	jtbm
 捐本	jtbn
 交通部	jtbo
@@ -69947,6 +69959,7 @@
 狡兔三窟	jtsku
 集體所有	jtsy
 倦態	jtth
+叫天天不應，叫地地不靈	jttl
 具體體現	jttx
 捲筒	jtty
 捲逃	jttz
@@ -71956,9 +71969,9 @@
 科諢	kehw
 可好	kehz
 跨世紀	kej
-可進	kejb
+氪金	kejb
 恪盡	kejbo
-氪金	kejbu
+可進	kejbv
 科教	kejc
 可接	kejd
 可解	kejdv
@@ -73815,6 +73828,7 @@
 卡帶	ksdh
 喀嗒	ksds
 卡頓	ksdw
+卡水	kseb
 喀山	ksef
 喀什	ksek
 卡神	ksen
@@ -73995,6 +74009,7 @@
 款項	ktxx
 口頭語	kty
 寬宥	ktyd
+寬油	ktydo
 款爺	ktye
 寬嚴	ktyf
 寬約	ktyh
@@ -77481,8 +77496,8 @@
 氯喹	llkb
 旅客	llke
 洛克	llkea
-拉拉褲	llki
-蘿莉控	llkii
+蘿莉控	llki
+拉拉褲	llkii
 籮筐	llkm
 鋁框	llkmi
 綠卡	llks
@@ -82014,6 +82029,7 @@
 木棉	mjmm
 木門	mjmn
 木馬	mjms
+母馬	mjmsa
 牧馬	mjmsu
 母貓	mjmz
 木訥	mjne
@@ -82153,6 +82169,7 @@
 祕寶	mkbzo
 迷彩	mkch
 米醋	mkcj
+冪次	mkck
 迷藏	mkcp
 密從	mkcy
 沒看到	mkd
@@ -92727,6 +92744,7 @@
 青藏	qgzp
 槍桿子	qgzv
 清早	qgzz
+請早	qgzzo
 搶紅包	qhb
 這貨不是	qhbe
 欺行霸市	qhbev
@@ -96809,6 +96827,7 @@
 準定	qwdg
 裙帶	qwdh
 準度	qwdj
+裙底	qwdk
 準點	qwdm
 奇恥大辱	qwdr
 朝聞道，夕死可矣	qwdy
@@ -97313,8 +97332,9 @@
 主要部分	qybfo
 窮兵	qybg
 這樣不好	qybh
-缺一不可	qybk
+窮逼	qybk
 主要包括	qybko
+缺一不可	qybku
 窮本	qybn
 晴雨表	qybo
 這一步	qybov
@@ -100410,8 +100430,8 @@
 三本	sfbn
 三榜	sfbp
 三八	sfbs
-三北	sfbw
-三倍	sfbwv
+三倍	sfbw
+三北	sfbwv
 三包	sfbz
 三寶	sfbzv
 三餐	sfcf
@@ -114976,6 +114996,7 @@
 偶犯	xdff
 現代中國	xdfg
 歐債	xdfh
+攜帶者	xdfi
 歇伏	xdfj
 挾制	xdfk
 獬豸	xdfku
@@ -118881,6 +118902,7 @@
 新民晚報	xmwb
 獻醜	xmwd
 邪門歪道	xmwdv
+邪魔歪道	xmwdvo
 閒扯	xmwe
 先玩	xmwf
 先外	xmwh
@@ -126267,8 +126289,8 @@
 玉臂	ylbkv
 玉璧	ylbkva
 鬱閉	ylbkvo
-餘波	ylbl
-一了百了	ylblv
+一了百了	ylbl
+餘波	ylbli
 預編	ylbm
 愚笨	ylbn
 易拉寶	ylbo
@@ -128274,7 +128296,8 @@
 意味深長	ywejo
 言傳身教	ywejoi
 一無是處	ywejv
-隕石	ywek
+運勢	ywek
+隕石	yweka
 韻事	yweko
 運使	ywekoi
 運勢	ywekov
@@ -128560,6 +128583,7 @@
 因小失大	yxed
 疑心生暗鬼	yxeg
 有些時候	yxeh
+由愛生恨	yxehi
 銀杏樹	yxei
 因循守舊	yxej
 一線生機	yxejv
@@ -131607,7 +131631,7 @@
 做著	zlfeii
 做飯	zlff
 作宅	zlfh
-佐夫	zlfj
+作賦	zlfj
 坐支	zlfk
 坐直	zlfki
 坐著	zlfl
