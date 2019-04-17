@@ -11080,21 +11080,21 @@
 赧	nfvo
 赧	nfvoai
 寧	ng
-寧	ngoooa
+寧	ngooia
 濘	nga
 濘	ngaooa
 擰	ngi
 擰	ngiuoo
 薴	ngii
-薴	ngiioo
+薴	ngiiia
 佞	ngiv
 佞	ngivva
 凝	ngo
 凝	ngovua
 嚀	ngoo
 嚀	ngoooa
-甯	ngooo
-甯	ngoooa
+甯	ngoou
+甯	ngooua
 獰	ngu
 獰	nguaoo
 檸	ngv
@@ -20242,6 +20242,7 @@
 表情	bcqg
 標清	bcqgv
 標註	bcqj
+標注	bcqjv
 表旗	bcqk
 彪軀	bcql
 標籤	bcqm
@@ -25395,6 +25396,7 @@
 保衛戰	bwqi
 把握住	bwqii
 備註	bwqj
+備注	bwqji
 博聞強記	bwqju
 不完全統計	bwqjv
 背起	bwqk
@@ -26473,6 +26475,7 @@
 層層疊疊	ccdd
 璀璨奪目	ccdm
 層次分明	ccfm
+屮艸芔茻	cchm
 猜錯了	ccl
 草草了事	ccle
 匆匆忙忙	ccmm
@@ -27576,7 +27579,8 @@
 雌貓	ckmz
 才可能	ckn
 雌鳥	cknc
-此男	cknf
+次男	cknf
+此男	cknfi
 此乃	cknh
 次女	cknl
 此女	cknli
@@ -30703,6 +30707,7 @@
 盯緊	dgjbi
 訂金	dgjbo
 頂角	dgjc
+定焦	dgjco
 定結	dgjd
 訂車	dgje
 定產	dgjf
@@ -33269,8 +33274,8 @@
 斷然拒絕	drjja
 等級	drjk
 登記	drjka
-登基	drjkav
 登機	drjkav
+登基	drjkav
 等急	drjku
 燈具	drjl
 等距	drjlu
@@ -38450,8 +38455,8 @@
 實時	ekekoo
 適時	ekekoo
 時勢	ekekov
-實事	ekekov
 時事	ekekov
+實事	ekekov
 失勢	ekeku
 失實	ekekuo
 失事	ekekuv
@@ -38535,8 +38540,8 @@
 時鐘	ekfyoi
 適中	ekfyoi
 試種	ekfyou
-十種	ekfyu
-失重	ekfyuu
+失重	ekfyu
+十種	ekfyuu
 示眾	ekfyv
 十兆	ekfz
 是鬼	ekgb
@@ -38648,8 +38653,8 @@
 市級	ekjkoa
 市集	ekjkoi
 試劑	ekjkoo
-實機	ekjkov
 時機	ekjkov
+實機	ekjkov
 十幾	ekjku
 十級	ekjkua
 世紀	ekjkv
@@ -41302,6 +41307,7 @@
 沙源	esyt
 啥用	esyy
 沙嘴	eszb
+沙贊	eszf
 沙災	eszh
 傻子	eszk
 沙子	eszka
@@ -42931,6 +42937,7 @@
 分身乏術	fefeu
 折返	feff
 這番	feffo
+職是之故	fefg
 這幅	fefj
 折服	fefji
 這副	fefjo
@@ -43544,8 +43551,8 @@
 反面	ffmm
 方方面面	ffmmo
 翻面	ffmmu
-分分秒秒	ffmmuu
-朝朝暮暮	ffmmuui
+朝朝暮暮	ffmmuu
+分分秒秒	ffmmuuu
 煩悶	ffmn
 繁忙	ffmp
 反碼	ffms
@@ -44613,6 +44620,7 @@
 非常強	fjqii
 輔助	fjqj
 附註	fjqja
+附注	fjqjaa
 付諸	fjqji
 非常清楚	fjqjii
 腐竹	fjqjo
@@ -45688,8 +45696,8 @@
 之義	fkykoo
 之役	fkykou
 質疑	fkyku
-旨意	fkykuo
 直譯	fkykuo
+旨意	fkykuo
 執意	fkykv
 致以	fkykva
 致意	fkykvo
@@ -46765,7 +46773,8 @@
 房荒	fphm
 芳華	fphq
 防滑	fphqa
-訪華	fphqo
+放話	fphqo
+訪華	fphqoi
 防患	fpht
 放緩	fphto
 芳魂	fphw
@@ -47625,6 +47634,7 @@
 乏術	fseju
 法師	fsek
 發誓	fseka
+法事	fsekav
 髮飾	fseki
 髮式	fsekiv
 詐屍	fseko
@@ -49696,9 +49706,9 @@
 中醫院	fyyiv
 中醫	fyyk
 中意	fyyki
-眾議	fyykio
 忠義	fyykio
 鐘意	fyykio
+眾議	fyykio
 反咬一口	fyyku
 終於	fyyl
 忠於	fyyli
@@ -50164,8 +50174,8 @@
 櫃上	gbep
 更別說	gbev
 更不是	gbevv
-根本上	gbevvi
 趕不上	gbevvi
+根本上	gbevvi
 歸順	gbew
 歸誰	gbewu
 貴霜	gbex
@@ -57895,7 +57905,8 @@
 還平	hhpg
 還派	hhph
 海派	hhpha
-還批	hhpk
+嗨皮	hhpk
+還批	hhpki
 嗨皮	hhpko
 海盆	hhpn
 海旁	hhpp
@@ -60367,6 +60378,7 @@
 還情	htqgio
 還債	htqh
 換住	htqj
+獾豬	htqju
 喚起	htqk
 緩期	htqka
 換氣	htqki
@@ -61831,6 +61843,7 @@
 好缺	hzqha
 合作者	hzqi
 好住	hzqj
+豪豬	hzqjo
 好奇	hzqk
 好氣	hzqka
 豪氣	hzqko
@@ -62657,8 +62670,8 @@
 叫誰	jceboo
 教授	jced
 叫獸	jcedo
-交售	jcedoi
 交手	jcedoi
+交售	jcedoi
 腳手	jcedu
 交涉	jcee
 儲藏室	jcei
@@ -62915,6 +62928,7 @@
 澆鑄	jcqjai
 叫住	jcqjo
 腳註	jcqju
+腳注	jcqjua
 嬌妻	jcqk
 嬌氣	jcqka
 腳氣	jcqku
@@ -63209,8 +63223,8 @@
 京東商城	jdejo
 解釋	jdek
 結實	jdeka
-屆時	jdekao
 結識	jdekao
+屆時	jdekao
 結石	jdekav
 揭示	jdeki
 節食	jdeku
@@ -67609,6 +67623,7 @@
 近墨者黑	jmqhu
 建築	jmqj
 見諸	jmqji
+箭豬	jmqju
 撿起	jmqk
 建起	jmqka
 濺起	jmqkav
@@ -69370,7 +69385,8 @@
 甲板	jsbfi
 假扮	jsbfii
 夾板	jsbfv
-甲兵	jsbg
+加冰	jsbg
+甲兵	jsbgi
 見死不救	jsbj
 頰部	jsbjv
 假幣	jsbk
@@ -69652,6 +69668,7 @@
 緊隨其後	jsqhv
 家住	jsqj
 加註	jsqja
+加注	jsqjaa
 家主	jsqjo
 夾住	jsqjv
 假期	jsqk
@@ -77698,6 +77715,7 @@
 羅伊	llyki
 裸衣	llyko
 落雨	llyl
+落語	llyli
 洛陽	llyp
 綠楊	llypa
 綠芽	llys
@@ -81064,6 +81082,7 @@
 滿杯	mfbw
 瞞報	mfbz
 美中不足	mfbzo
+漫才	mfch
 曼辭	mfck
 滿倉	mfcp
 滿村	mfcw
@@ -81208,7 +81227,8 @@
 慢爬	mfps
 慢跑	mfpz
 滿勤	mfqb
-命中註定	mfqd
+命中注定	mfqd
+命中註定	mfqdi
 瞞著	mfqe
 慢著	mfqeo
 名副其實	mfqeu
@@ -81891,8 +81911,8 @@
 木銼	mjcl
 木村	mjcw
 牧草	mjcz
-民進黨	mjd
-沒覺得	mjda
+沒覺得	mjd
+民進黨	mjda
 木雕	mjdc
 沒精打采	mjdca
 木豆	mjdd
@@ -82181,6 +82201,7 @@
 祕地	mkdko
 密電	mkdm
 米等	mkdr
+貓科動物	mkdw
 蜜洞	mkdy
 迷倒	mkdz
 密道	mkdzo
@@ -84734,6 +84755,7 @@
 毛卷	mzjt
 帽盔	mzkb
 帽扣	mzkd
+貓科	mzke
 毛褲	mzkj
 茅坑	mzkr
 毛孔	mzky
@@ -85955,6 +85977,7 @@
 擬合	nkhe
 你和	nkhei
 你還	nkhh
+膩害	nkhhu
 匿戶	nkhj
 逆火	nkhl
 你很	nkhn
@@ -88610,7 +88633,8 @@
 憑著	pgqe
 平展	pgqf
 平寨	pgqh
-評註	pgqj
+評注	pgqj
+評註	pgqjo
 平齊	pgqk
 平淺	pgqm
 屏障	pgqp
@@ -89236,6 +89260,7 @@
 皮鞘	pkqc
 披著	pkqe
 批註	pkqj
+批注	pkqji
 脾氣	pkqk
 批錢	pkqm
 皮疹	pkqn
@@ -89815,7 +89840,8 @@
 旁敲	ppqc
 龐清	ppqg
 胖豬	ppqj
-旁註	ppqjo
+旁注	ppqjo
+旁註	ppqjoo
 螃蜞	ppqk
 旁證	ppqr
 翩翩起舞	ppqw
@@ -91131,6 +91157,7 @@
 主導地位	qddw
 切到	qddz
 青島市	qde
+注定是	qdea
 且受	qded
 真的是個	qdeg
 真的是一個	qdegu
@@ -93058,7 +93085,8 @@
 朱德	qjde
 煮蛋	qjdf
 朱丹	qjdfu
-註定	qjdg
+注定	qjdg
+註定	qjdgo
 豬肚	qjdj
 傾家蕩產	qjdji
 駐地	qjdk
@@ -93101,11 +93129,13 @@
 著述	qjeji
 著書	qjejia
 斬盡殺絕	qjejv
-註釋	qjek
+注釋	qjek
 注視	qjeka
 主食	qjeko
 主使	qjekoi
+註釋	qjekou
 諸事	qjekov
+主事	qjekov
 輕車熟路	qjel
 這就說明	qjem
 這就是為什麼	qjemo
@@ -93221,12 +93251,14 @@
 將進酒	qjjai
 住進	qjjb
 主教	qjjc
+注腳	qjjca
 助教	qjjci
 住腳	qjjciu
 註腳	qjjco
 豬腳	qjjcv
 輕車簡從	qjjcvv
 註解	qjjd
+注解	qjjda
 傾巢出動	qjjdi
 竹節	qjjdu
 助產	qjjf
@@ -93323,6 +93355,7 @@
 竹篾	qjmdu
 注滿	qjmf
 著名	qjmg
+注明	qjmga
 註明	qjmgo
 主脈	qjmh
 矚目	qjmj
@@ -93474,6 +93507,7 @@
 豬心	qjxb
 誅心	qjxbo
 註銷	qjxc
+注銷	qjxca
 住校	qjxci
 助銷	qjxcii
 逐謝	qjxd
@@ -93499,9 +93533,10 @@
 主凶	qjxy
 取決於	qjy
 強加於	qjya
-註音	qjyb
+注音	qjyb
 助印	qjybi
-主因	qjybo
+註音	qjybo
+主因	qjyboi
 主音	qjyboo
 豬油	qjyd
 著有	qjydi
@@ -94278,8 +94313,8 @@
 區間	qljm
 去見	qljmv
 去建	qljmva
-去撿	qljmvi
 取件	qljmvi
+去撿	qljmvi
 去剪	qljmvo
 取長	qljp
 屈就	qljq
@@ -95507,7 +95542,8 @@
 掌門	qpmn
 張媽	qpms
 張茂	qpmz
-張楠	qpnf
+長男	qpnf
+張楠	qpnfa
 張寧	qpng
 漲奶	qpnh
 長女	qpnl
@@ -100938,6 +100974,7 @@
 素對	sjdb
 素的	sjde
 蘇丹	sjdf
+伺機待發	sjdfi
 四季豆	sjdi
 速度	sjdj
 速讀	sjdjv
@@ -101134,6 +101171,7 @@
 素心	sjxbv
 速效	sjxc
 速寫	sjxd
+伺機而動	sjxdi
 蘇俄	sjxe
 甦醒	sjxg
 塑性	sjxgo
@@ -103666,10 +103704,11 @@
 頭癬	tdxt
 鐵鉉	tdxti
 泰迪熊	tdxv
-頭像	tdxx
+投降	tdxx
 鐵箱	tdxxi
 投降	tdxxia
 投向	tdxxiu
+頭像	tdxxv
 天妒英才	tdyc
 貼有	tdyd
 鐵友	tdydi
@@ -106335,6 +106374,7 @@
 投入生產	trej
 騰身	tren
 投入使用	trey
+同人誌	trf
 天壤之別	trfb
 突然之間	trfj
 騰房	trfp
@@ -108582,6 +108622,7 @@
 物質獎勵	wfjlu
 晚間	wfjm
 吹風機	wfjo
+差分機	wfjou
 萬場	wfjp
 挽救	wfjq
 完成	wfjr
@@ -110781,7 +110822,7 @@
 我們需要	wmxy
 我們現在	wmxz
 無名小卒	wmxzu
-我們也	wmy
+我沒有	wmy
 創優	wmyd
 聞名於世	wmye
 創業	wmyei
@@ -110797,6 +110838,7 @@
 我們以前	wmyqu
 窗園	wmyt
 我們要	wmyu
+我們也	wmyui
 我們以為	wmyw
 我們也許	wmyx
 臭名遠揚	wmyy
@@ -113261,8 +113303,8 @@
 衝孔	wyky
 重考	wykz
 扯遠了	wyl
-重臨	wylb
-無與倫比	wylbu
+無與倫比	wylb
+重臨	wylbu
 舂料	wylc
 崇烈	wyld
 衝了	wyle
@@ -114004,12 +114046,12 @@
 心訣	xbjho
 新出	xbjj
 而不僅僅	xbjjv
-心機	xbjk
+心急	xbjk
 薪級	xbjki
 薪給	xbjkia
 信計	xbjkio
 信基	xbjkiv
-心急	xbjko
+心機	xbjko
 心計	xbjkoo
 心肌	xbjkou
 新機	xbjkov
@@ -115537,8 +115579,8 @@
 形神俱滅	xejm
 新手機	xejo
 新世界	xejov
-新世紀	xejova
 顯示出	xejova
+新世紀	xejova
 訛稱	xejr
 學術界	xeju
 二十九	xejv
@@ -117721,6 +117763,7 @@
 西式	xkekvv
 戲說	xkel
 細說	xkela
+洗腎	xken
 席上	xkep
 小康水平	xkepi
 襲上	xkepo
@@ -125117,8 +125160,8 @@
 養家餬口	yjhk
 有機會	yjhv
 研究會	yjhvo
-原計劃	yjhvoa
 有計劃	yjhvoa
+原計劃	yjhvoa
 有句話	yjhvu
 衣錦還鄉	yjhx
 以舊換新	yjhxa
@@ -125913,7 +125956,8 @@
 眼看著	ykqi
 遺囑	ykqj
 挹注	ykqji
-譯註	ykqjo
+譯注	ykqjo
+譯註	ykqjoo
 易主	ykqjoo
 一株	ykqjv
 醫囑	ykqjvo
@@ -126155,7 +126199,8 @@
 以下	ykxsa
 已下	ykxsav
 意下	ykxso
-一夏	ykxsv
+一下	ykxsv
+一夏	ykxsvv
 已選	ykxt
 一顆心	ykxv
 依循	ykxw
@@ -127813,6 +127858,7 @@
 要死要活	ysyhv
 壓抑	ysyk
 訝異	ysyko
+衙役	ysyku
 牙醫	ysykv
 亞裔	ysykvo
 亞於	ysyl

@@ -3,7 +3,7 @@
 # 49 自加特殊字
 ---
 name : xkjd6_tc.danzi
-version : 2019.04.08
+version : 2019.04.17
 sort: original
 use_preset_vocabulary: false
 # columns:
@@ -5814,14 +5814,14 @@ use_preset_vocabulary: false
 腩	nfuu	300	nfuuoi
 楠	nfv	300	nfvuoi
 赧	nfvo	300	nfvoai
-寧	ng	300	ngoooa
+寧	ng	300	ngooia
 濘	nga	300	ngaooa
 擰	ngi	300	ngiuoo
-薴	ngii	300	ngiioo
+薴	ngii	300	ngiiia
 佞	ngiv	300	ngivva
 凝	ngo	300	ngovua
 嚀	ngoo	300	ngoooa
-甯	ngooo	300	ngoooa
+甯	ngoou	300	ngooua
 獰	ngu	300	nguaoo
 檸	ngv	300	ngvooa
 聹	ngvi	300	ngvioo
@@ -10480,4 +10480,4 @@ use_preset_vocabulary: false
 棗	zzvi	300	zzvivi
 𥖨	zzvu	27	zzvuoo
 璪	zzvv	29	zzvvoo
-一	y	300	ykvvv
+# 双音节字
