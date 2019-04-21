@@ -20879,7 +20879,8 @@
 不知深淺	bfeqv
 半生	bfer
 半聲	bfero
-半霎	bfes
+癍痧	bfes
+半霎	bfeso
 百分數	bfev
 不止是	bfevi
 不只是	bfevo
@@ -21651,6 +21652,7 @@
 拜別	bhbd
 百般	bhbf
 白板	bhbfu
+白班	bhbfuv
 百病	bhbg
 拜拜	bhbh
 擺擺	bhbhi
@@ -22001,6 +22003,7 @@
 白色	bhse
 百色	bhsev
 敗訴	bhsj
+白素	bhsju
 百思	bhsk
 白絲	bhsku
 白森	bhsn
@@ -22249,6 +22252,7 @@
 不甚	bjenvv
 寶雞市	bjeo
 補上	bjep
+不上	bjepv
 不耍	bjeq
 杯酒釋兵權	bjeqv
 不勝	bjer
@@ -22431,6 +22435,7 @@
 不久	bjjq
 補救	bjjqo
 別出機杼	bjjqoa
+不就	bjjqv
 不成	bjjr
 不加	bjjs
 補加	bjjso
@@ -24849,6 +24854,7 @@
 八景	bsjg
 拔出	bsjj
 拔除	bsjji
+罷黜	bsjjii
 吧唧	bsjk
 巴基	bsjka
 八級	bsjku
@@ -28428,6 +28434,7 @@
 磁懸浮	cxf
 殘奧會	cxh
 促膝交談	cxjt
+菜虛鯤	cxk
 次顯碼錶	cxmb
 藏形匿影	cxny
 曹雪芹	cxq
@@ -29314,8 +29321,8 @@
 掉眩	dcxt
 調馴	dcxw
 雕像	dcxx
-貂熊	dcxy
-大材小用	dcxyv
+大材小用	dcxy
+貂熊	dcxyu
 大草原	dcy
 雕印	dcyb
 調音	dcybo
@@ -29411,6 +29418,7 @@
 逗點	dddm
 叮叮噹	dddo
 跌宕	dddp
+跌蕩	dddpo
 兜襠	dddpu
 大敵當前	dddq
 得道多助	dddqu
@@ -30895,6 +30903,7 @@
 釘子	dgzk
 定子	dgzko
 丁字	dgzkv
+頂字	dgzkvo
 定做	dgzl
 訂做	dgzlo
 大個子	dgzv
@@ -32273,6 +32282,7 @@
 多禮	dllku
 墮落	dlll
 多慮	dlllu
+獨樂樂不如眾樂樂	dllluu
 多練	dllm
 達賴喇嘛	dllmv
 多留	dllq
@@ -32488,6 +32498,7 @@
 電泵	dmbr
 電霸	dmbs
 墊背	dmbw
+墊被	dmbwv
 電報	dmbz
 代名詞	dmc
 電測	dmce
@@ -33157,6 +33168,7 @@
 丟損	dqsw
 得其所哉	dqsz
 大前提	dqt
+打氣筒	dqti
 大豬蹄子	dqtz
 丟醜	dqwd
 但求無過	dqwg
@@ -33693,13 +33705,13 @@
 大叫	dsjcv
 大覺	dsjcvu
 大腳	dsjcvu
-大街	dsjd
+大姐	dsjd
 打劫	dsjdi
 打結	dsjdia
 搭接	dsjdii
 第三季度	dsjdu
 第四季度	dsjdui
-大姐	dsjdv
+大街	dsjdv
 大節	dsjdvu
 大解	dsjdvu
 打車	dsje
@@ -35458,6 +35470,7 @@
 倒退	dztb
 倒推	dztbi
 倒貼	dztd
+刀頭	dztda
 倒頭	dztdi
 到頭	dztdv
 倒坍	dztf
@@ -38540,8 +38553,8 @@
 時鐘	ekfyoi
 適中	ekfyoi
 試種	ekfyou
-失重	ekfyu
-十種	ekfyuu
+十種	ekfyu
+失重	ekfyuu
 示眾	ekfyv
 十兆	ekfz
 是鬼	ekgb
@@ -38882,8 +38895,8 @@
 失球	ekqqu
 市政	ekqr
 實證	ekqro
-施政	ekqrov
 時政	ekqrov
+施政	ekqrov
 實權	ekqt
 事權	ekqtv
 失準	ekqw
@@ -43439,6 +43452,7 @@
 泛化	ffhqa
 繁花	ffhqu
 反華	ffhqui
+反話	ffhquo
 夫復何求	ffhqv
 帆桁	ffhr
 返還	ffht
@@ -43551,8 +43565,8 @@
 反面	ffmm
 方方面面	ffmmo
 翻面	ffmmu
-朝朝暮暮	ffmmuu
-分分秒秒	ffmmuuu
+分分秒秒	ffmmuu
+朝朝暮暮	ffmmuui
 煩悶	ffmn
 繁忙	ffmp
 反碼	ffms
@@ -43766,6 +43780,7 @@
 反譯	ffykuo
 犯疑	ffykuu
 繁育	ffyl
+反語	ffylu
 梵語	ffylv
 枝繁葉茂	ffym
 照這樣	ffyo
@@ -45696,8 +45711,8 @@
 之義	fkykoo
 之役	fkykou
 質疑	fkyku
-直譯	fkykuo
 旨意	fkykuo
+直譯	fkykuo
 執意	fkykv
 致以	fkykva
 致意	fkykvo
@@ -47463,6 +47478,7 @@
 豐榮	frry
 豐饒	frrz
 烽燧	frsb
+封歲	frsbv
 風色	frse
 封三	frsf
 風俗	frsj
@@ -48520,6 +48536,7 @@
 非零	fwlg
 飛來	fwlh
 飛掠	fwlha
+肥來	fwlhu
 費力	fwlk
 飛離	fwlka
 非禮	fwlki
@@ -49706,9 +49723,9 @@
 中醫院	fyyiv
 中醫	fyyk
 中意	fyyki
+眾議	fyykio
 忠義	fyykio
 鐘意	fyykio
-眾議	fyykio
 反咬一口	fyyku
 終於	fyyl
 忠於	fyyli
@@ -50120,6 +50137,7 @@
 根本不能	gbbn
 根本不可能	gbbnv
 貴邦	gbbp
+乖寶寶	gbbu
 龜背	gbbw
 瑰寶	gbbz
 根本不存在	gbbzv
@@ -50174,8 +50192,8 @@
 櫃上	gbep
 更別說	gbev
 更不是	gbevv
-趕不上	gbevvi
 根本上	gbevvi
+趕不上	gbevvi
 歸順	gbew
 歸誰	gbewu
 貴霜	gbex
@@ -51611,8 +51629,8 @@
 個國家	ggjiio
 拐出	ggjj
 乾乾淨淨	ggjju
-恭恭敬敬	ggjjv
-規規矩矩	ggjjvv
+規規矩矩	ggjjv
+恭恭敬敬	ggjjvv
 怪句	ggjl
 乖蹇	ggjm
 各個擊破	ggjp
@@ -54591,7 +54609,6 @@
 國務院	gwyia
 給以	gwyk
 給與	gwyl
-給予	gwyla
 國務院總理	gwyli
 國務院副總理	gwylia
 宮外孕	gwyo
@@ -55997,6 +56014,7 @@
 好不好	hbha
 會徽	hbhb
 回回	hbhbi
+揮揮	hbhbii
 會後	hbhd
 回合	hbhe
 會合	hbhei
@@ -56869,6 +56887,7 @@
 合格	hege
 喝乾	hegf
 何干	hegfi
+禾杆	hegfu
 核苷	hegfv
 合該	hegh
 何故	hegj
@@ -59651,8 +59670,8 @@
 何去何從	hqhc
 化合	hqhe
 華翰	hqhf
-華海	hqhh
-花海	hqhhi
+花海	hqhh
+華海	hqhhi
 畫虎	hqhj
 花活	hqhl
 合情合理	hqhli
@@ -63223,8 +63242,8 @@
 京東商城	jdejo
 解釋	jdek
 結實	jdeka
-結識	jdekao
 屆時	jdekao
+結識	jdekao
 結石	jdekav
 揭示	jdeki
 節食	jdeku
@@ -73287,7 +73306,8 @@
 考慮考慮	klklu
 擴孔	klky
 卡路里	kll
-蛞螻	klld
+擴列	klld
+蛞螻	klldi
 科羅拉多	klldu
 闊路	kllj
 闊落	klll
@@ -75818,6 +75838,7 @@
 藍海	lfhh
 爛糊	lfhj
 爛貨	lfhl
+懶貨	lfhlo
 鸞鳳和鳴	lfhm
 蘭花	lfhq
 六方會談	lfht
@@ -75984,6 +76005,7 @@
 伶仃	lgdg
 領帶	lgdh
 零度	lgdj
+領讀	lgdji
 領地	lgdk
 鈴鐸	lgdl
 零點	lgdm
@@ -76523,8 +76545,8 @@
 來安	lhxf
 來學	lhxh
 萊爾	lhxj
-萊西	lhxk
-來襲	lhxkv
+來襲	lhxk
+萊西	lhxki
 略顯	lhxm
 來顯	lhxmv
 萊恩	lhxn
@@ -81024,8 +81046,9 @@
 妙手回春	mehj
 沒時間	mej
 墨守成規	mejg
-美食家	mejo
+美食街	mejo
 祕書處	mejoa
+美食家	mejoi
 名師出高徒	mejt
 面授機宜	mejy
 美術課	mek
@@ -88792,6 +88815,7 @@
 排擠	phjk
 拍擊	phjki
 牌局	phjl
+俳句	phjli
 派件	phjm
 排場	phjp
 牌九	phjq
@@ -88873,6 +88897,7 @@
 排斥	phwk
 派往	phwp
 排查	phws
+排插	phwsi
 排位	phww
 牌位	phwwu
 破壞性	phx
@@ -94313,8 +94338,8 @@
 區間	qljm
 去見	qljmv
 去建	qljmva
-取件	qljmvi
 去撿	qljmvi
+取件	qljmvi
 去剪	qljmvo
 取長	qljp
 屈就	qljq
@@ -97101,6 +97126,7 @@
 牆紙	qxfkaa
 槍支	qxfkv
 強壯	qxfm
+強裝	qxfma
 搶分	qxfn
 搶房	qxfp
 搶抓	qxfq
@@ -97111,6 +97137,7 @@
 真愛粉	qxfu
 娶媳婦	qxfv
 強壯	qxfx
+強裝	qxfxa
 強中	qxfy
 這些個	qxg
 搶購	qxgd
@@ -97398,8 +97425,8 @@
 這樣的情況	qydk
 這丫的	qydo
 這一代	qydov
-前一段	qydovu
 這一段	qydovu
+前一段	qydovu
 這樣的事情	qydq
 這樣的人	qydr
 窮達	qyds
@@ -102385,6 +102412,7 @@
 孫兒	swxj
 孫媳	swxk
 孫婿	swxl
+三味線	swxv
 三文魚	swy
 算無遺策	swyc
 損友	swyd
@@ -103274,6 +103302,7 @@
 跳下	tcxso
 挑選	tcxt
 跳箱	tcxx
+糖醋魚	tcy
 調音	tcyb
 跳音	tcybo
 調優	tcyd
@@ -109632,6 +109661,7 @@
 無臉	wjlmuu
 五聯	wjlmv
 五連	wjlmvv
+外焦裡嫩	wjln
 忘記了	wjlo
 物流	wjlq
 微處理器	wjlqu
@@ -113463,8 +113493,8 @@
 重音	wyyb
 沖印	wyyba
 無以言表	wyybu
-重又	wyyd
-無言以對	wyydu
+無言以對	wyyd
+重又	wyydu
 蟲葉	wyye
 重演	wyyf
 充盈	wyyg
@@ -114985,8 +115015,8 @@
 毆打	xddsv
 相當的	xddv
 現代的	xddvi
-喜當爹	xddviu
 相當多	xddviu
+喜當爹	xddviu
 相當大	xddviv
 想得到	xddvu
 許多東西	xddx
@@ -125647,6 +125677,7 @@
 一行	ykhp
 異化	ykhq
 一橫	ykhr
+一哈	ykhs
 一環	ykht
 已還	ykhta
 易患	ykhto
@@ -126076,6 +126107,7 @@
 異體	yktki
 遺體	yktkii
 一體	yktkv
+一提	yktkvi
 依託	yktl
 一坨	yktlv
 一天	yktm
@@ -126196,8 +126228,7 @@
 衣袖	ykxq
 一宿	ykxqv
 以下	ykxs
-以下	ykxsa
-已下	ykxsav
+已下	ykxsa
 意下	ykxso
 一下	ykxsv
 一夏	ykxsvv
@@ -129368,6 +129399,7 @@
 要對	yzdb
 咬掉	yzdc
 要得	yzde
+要的	yzdev
 要擔	yzdf
 咬定	yzdg
 要頂	yzdgv
@@ -133122,6 +133154,7 @@
 皂莢	zzjsui
 早春	zzjw
 早朝	zzjz
+灶口	zzkd
 早課	zzke
 早看	zzkf
 鑿開	zzkh
@@ -133371,7 +133404,7 @@
 眾人	fii
 非常	fio
 直接	fiu
-桌上	fiv
+這些	fiv
 知道	fo
 這麼	fo
 放心	foa
@@ -133640,9 +133673,8 @@
 情況	qao
 強忍	qau
 逐漸	qav
-這些	qi
-其他	qia
-起點	qia
+其他	qi
+其中	qia
 整個	qii
 其餘	qio
 正常	qio
