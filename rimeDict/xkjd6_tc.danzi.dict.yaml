@@ -3,7 +3,7 @@
 # 49 自加特殊字
 ---
 name : xkjd6_tc.danzi
-version : 2019.04.17
+version : 2019.05.21
 sort: original
 use_preset_vocabulary: false
 # columns:
@@ -9544,6 +9544,7 @@ use_preset_vocabulary: false
 趼	yfoivv	300	yfoivv
 閆	yfoivv	300	yfoivv
 嚴	yfoo	300	yfoovu
+喦	yfoo	28	yfooia
 宴	yfooo	300	yfoooi
 唁	yfoov	300	yfoovv
 戭	yfoova	28	yfoova
