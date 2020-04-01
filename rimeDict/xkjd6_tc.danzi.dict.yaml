@@ -3,7 +3,7 @@
 # 49 自加特殊字
 ---
 name : xkjd6_tc.danzi
-version : 2019.05.21
+version : 2020.04.01
 sort: original
 use_preset_vocabulary: false
 # columns:
@@ -1137,7 +1137,6 @@ use_preset_vocabulary: false
 靼	dsvio	300	dsvioi
 墶	dsvo	28	dsvouo
 耷	dsvu	300	dsvuvi
-	dsvuv	27	dsvuvu
 段	dt	300	dtuiua
 斷	dta	300	dtaauu
 緞	dtaa	300	dtaaui
@@ -1169,8 +1168,8 @@ use_preset_vocabulary: false
 憝	dwovo	300	dwovoa
 盾	dwu	300	dwuuuo
 得	dwuu	300	dwuuoi
-遯	dwuv	300	dwuvoa
 遁	dwuuo	300	dwuuoa
+遯	dwuv	300	dwuvoa
 礅	dwv	300	dwvuov
 墩	dwvo	300	dwvoov
 砘	dwvu	300	dwvuva
@@ -2165,6 +2164,7 @@ use_preset_vocabulary: false
 罰	fsi	300	fsiaoa
 眨	fsia	300	fsiauo
 蚱	fsiau	300	fsiauv
+甴	fsiav	28	fsiavi
 鍘	fsio	300	fsioao
 扎	fsiu	300	fsiuaa
 挓	fsiuo	28	fsiuoo
@@ -2345,12 +2345,12 @@ use_preset_vocabulary: false
 庋	gbov	300	gbovuo
 廆	gbovu	28	gbovui
 鬼	gbu	300	gbuiao
-攰	gbuo	28	gbuoua
 龜	gbua	300	gbuaia
 鮭	gbuav	300	gbuavo
 鱖	gbuavu	300	gbuavu
 歸	gbui	300	gbuiav
 皈	gbuiu	300	gbuiuu
+攰	gbuo	28	gbuoua
 簋	gbuv	300	gbuvav
 筀	gbuvv	28	gbuvvo
 桂	gbv	300	gbvvov
@@ -3535,6 +3535,7 @@ use_preset_vocabulary: false
 巉	jfiaua	29	jfiaua
 嶄	jfiav	300	jfiava
 蕆	jfii	300	jfiivu
+苂	jfiio	28	jfiiou
 饞	jfio	300	jfioua
 儳	jfioa	28	jfioai
 鏟	jfioo	300	jfioov
@@ -6504,8 +6505,8 @@ use_preset_vocabulary: false
 颭	qfuai	29	qfuaiv
 斬	qfv	300	qfvauu
 盞	qfva	300	qfvaia
-暫	qfvao	300	qfvaoi
 輾	qfvaav	300	qfvaav
+暫	qfvao	300	qfvaoi
 槧	qfvav	300	qfvavv
 霑	qfvo	300	qfvoai
 栴	qfvu	28	qfvuvu
@@ -8716,9 +8717,9 @@ use_preset_vocabulary: false
 詻	xfoau	300	xfoaua
 暗	xfoi	300	xfoiov
 闇	xfoio	300	xfoiov
+鞌	xfoo	27	xfoovi
 庵	xfov	300	xfovvu
 唵	xfovu	29	xfovuo
-鞌	xfoo	27	xfoovi
 氨	xfu	300	xfuvoo
 犴	xfua	300	xfuavv
 鮟	xfuao	27	xfuaoo
@@ -9363,6 +9364,7 @@ use_preset_vocabulary: false
 蟫	ybiav	28	ybiavi
 蔭	ybii	300	ybiiai
 茵	ybiii	300	ybiiia
+苂	ybiio	28	ybiiou
 茚	ybiiu	300	ybiiua
 飲	ybio	300	ybioua
 銦	ybioi	300	ybioia
@@ -9414,6 +9416,7 @@ use_preset_vocabulary: false
 蝣	ydiao	300	ydiaov
 蝤	ydiaou	300	ydiaou
 囿	ydiav	300	ydiavu
+甴	ydiavi	28	ydiavi
 悠	ydii	300	ydiioa
 莜	ydiii	300	ydiiii
 攸	ydiiu	300	ydiiuv
@@ -9543,8 +9546,8 @@ use_preset_vocabulary: false
 閹	yfoiv	300	yfoivu
 趼	yfoivv	300	yfoivv
 閆	yfoivv	300	yfoivv
-嚴	yfoo	300	yfoovu
 喦	yfoo	28	yfooia
+嚴	yfoo	300	yfoovu
 宴	yfooo	300	yfoooi
 唁	yfoov	300	yfoovv
 戭	yfoova	28	yfoova
@@ -9659,6 +9662,7 @@ use_preset_vocabulary: false
 鉞	yhi	300	yhiova
 嶽	yhia	300	yhiaua
 囝	yhiaa	300	yhiaai
+曱	yhiav	28	yhiavv
 睚	yhiav	300	yhiavu
 葯	yhii	300	yhiiaa
 鑰	yhio	300	yhioiv
@@ -10481,4 +10485,5 @@ use_preset_vocabulary: false
 棗	zzvi	300	zzvivi
 𥖨	zzvu	27	zzvuoo
 璪	zzvv	29	zzvvoo
+# 	dsvuv	27	dsvuvu
 # 双音节字
