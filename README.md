@@ -54,10 +54,10 @@
     <col style="border-right:1px hidden">
     </colgroup>
 <tr style='border-bottom:2px hidden;'>
-  　<td rowspan="3">RIME</td>
+  　<td rowspan="4">RIME</td>
   　<td>單字</td>
   　<td>rimeDict/xkjd6_tc.danzi.dict.yaml</td>
-  　<td rowspan="3">win / mac / ios / android/</td>
+  　<td rowspan="4">win / mac / ios / android/</td>
 　</tr>
 　<tr>
   　<td>詞組</td>
@@ -67,9 +67,17 @@
   　<td>630聲筆(筆)詞組</td>
   　<td>rimeDict/xkjd6_tc.wxw.dict.yaml</td>
 　</tr>
+<tr>
+  　<td>台灣用語特殊詞組</td>
+  　<td>rimeDict/xkjd6_tc.tw.dict.yaml</td>
+　</tr>
 </table>
 
 > 請注意: 落格碼表不含標點符號編碼
+
+> ``台灣用語特殊詞組``文件: 儘量縮短編碼，有重碼的可能
+> - 增加若干特殊用語：如「走鐘」、「悠遊卡」等詞彙
+> - 習慣用法（非錯誤）：「義大利」（非「意大利」）、「台北市」（較「臺北市」常用）
 
 3. 繁體碼表基於鍵道規則編碼，由於繁體字形較為繁複，且未經方案作者的審核，
 恐有缺字、編碼錯落或理解有誤的地方，也歡迎各位提出。
