@@ -1,6 +1,7 @@
 # 忽略以下文件
 .DS_Sore
 /sysTool
+.mypy_cache/
 /xkjd6_tempDict
 /xkjd6_python/
 /xkjd6_backup/
