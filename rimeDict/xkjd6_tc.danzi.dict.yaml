@@ -3,7 +3,7 @@
 # 49 自加特殊字
 ---
 name : xkjd6_tc.danzi
-version : 2020.04.01
+version : 2020.04.13
 sort: original
 use_preset_vocabulary: false
 # columns:
@@ -723,6 +723,7 @@ use_preset_vocabulary: false
 樅	cyvu	300	cyvuui
 琮	cyvv	300	cyvvoo
 璁	cyvvu	300	cyvvui
+瑽	cyvvuu	300	cyvvuu
 草	cz	300	cziioi
 漕	cza	300	czavia
 操	czi	300	cziuoo
@@ -7871,6 +7872,7 @@ use_preset_vocabulary: false
 牠	tsuv	300	tsuvai
 塔	tsv	300	tsvoii
 鞳	tsvi	28	tsviii
+榙	tsvii	300	tsviii
 塌	tsvo	300	tsvooi
 榻	tsvoi	300	tsvoia
 	tsvu	27	tsvuvu
