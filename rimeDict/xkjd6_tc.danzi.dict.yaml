@@ -3,7 +3,7 @@
 # 49 自加特殊字
 ---
 name : xkjd6_tc.danzi
-version : 2020.04.13
+version : 2020.04.26
 sort: original
 use_preset_vocabulary: false
 # columns:
@@ -1562,7 +1562,6 @@ use_preset_vocabulary: false
 裳	epioo	300	epioov
 傷	epiu	300	epiuvo
 商	epo	300	epovia
-誒	epoa	300	epoaao
 晌	epoi	300	epoiui
 熵	epou	300	epouov
 觴	epu	300	epuauv
@@ -1637,6 +1636,8 @@ use_preset_vocabulary: false
 霜	exvo	300	exvovi
 鸘	exvou	28	exvoui
 礵	exvu	28	exvuvo
+漺	exav	28	exavuo
+漺	emav	28	emavuo
 少	ez	300	eziuou
 紹	eza	300	ezaaau
 邵	ezau	300	ezauai
@@ -1958,6 +1959,7 @@ use_preset_vocabulary: false
 趾	fkoi	300	fkoiiv
 躑	fkoio	300	fkoiou
 蹢	fkoiov	28	fkoiov
+蹠	fkoiov	28	fkoiov
 躓	fkoiu	300	fkoiuu
 跖	fkoiv	300	fkoivu
 晊	fkoiva	28	fkoiva
@@ -7594,6 +7596,7 @@ use_preset_vocabulary: false
 探	tfi	300	tfiuoa
 炭	tfia	300	tfiavu
 氍	tfiau	300	tfiauv
+怹	tfiao	300	tfiaoa
 菼	tfii	28	tfiiou
 蕁	tfiia	300	tfiiav
 貪	tfio	300	tfioao
@@ -8462,6 +8465,8 @@ use_preset_vocabulary: false
 瑋	wwvv	300	wwvvai
 琟	wwvvi	28	wwvvio
 床	wx	300	wxovvv
+漺	wxa	28	wxavuo
+漺	wma	28	wmavuo
 創	wxi	300	wxioii
 幢	wxia	300	wxiaov
 戧	wxio	300	wxiova
@@ -8787,7 +8792,6 @@ use_preset_vocabulary: false
 捱	xhiuv	300	xhiuvu
 哀	xho	300	xhovou
 唉	xhoa	300	xhoaou
-誒	xhoaa	300	xhoaao
 謔	xhoai	0	xhoaiv
 哎	xhoi	300	xhoiiu
 曖	xhoiu	300	xhoiuo
@@ -8882,6 +8886,7 @@ use_preset_vocabulary: false
 戲	xkivv	300	xkivva
 席	xko	300	xkovia
 禧	xkoa	300	xkoavo
+誒	xkoaa	300	xkoaao
 裼	xkoao	300	xkoaoi
 訢	xkoau	28	xkoauu
 禊	xkoav	300	xkoavv
@@ -10022,6 +10027,7 @@ use_preset_vocabulary: false
 蚜	ysiava	300	ysiava
 睚	ysiavu	300	ysiavu
 芽	ysii	300	ysiiva
+蕥	ysiiv	28	ysiiva
 揠	ysiu	300	ysiuvo
 伢	ysiv	300	ysivai
 呀	yso	300	ysovai
