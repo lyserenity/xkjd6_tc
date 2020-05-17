@@ -3,7 +3,7 @@
 # 49 自加特殊字
 ---
 name : xkjd6_tc.danzi
-version : 2020.04.26
+version : 2020.05.18
 sort: original
 use_preset_vocabulary: false
 # columns:
@@ -1327,9 +1327,9 @@ use_preset_vocabulary: false
 衰	egov	300	egovia
 甩	egu	300	eguavv
 榱	egv	300	egvovi
-曬	eh	300	ehoivi
+晒	eh	300	ehoivi
 鎩	ehi	300	ehiouo
-晒	eho	300	ehoivi
+曬	eho	28	ehoivi
 篩	ehu	300	ehuvui
 色	ehua	300	ehuaai
 釃	ehv	300	ehvivi
@@ -5485,6 +5485,7 @@ use_preset_vocabulary: false
 母	mja	300	mjaaov
 牟	mjao	300	mjaouv
 鶩	mjaou	300	mjaoui
+楘	mjaov	300	mjaovv
 姆	mjau	300	mjauaa
 姥	mjauu	300	mjauuo
 沐	mjav	300	mjavv
@@ -7256,6 +7257,7 @@ use_preset_vocabulary: false
 仍	rr	300	rriauu
 扔	rri	300	rriuau
 艿	rrii	300	rriiau
+礽	rro	300	rroaau
 軟	rt	300	rtvaua
 阮	rta	300	rtaivv
 媆	rtau	29	rtauvu
