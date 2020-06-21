@@ -319,8 +319,7 @@ sort: original
 標著	bcqe
 表情	bcqg
 標清	bcqgv
-標注	bcqj
-標註	bcqjv
+標註	bcqj
 表旗	bcqk
 彪軀	bcql
 標籤	bcqm
@@ -1043,6 +1042,7 @@ sort: original
 班會	bfhb
 搬回	bfhbi
 扳回	bfhbii
+板繪	bfhbv
 不知好歹	bfhd
 辦後	bfhdo
 不知何時	bfhe
@@ -1595,6 +1595,7 @@ sort: original
 兵亂	bglt
 不過來	bglv
 不給力	bglva
+不過了	bglvi
 不歸路	bglvu
 不管了	bglvua
 不幹了	bglvua
@@ -2253,8 +2254,7 @@ sort: original
 白眼	bhyf
 白煙	bhyfu
 白影	bhyg
-白螢	bhygu
-白熒	bhyguo
+白熒	bhygu
 白月	bhyh
 白衣	bhyk
 白蟻	bhyku
@@ -2738,6 +2738,7 @@ sort: original
 不眠	bjmmv
 部門	bjmn
 不忙	bjmp
+邊境牧羊犬	bjmq
 補碼	bjms
 比較慢	bjmv
 不結盟	bjmva
@@ -3100,7 +3101,8 @@ sort: original
 補藥	bjyzo
 敗家子	bjz
 不醉	bjzb
-不走	bjzd
+步驟	bjzd
+不走	bjzdv
 不擇	bjze
 巴解組織	bjzf
 不再	bjzh
@@ -3265,6 +3267,7 @@ sort: original
 逼格	bkge
 逼哥	bkgev
 比個	bkgevi
+比格	bkgevv
 筆桿	bkgf
 鼻骨	bkgj
 辟穀	bkgja
@@ -3418,8 +3421,8 @@ sort: original
 避難	bknf
 不可逆轉	bknfv
 比擬	bknk
-比你	bknkv
-逼你	bknkvi
+逼你	bknkv
+比你	bknkvi
 婢女	bknl
 比年	bknm
 鼻牛	bknq
@@ -3700,7 +3703,6 @@ sort: original
 亳州	blfd
 波折	blfe
 波寨	blfh
-播放量	blfi
 撥付	blfj
 波幅	blfja
 伯父	blfji
@@ -3895,8 +3897,8 @@ sort: original
 薄田	bltm
 波騰	bltr
 博塔	blts
-柏拉圖	bltv
-玻璃體	bltvv
+玻璃體	bltv
+柏拉圖	bltvi
 撥通	blty
 百裡挑一	bltyv
 波濤	bltz
@@ -4135,6 +4137,7 @@ sort: original
 便車	bmje
 邊境	bmjg
 編出	bmjj
+貶黜	bmjja
 變出	bmjjo
 編輯	bmjk
 邊際	bmjku
@@ -4196,6 +4199,7 @@ sort: original
 辨明	bmmg
 變賣	bmmh
 編目	bmmj
+邊牧	bmmju
 便祕	bmmk
 變面	bmmm
 邊門	bmmn
@@ -5401,7 +5405,6 @@ sort: original
 不聽話	bthv
 本土化	bthvv
 白天黑夜	bthy
-寶塔鎮河妖	bthyo
 半脫產	btj
 不同程度	btjd
 不同程度上	btje
@@ -5423,6 +5426,7 @@ sort: original
 趵突泉	btq
 不太清楚	btqj
 抱團取暖	btqn
+寶塔鎮河妖	btqy
 不同人	btr
 暴跳如雷	btrl
 不通人情	btrq
@@ -5772,8 +5776,7 @@ sort: original
 被摘	bwqh
 保衛戰	bwqi
 把握住	bwqii
-備注	bwqj
-備註	bwqji
+備註	bwqj
 博聞強記	bwqju
 不完全統計	bwqjv
 背起	bwqk
@@ -6387,7 +6390,6 @@ sort: original
 保重	bzfy
 爆照	bzfz
 包租公	bzg
-缽仔糕	bzgN
 寶貴	bzgb
 飽嗝	bzge
 包乾	bzgf
@@ -6401,6 +6403,7 @@ sort: original
 包鋼	bzgpu
 保管	bzgt
 報關	bzgtv
+缽仔糕	bzgu
 包給	bzgw
 報給	bzgwv
 不足掛齒	bzgwvo
@@ -6977,6 +6980,7 @@ sort: original
 措手不及	cebji
 側壁	cebk
 側邊	cebm
+側棒	cebp
 測報	cebz
 此時此地	cecd
 測測	cece
@@ -7470,6 +7474,7 @@ sort: original
 裁縫	chfr
 採風	chfri
 採伐	chfs
+財閥	chfsa
 踩閘	chfso
 才轉	chft
 彩妝	chfx
@@ -7942,6 +7947,7 @@ sort: original
 磁波	ckbl
 磁棒	ckbp
 詞霸	ckbs
+餈粑	ckbso
 慈悲	ckbw
 磁暴	ckbz
 刺参	ckcf
@@ -9733,7 +9739,6 @@ sort: original
 多巴胺	dbxua
 德彪西	dbxui
 電冰箱	dbxv
-封閉性	dbxvo
 對象	dbxx
 東奔西走	dbxz
 大半夜	dby
@@ -10044,7 +10049,7 @@ sort: original
 都存	ddcw
 都從	ddcy
 都操	ddcz
-大大的	ddd
+點點點	ddd
 淡淡的	ddda
 都對	dddb
 跌掉	dddc
@@ -10087,7 +10092,8 @@ sort: original
 跌打	dddso
 豆大	dddsv
 多得多	dddu
-大得多	dddv
+大大的	dddv
+大得多	dddvu
 都得	dddw
 滴滴打車	dddwa
 獨斷獨行	dddx
@@ -10268,7 +10274,6 @@ sort: original
 電動機	ddjv
 都純	ddjw
 豆漿	ddjx
-打黑除惡	ddjxi
 嘀嘀出行	ddjxo
 都將	ddjxu
 得道成仙	ddjxuo
@@ -10598,7 +10603,6 @@ sort: original
 得多	dedl
 丁是丁，卯是卯	dedm
 得當	dedp
-的達	deds
 倒數第一	dedy
 得到	dedz
 得道	dedzu
@@ -10614,7 +10618,6 @@ sort: original
 的說	deelu
 得神	deen
 得上	deep
-大勢所趨	deeq
 得勝	deer
 動手術	deeu
 得少	deez
@@ -10777,9 +10780,6 @@ sort: original
 大失所望	desw
 德頌	desy
 電視臺	det
-的腿	detb
-的臺	deth
-的圖	detj
 得體	detk
 得脫	detl
 多少天	detu
@@ -10788,12 +10788,9 @@ sort: original
 但說無妨	dewf
 倒時差	dewi
 得無	dewj
-當時我就震驚了	dewl
 但是我們	dewm
 德文	dewn
-的茶	dews
-的船	dewt
-德川	dewtu
+德川	dewt
 得寵	dewy
 大師兄	dex
 得按	dexf
@@ -10806,7 +10803,6 @@ sort: original
 得閒	dexm
 東施效顰	dexp
 低聲下氣	dexq
-得下	dexs
 德選	dext
 電視新聞	dexw
 但是現在	dexz
@@ -10838,7 +10834,6 @@ sort: original
 都是一些	deyx
 多少有些	deyxu
 都是一樣	deyy
-的藥	deyz
 獨生子	dez
 得罪	dezb
 德澤	deze
@@ -11230,11 +11225,11 @@ sort: original
 東扶西倒	dfxdv
 大幅下跌	dfxdvi
 丹堊	dfxe
+單行	dfxg
 但愛	dfxh
-但二	dfxj
+大幅下降	dfxj
 單反相機	dfxjo
-大幅下降	dfxjv
-地質學家	dfxjvu
+地質學家	dfxjv
 旦夕	dfxk
 單膝	dfxko
 但須	dfxl
@@ -11801,6 +11796,7 @@ sort: original
 大環境	dhjvv
 帶菌	dhjw
 代講	dhjx
+打黑除惡	dhjxi
 待超	dhjz
 對話框	dhk
 代扣	dhkd
@@ -11886,6 +11882,7 @@ sort: original
 大獲全勝	dhqev
 呆站	dhqf
 黨和政府	dhqfi
+代戰	dhqfio
 怠情	dhqg
 逮住	dhqj
 呆住	dhqjo
@@ -12660,7 +12657,7 @@ sort: original
 地漏	dkldv
 大開綠燈	dkldvo
 低了	dkle
-低欄	dklf
+底欄	dklf
 低齡	dklg
 抵賴	dklh
 抵抗力	dkli
@@ -13028,7 +13025,8 @@ sort: original
 鄧麗君	dlja
 奪金	dljb
 躲進	dljbu
-跺腳	dljc
+剁椒	dljc
+跺腳	dljco
 多角	dljcu
 多解	dljd
 多產	dljf
@@ -13321,6 +13319,7 @@ sort: original
 多麼的	dmd
 大名鼎鼎	dmdd
 點的	dmde
+點單	dmdf
 奠定	dmdg
 電鍍	dmdj
 點滴	dmdk
@@ -13411,6 +13410,7 @@ sort: original
 電耗	dmhzv
 打麻將	dmj
 墊腳	dmjc
+點校	dmjci
 電教	dmjcv
 電解	dmjd
 點解	dmjdi
@@ -13590,7 +13590,6 @@ sort: original
 大明星	dmx
 電信	dmxb
 點心	dmxbi
-點校	dmxc
 佃額	dmxe
 點按	dmxf
 典型	dmxg
@@ -13984,12 +13983,11 @@ sort: original
 丟路	dqlj
 丟臉	dqlm
 大招流	dqlv
-定淮門	dqm
+地球夢	dqm
 丟命	dqmg
 丟面	dqmm
 打情罵俏	dqmq
 丟碼	dqms
-地球夢	dqmv
 短期內	dqn
 當權派	dqp
 大氣磅礴	dqpb
@@ -15266,6 +15264,7 @@ sort: original
 端正	dtqr
 短拳	dtqt
 地鐵站	dtqv
+大頭針	dtqvv
 短裙	dtqw
 短槍	dtqx
 端牆	dtqxo
@@ -15401,7 +15400,6 @@ sort: original
 墩身	dwenv
 頓生	dwer
 第五十	dweu
-都市傳說	dwew
 蛋炒飯	dwf
 彈丸之地	dwfd
 蹲著	dwfe
@@ -15638,7 +15636,6 @@ sort: original
 單相思	dxs
 大寫鎖定	dxsd
 大寫鎖定鍵	dxsj
-大寫字母鎖定鍵	dxsjv
 大學四年	dxsn
 第二天	dxt
 第二天早上	dxte
@@ -15683,6 +15680,7 @@ sort: original
 到現在	dxz
 到現在為止	dxzf
 黨小組	dxzi
+大寫字母鎖定鍵	dxzj
 德昂族	dxzu
 東鄉族	dxzv
 第一步	dyb
@@ -15945,6 +15943,7 @@ sort: original
 大沿帽	dymv
 冬梅	dymw
 電影明星	dymx
+丁一卯二	dymxv
 第一年	dyn
 東南	dynf
 東寧	dyng
@@ -17315,7 +17314,7 @@ sort: original
 受了	edleu
 手懶	edlf
 首領	edlg
-守靈	edlgp
+守靈	edlgo
 收來	edlh
 收錄	edlj
 勢大力沉	edljv
@@ -19028,7 +19027,6 @@ sort: original
 輸出	ejjj
 書櫥	ejjja
 市場經濟	ejjjo
-視如己出	ejjjoa
 生產廠家	ejjju
 世界經濟	ejjjv
 書籍	ejjk
@@ -19093,6 +19091,7 @@ sort: original
 世界歷史	ejlev
 樹齡	ejlg
 疏略	ejlh
+數來	ejlhi
 樹瀨	ejlhv
 睡覺了	ejli
 數據流	ejlii
@@ -21750,7 +21749,6 @@ sort: original
 十全十美	eqem
 神槍手	eqeo
 刷刷	eqeq
-能征善戰	eqeqa
 說著說著	eqeqo
 聖騎士	eqev
 山清水秀	eqex
@@ -22044,6 +22042,7 @@ sort: original
 生境	erjgu
 勝景	erjguo
 勝出	erjj
+視如己出	erjjo
 生出	erjju
 牲畜	erjjuo
 升級	erjk
@@ -22790,6 +22789,7 @@ sort: original
 順了	ewle
 奢侈浪費	ewlf
 誰來	ewlh
+順來	ewlhu
 食物鏈	ewli
 順路	ewlj
 順利	ewlk
@@ -23193,6 +23193,7 @@ sort: original
 試用版	eyb
 刷一波	eyba
 稍有不慎	eybe
+啥也不是	eybeo
 實驗報告	eybg
 十有八九	eybj
 數以百計	eybji
@@ -23842,6 +23843,7 @@ sort: original
 照本宣科	fbxk
 追敘	fbxl
 墜下	fbxs
+封閉性	fbxv
 追尋	fbxw
 追想	fbxx
 追凶	fbxy
@@ -24166,6 +24168,7 @@ sort: original
 非典型肺炎	fdxy
 直到現在	fdxz
 指導員	fdy
+防彈衣	fdya
 分道揚鑣	fdyb
 周遊	fdyd
 晝夜	fdye
@@ -24309,8 +24312,8 @@ sort: original
 這幅	fefj
 折服	fefji
 這副	fefjo
-蟄伏	fefju
-直升飛機	fefjuu
+直升飛機	fefju
+蟄伏	fefjv
 這隻	fefk
 摺紙	fefki
 折枝	fefkiv
@@ -24584,6 +24587,7 @@ sort: original
 放射線	fexou
 遮羞	fexq
 這下	fexs
+遮瑕	fexso
 知識性	fexu
 分數線	fexui
 這項	fexx
@@ -24744,6 +24748,7 @@ sort: original
 負債率	ffeu
 飯勺	ffez
 分分鐘	fff
+泛泛之輩	fffb
 泛舟	fffd
 飯否	fffdi
 翻著	fffe
@@ -25969,7 +25974,6 @@ sort: original
 弗蘭	fjlfa
 涪陵	fjlg
 弗萊	fjlh
-數來	fjlhi
 找出來	fjli
 非常冷	fjlii
 俘虜	fjlj
@@ -26074,8 +26078,7 @@ sort: original
 中長期	fjqi
 非常強	fjqii
 輔助	fjqj
-附注	fjqja
-附註	fjqjao
+附註	fjqja
 付諸	fjqji
 非常清楚	fjqjii
 腐竹	fjqjo
@@ -28104,6 +28107,7 @@ sort: original
 紛擾	fnrz
 粉碎	fnsb
 粉色	fnse
+分色	fnseu
 分散	fnsf
 粉絲	fnsk
 分所	fnsl
@@ -28192,7 +28196,8 @@ sort: original
 分贈	fnzr
 紛雜	fnzs
 分灶	fnzz
-防辦	fpbf
+房辦	fpbf
+防辦	fpbfa
 防病	fpbg
 風評被害	fpbh
 方步	fpbj
@@ -28478,7 +28483,8 @@ sort: original
 防特	fpte
 訪談	fptf
 芳烴	fptg
-方太	fpth
+防颱	fpth
+方太	fptho
 放圖	fptj
 防脫	fptl
 方糖	fptp
@@ -29058,7 +29064,7 @@ sort: original
 風頭	frtdu
 風癱	frtf
 封停	frtg
-豐臺	frth
+豐台	frth
 風土	frtj
 奉託	frtl
 豐田	frtm
@@ -29775,6 +29781,7 @@ sort: original
 專場	ftjp
 專長	ftjpv
 磚廠	ftjpvo
+轉場	ftjpvv
 專程	ftjr
 轉成	ftjrv
 專家	ftjs
@@ -32476,7 +32483,8 @@ sort: original
 狗兒	gdxj
 夠細	gdxk
 溝洫	gdxl
-勾弦	gdxm
+勾線	gdxm
+勾弦	gdxmu
 構陷	gdxmv
 肝膽相照	gdxq
 勾選	gdxt
@@ -33613,8 +33621,8 @@ sort: original
 改了	ghle
 概覽	ghlf
 該領	ghlg
-概略	ghlh
-該來	ghlho
+該來	ghlh
+概略	ghlhv
 該路	ghlj
 該理	ghlk
 概率	ghll
@@ -34330,7 +34338,6 @@ sort: original
 鼓譟	gjzz
 古早	gjzzu
 高寬比	gkb
-比格	gkbe
 剛看到	gkd
 高開低走	gkdz
 剛開始	gke
@@ -34693,7 +34700,7 @@ sort: original
 管理條例	gltl
 過天	gltm
 果糖	gltp
-管理臺賬	gltq
+管理台帳	gltq
 古立特	gltu
 國通	glty
 公路網	glw
@@ -37937,8 +37944,7 @@ sort: original
 會中	hbfy
 會找	hbfz
 還不夠	hbg
-回歸	hbgb
-迴歸	hbgbi
+迴歸	hbgb
 回購	hbgd
 會歌	hbge
 會幹	hbgf
@@ -38100,9 +38106,8 @@ sort: original
 匯率	hbllv
 迴廊	hblp
 灰狼	hblpv
-回流	hblq
-迴流	hblqi
-黑不溜秋	hblqiv
+迴流	hblq
+黑不溜秋	hblqi
 毫不留情	hblqo
 匯流	hblqv
 會亂	hblt
@@ -38276,6 +38281,7 @@ sort: original
 會下	hbxs
 麾下	hbxso
 迴旋	hbxt
+賄選	hbxta
 回想	hbxx
 會想	hbxxi
 回鄉	hbxxia
@@ -38287,7 +38293,7 @@ sort: original
 後半夜	hby
 漢白玉	hbya
 好榜樣	hbyav
-迴音	hbyb
+回音	hbyb
 會陰	hbybi
 會有	hbyd
 會友	hbydi
@@ -38739,6 +38745,7 @@ sort: original
 合辦	hebf
 合併	hebg
 何不	hebj
+皇上不急太監急	hebju
 何必	hebk
 合璧	hebki
 盒幣	hebkio
@@ -39722,7 +39729,7 @@ sort: original
 海關總署	hgze
 還則	hgzei
 後果自負	hgzf
-迴歸祖國	hgzg
+回歸祖國	hgzg
 壞字	hgzk
 悔過自新	hgzx
 漢化版	hhb
@@ -40230,6 +40237,7 @@ sort: original
 虎骨	hjgj
 胡過	hjgl
 護國	hjglo
+糊鍋	hjgloi
 湖光	hjgm
 湖廣	hjgma
 胡瓜	hjgq
@@ -40487,6 +40495,7 @@ sort: original
 忽而	hjxj
 換屆選舉	hjxji
 呼吸	hjxk
+護膝	hjxko
 鬍鬚	hjxl
 弧線	hjxm
 胡恩	hjxn
@@ -40526,7 +40535,8 @@ sort: original
 胡要	hjyzu
 互咬	hjyzv
 花架子	hjz
-胡走	hjzd
+胡謅	hjzd
+胡走	hjzdu
 湖澤	hjze
 虎崽	hjzh
 胡族	hjzj
@@ -41230,7 +41240,6 @@ sort: original
 幌子	hmzk
 皇子	hmzku
 黃鑽	hmzt
-壞小子	hmzv
 漢尼拔	hnb
 很白	hnbh
 很不	hnbj
@@ -41618,6 +41627,7 @@ sort: original
 華冰	hqbgio
 話柄	hqbgo
 花白	hqbh
+華強北	hqbi
 畫布	hqbj
 花布	hqbji
 話補	hqbjo
@@ -42279,7 +42289,6 @@ sort: original
 橫縱	hrzy
 橫遭	hrzz
 賀歲版	hsb
-戶樞不蠹	hsbd
 哈白	hsbh
 哈勃	hsbl
 哈巴	hsbs
@@ -43056,7 +43065,6 @@ sort: original
 喝西北風	hxbfo
 核心部分	hxbfv
 黃白	hxbh
-皇上不急太監急	hxbj
 黃檗	hxbl
 含而不露	hxbli
 皇榜	hxbp
@@ -43988,6 +43996,7 @@ sort: original
 好摳	hzkd
 好客	hzke
 浩克	hzkea
+好渴	hzkeaa
 毫克	hzkeo
 好看	hzkf
 好快	hzkg
@@ -44319,6 +44328,7 @@ sort: original
 長白山	jbei
 金屬	jbej
 盡數	jbeja
+盡述	jbejav
 解兵釋甲	jbeju
 禁書	jbejv
 近視	jbek
@@ -44504,7 +44514,6 @@ sort: original
 浸出	jbjja
 近處	jbjju
 緊急	jbjk
-引繼	jbjka
 金雞	jbjki
 錦集	jbjkii
 進擊	jbjkiv
@@ -44720,7 +44729,7 @@ sort: original
 金傘	jbsf
 禁賽	jbsh
 儘速	jbsj
-盡述	jbsja
+盡訴	jbsja
 近似	jbsk
 金絲	jbski
 緊縮	jbsl
@@ -44932,12 +44941,12 @@ sort: original
 交道	jcdzoo
 交到	jcdzov
 純粹是	jce
-膠水	jceb
-澆水	jceba
-繳稅	jcebau
+澆水	jceb
+繳稅	jceba
 交稅	jcebo
 叫水	jceboa
 叫誰	jceboo
+膠水	jcebu
 教授	jced
 叫獸	jcedo
 交手	jcedoi
@@ -45106,7 +45115,6 @@ sort: original
 教程	jcjr
 交加	jcjs
 較佳	jcjsv
-翹家	jcjsvo
 膠捲	jcjt
 交卷	jcjto
 叫春	jcjw
@@ -45207,8 +45215,7 @@ sort: original
 澆築	jcqja
 澆鑄	jcqjai
 叫住	jcqjo
-腳注	jcqju
-腳註	jcqjuo
+腳註	jcqju
 嬌妻	jcqk
 嬌氣	jcqka
 腳氣	jcqku
@@ -45500,6 +45507,7 @@ sort: original
 絕對是	jdeai
 節水	jdeb
 接水	jdebi
+節稅	jdebu
 接受	jded
 接收	jdedi
 接手	jdedii
@@ -45898,7 +45906,7 @@ sort: original
 截癱	jdtf
 嗟嘆	jdtfo
 接聽	jdtg
-戒臺	jdth
+戒台	jdth
 進度條	jdti
 截圖	jdtj
 階梯	jdtk
@@ -46941,7 +46949,6 @@ sort: original
 精怪	jggg
 機構改革	jgggv
 井蓋	jggh
-鋸睪睪	jggi
 景谷	jggj
 幾個國家	jggja
 脛骨	jggju
@@ -48016,7 +48023,6 @@ sort: original
 出價	jjjsai
 季姬寂，集雞，雞即棘雞。棘雞飢嘰，季姬及箕稷濟雞。雞既濟，躋姬笈，季姬忌，急咭雞，雞急，繼圾幾，季姬急，即籍箕擊雞，箕疾擊幾	jjju
 救濟金	jjjv
-超產獎	jjjvo
 初春	jjjw
 除菌	jjjwa
 即將成為	jjjwaa
@@ -48493,6 +48499,7 @@ sort: original
 積澱	jkdmu
 祭奠	jkdmuo
 極點	jkdmv
+基點	jkdmvi
 機電	jkdmvv
 激盪	jkdp
 既當	jkdpa
@@ -49252,8 +49259,9 @@ sort: original
 急要	jkyzuv
 機要	jkyzv
 忌嘴	jkzb
-寄走	jkzd
-疾走	jkzdo
+急驟	jkzd
+寄走	jkzdo
+疾走	jkzdov
 雞澤	jkze
 積攢	jkzf
 集贊	jkzfi
@@ -49433,6 +49441,7 @@ sort: original
 拘禁	jljbiv
 距今	jljbo
 聚焦	jljc
+拒接	jljd
 精力集中	jljf
 巨鯨	jljg
 拒絕	jljh
@@ -50427,6 +50436,7 @@ sort: original
 襯句	jnjl
 晨間	jnjm
 沉沉	jnjn
+宸宸	jnjno
 節能減排	jnjp
 陳舊	jnjq
 陳年舊賬	jnjqa
@@ -51002,6 +51012,7 @@ sort: original
 懲前毖後	jqbhu
 玖佰	jqbhv
 舊部	jqbj
+就不	jqbjo
 就比	jqbk
 雞犬不留	jqbl
 就便	jqbm
@@ -51049,6 +51060,7 @@ sort: original
 酒店	jqdm
 九點	jqdmu
 精確度	jqdo
+就當	jqdp
 驚奇隊長	jqdq
 久等	jqdr
 就斷	jqdt
@@ -51392,7 +51404,7 @@ sort: original
 九潭	jqtfu
 就停	jqtg
 九亭	jqtgu
-九臺	jqth
+九台	jqth
 酒徒	jqtj
 酒體	jqtk
 舊體	jqtki
@@ -51954,7 +51966,6 @@ sort: original
 加包	jsbza
 家寶	jsbzo
 檢索詞	jsc
-駕車	jsce
 加餐	jscf
 家財	jsch
 加菜	jscha
@@ -52230,8 +52241,7 @@ sort: original
 緊隨其後	jsqhv
 金絲雀	jsqi
 家住	jsqj
-加注	jsqja
-加註	jsqjao
+加註	jsqja
 家主	jsqjo
 夾住	jsqjv
 假期	jsqk
@@ -52287,7 +52297,8 @@ sort: original
 加藤	jstr
 家童	jsty
 家醜	jswd
-江蘇衛視	jswe
+駕車	jswe
+江蘇衛視	jswea
 甲烷	jswf
 加完	jswfa
 家務	jswj
@@ -52786,6 +52797,7 @@ sort: original
 春華	jwhqv
 均衡	jwhr
 菌環	jwht
+九尾狐	jwhu
 軍魂	jwhw
 純黑	jwhwa
 春荒	jwhx
@@ -53264,7 +53276,6 @@ sort: original
 講解	jxjd
 降解	jxjda
 江姐	jxjdaa
-成雙成對	jxjdv
 將車	jxje
 機械降神	jxjev
 久而久之	jxjf
@@ -54397,8 +54408,9 @@ sort: original
 卡丁車	kdjiv
 扣除	kdjj
 口出	kdjjo
-口技	kdjk
-叩擊	kdjko
+口吃	kdjk
+口技	kdjko
+叩擊	kdjkov
 看得出來	kdjl
 扣減	kdjm
 叩見	kdjmo
@@ -55138,6 +55150,7 @@ sort: original
 砍頭	kftdv
 勘探	kftf
 看臺	kfth
+看著他	kfti
 看圖	kftj
 咖啡廳	kfto
 看他	kfts
@@ -55190,6 +55203,7 @@ sort: original
 看作	kfzl
 看做	kfzli
 苦中作樂	kfzlii
+狂風驟雨	kfzy
 砍鑿	kfzz
 克格勃	kgb
 快別	kgbd
@@ -55993,7 +56007,7 @@ sort: original
 客客氣氣	kkqq
 誇誇其談	kkqt
 空空如也	kkry
-看著他	kkt
+看看他	kkt
 哭哭啼啼	kktt
 開快車	kkw
 空口無憑	kkwp
@@ -56543,6 +56557,7 @@ sort: original
 看情況	kqki
 克勤克儉	kqkj
 誇誇	kqkq
+胯寬	kqkt
 口腔潰瘍	kqky
 跨考	kqkz
 看起來	kql
@@ -56565,6 +56580,7 @@ sort: original
 跨入	kqrj
 卡其色	kqs
 跨司	kqsk
+看著他	kqt
 跨跳	kqtc
 垮臺	kqth
 夸脫	kqtl
@@ -56695,7 +56711,6 @@ sort: original
 卡盟	ksmr
 卡嗎	ksms
 苦思冥想	ksmx
-克蘇魯	ksn
 卡努	ksnj
 卡諾	ksnl
 卡農	ksny
@@ -57160,6 +57175,7 @@ sort: original
 狂吃	kxwk
 礦床	kxwm
 狂吻	kxwn
+開小差	kxwo
 狂妄	kxwp
 狂傳	kxwt
 狂為	kxww
@@ -57801,12 +57817,12 @@ sort: original
 臨門	lbmn
 林莽	lbmp
 鱗毛	lbmz
-黎巴嫩	lbn
+老闆娘	lbn
 萊布尼茨	lbnc
 臨難	lbnf
 力不能及	lbnj
 琳娜	lbns
-老闆娘	lbnu
+黎巴嫩	lbnu
 林農	lbny
 羅布泊	lbp
 遴聘	lbpb
@@ -58053,7 +58069,6 @@ sort: original
 遼足	lczj
 料子	lczk
 僚佐	lczl
-列聯表	ldb
 列表	ldbc
 雷打不動	ldbd
 樓板	ldbf
@@ -59158,7 +59173,7 @@ sort: original
 靈脩	lgxqvi
 零下	lgxs
 另選	lgxt
-鑼鼓暄天	lgxti
+鑼鼓喧天	lgxti
 連貫性	lgxv
 凌汛	lgxw
 鈴響	lgxx
@@ -60341,6 +60356,7 @@ sort: original
 氯苯	llbnu
 落榜	llbp
 綠壩	llbs
+列聯表	llbv
 屢被	llbw
 潦潦草草	llcc
 履燦	llcf
@@ -60454,6 +60470,7 @@ sort: original
 綠光	llgx
 老齡化	llh
 流浪漢	llha
+落灰	llhb
 落後	llhd
 呂后	llhdo
 呂河	llhe
@@ -60464,7 +60481,6 @@ sort: original
 綠海	llhh
 來來回回	llhhv
 攔路虎	llhi
-落灰	llhiv
 落戶	llhj
 羅湖	llhji
 屢獲	llhl
@@ -60583,6 +60599,7 @@ sort: original
 綠屏	llpg
 綠皮	llpk
 落魄	llpl
+落跑	llpz
 瀏覽器	llq
 流浪者	llqa
 溜溜球	llqaa
@@ -61866,11 +61883,11 @@ sort: original
 拉傷	lsepi
 拉昇	lser
 臨死時	lsev
-羅斯福	lsf
+螺螄粉	lsf
 拉州	lsfd
 拉著	lsfe
 拉拽	lsfg
-螺螄粉	lsfi
+羅斯福	lsfi
 拉夫	lsfj
 拉直	lsfk
 蠟狀	lsfm
@@ -62235,7 +62252,6 @@ sort: original
 亂色	ltse
 亂散	ltsf
 亂塞	ltsh
-托拉斯	ltsi
 亂訴	ltsj
 亂死	ltsk
 攣縮	ltsl
@@ -63175,6 +63191,7 @@ sort: original
 瓏管	lygt
 老眼光	lygu
 連雲港	lygv
+李玉剛	lygvv
 龍宮	lygy
 攏共	lygyi
 隆高	lygz
@@ -63413,12 +63430,12 @@ sort: original
 老杜	lzdj
 老弟	lzdk
 老店	lzdm
-林子大了什麼鳥都有	lzdn
 老當	lzdp
 老等	lzdr
 老大	lzds
 勞頓	lzdw
 勞動	lzdy
+林子大了什麼鳥都有	lzdyv
 嘮叨	lzdz
 撈到	lzdzi
 老道	lzdzu
@@ -64182,7 +64199,6 @@ sort: original
 某月	mdyh
 某一	mdyk
 滅蟻	mdyka
-麼屌用	mdyo
 某樣	mdyp
 慢動作	mdz
 滅族	mdzj
@@ -64429,8 +64445,7 @@ sort: original
 慢跑	mfpz
 密封圈	mfq
 滿勤	mfqb
-命中注定	mfqd
-命中註定	mfqdi
+命中註定	mfqd
 瞞著	mfqe
 慢著	mfqeo
 名副其實	mfqeu
@@ -67002,8 +67017,7 @@ sort: original
 猛增	mrzr
 猛砸	mrzs
 猛鑽	mrzt
-碼表	msbc
-碼錶	msbcv
+碼錶	msbc
 馬鱉	msbd
 麻斑	msbf
 馬兵	msbg
@@ -67295,7 +67309,7 @@ sort: original
 摩托化	mtho
 名特產	mtj
 沒聽見	mtja
-茅臺酒	mtji
+茅台酒	mtji
 摩托車	mtjo
 明天見	mtjov
 媒體庫	mtk
@@ -67611,7 +67625,7 @@ sort: original
 沒能	mwnr
 沒拿	mwns
 每五年	mwnu
-沒內	mwnw
+沒齒難忘	mwnw
 沒娘	mwnx
 沒弄	mwny
 沒鬧	mwnz
@@ -67842,6 +67856,7 @@ sort: original
 每學期	mxquu
 某些情況下	mxqx
 某些人	mxr
+馬鞍肉	mxri
 喵星人	mxro
 沒心思	mxs
 馬耳他	mxt
@@ -68248,7 +68263,7 @@ sort: original
 冒頭	mztdi
 毛毯	mztf
 茅亭	mztg
-茅臺	mzth
+茅台	mzth
 毛兔	mztj
 民族團結	mztja
 毛團	mztt
@@ -69917,7 +69932,6 @@ sort: original
 那麼這個	nmfg
 黏附	nmfj
 粘附	nmfjo
-腦滿肥腸	nmfju
 年制	nmfk
 粘滯	nmfko
 粘著	nmfl
@@ -70078,6 +70092,7 @@ sort: original
 那麼我們	nmwm
 粘網	nmwp
 農民問題	nmwt
+牛魔王	nmwu
 年味	nmww
 年尾	nmwwu
 粘蟲	nmwy
@@ -70104,7 +70119,7 @@ sort: original
 那麼樣	nmy
 那麼一	nmya
 年幼	nmyd
-那麼一點	nmyda
+怒目圓瞪	nmyda
 農民運動	nmydi
 黏液	nmye
 粘液	nmyeo
@@ -70247,6 +70262,7 @@ sort: original
 牛市	nqek
 扭身	nqen
 扭傷	nqep
+能征善戰	nqeq
 暖氣費	nqf
 扭著	nqfe
 牛莊	nqfm
@@ -71468,7 +71484,6 @@ sort: original
 娘子軍	nzja
 腦筋	nzjb
 鬧街	nzjd
-你自己的	nzjdi
 鬧出	nzjj
 腦際	nzjk
 鬧劇	nzjl
@@ -71543,7 +71558,6 @@ sort: original
 腦炎	nzyf
 撓癢	nzyp
 內在要求	nzyq
-小崽子	nzz
 鬧災	nzzh
 腦子	nzzk
 鬧賊	nzzw
@@ -72323,8 +72337,7 @@ sort: original
 憑著	pgqe
 平展	pgqf
 平寨	pgqh
-評注	pgqj
-評註	pgqjo
+評註	pgqj
 平齊	pgqk
 平淺	pgqm
 屏障	pgqp
@@ -72498,6 +72511,7 @@ sort: original
 拍成	phjri
 普惠金融	phjro
 牌價	phjs
+平衡車	phjv
 派軍	phjw
 排口	phkd
 排課	phke
@@ -72579,6 +72593,7 @@ sort: original
 派往	phwp
 排查	phws
 排插	phwsi
+平衡車	phwv
 排位	phww
 牌位	phwwu
 破壞性	phx
@@ -72983,8 +72998,7 @@ sort: original
 皮卡丘	pkq
 皮鞘	pkqc
 披著	pkqe
-批注	pkqj
-批註	pkqji
+批註	pkqj
 脾氣	pkqk
 批錢	pkqm
 皮疹	pkqn
@@ -73515,7 +73529,6 @@ sort: original
 噴嚏	pntk
 盆湯	pntp
 噴桶	pnty
-盆友	pnud
 陪你玩	pnw
 噴車	pnwe
 噴霧	pnwj
@@ -73526,6 +73539,7 @@ sort: original
 盆下	pnxs
 噴香	pnxx
 噴向	pnxxo
+盆友	pnyd
 噴煙	pnyf
 噴溢	pnyk
 盆浴	pnyl
@@ -73610,8 +73624,7 @@ sort: original
 旁敲	ppqc
 龐清	ppqg
 胖豬	ppqj
-旁注	ppqjo
-旁註	ppqjoo
+旁註	ppqjo
 螃蜞	ppqk
 旁證	ppqr
 翩翩起舞	ppqw
@@ -74281,6 +74294,7 @@ sort: original
 賠小心	pxx
 拼夕夕	pxxi
 平心而論	pxxl
+盼星星盼月亮	pxxli
 拍案而起	pxxq
 平行線	pxxv
 平安夜	pxy
@@ -74547,6 +74561,7 @@ sort: original
 欽點	qbdmi
 芹等	qbdr
 琴斷	qbdt
+起不到	qbdv
 窮兵黷武	qbdw
 撳動	qbdy
 親到	qbdz
@@ -74904,6 +74919,7 @@ sort: original
 橋長	qcjp
 敲成	qcjr
 橋架	qcjs
+翹家	qcjsv
 僑眷	qcjt
 俏脣	qcjw
 峭峻	qcjwi
@@ -75035,7 +75051,6 @@ sort: original
 主導地位	qddw
 切到	qddz
 青島市	qde
-注定是	qdea
 且受	qded
 真的是個	qdeg
 真的是一個	qdegu
@@ -75330,7 +75345,7 @@ sort: original
 這幅	qefj
 折服	qefji
 這副	qefjo
-蟄伏	qefju
+蟄伏	qefjv
 這隻	qefk
 摺紙	qefki
 這支	qefko
@@ -75382,7 +75397,6 @@ sort: original
 折回	qehbi
 這會	qehbo
 這後	qehd
-全社會的	qehdi
 摺合	qehe
 株式會社	qehev
 這還	qehh
@@ -75597,6 +75611,7 @@ sort: original
 遮羞	qexq
 真實寫照	qexqu
 這下	qexs
+遮瑕	qexso
 全身而退	qext
 真實性	qexu
 這項	qexx
@@ -75649,7 +75664,8 @@ sort: original
 這座	qezl
 這尊	qezw
 政治部	qfb
-戰表	qfbc
+覘標	qfbc
+戰表	qfbco
 暫別	qfbd
 求之不得	qfbdv
 窮追不捨	qfbe
@@ -76006,7 +76022,8 @@ sort: original
 政治文明	qfwm
 站穩	qfwn
 助紂為虐	qfwni
-展望	qfwp
+覘望	qfwp
+展望	qfwpa
 戰網	qfwpo
 氈襪	qfws
 正直無私	qfwsv
@@ -76852,7 +76869,8 @@ sort: original
 前後聯繫	qhlxo
 寨隆	qhly
 寨老	qhlz
-張惠妹	qhm
+取貨碼	qhm
+張惠妹	qhma
 齋名	qhmg
 窄面	qhmm
 窄門	qhmn
@@ -77045,8 +77063,7 @@ sort: original
 朱德	qjde
 煮蛋	qjdf
 朱丹	qjdfu
-注定	qjdg
-註定	qjdgo
+註定	qjdg
 豬肚	qjdj
 傾家蕩產	qjdji
 駐地	qjdk
@@ -77091,8 +77108,7 @@ sort: original
 竹鼠	qjeju
 斬盡殺絕	qjejv
 主食	qjek
-注釋	qjeka
-注視	qjekao
+注視	qjeka
 註釋	qjeko
 主使	qjekoi
 諸事	qjekov
@@ -77203,7 +77219,7 @@ sort: original
 朱䴉	qjht
 正常化	qjhv
 主婚	qjhw
-硃脣皓齒	qjhwv
+朱脣皓齒	qjhwu
 朱晃	qjhx
 硃紅	qjhy
 祝好	qjhz
@@ -77216,15 +77232,13 @@ sort: original
 將進酒	qjjai
 住進	qjjb
 主教	qjjc
-注腳	qjjca
 助教	qjjci
 住腳	qjjciu
 註腳	qjjco
 豬腳	qjjcv
 輕車簡從	qjjcvv
-注解	qjjd
+註解	qjjd
 傾巢出動	qjjdi
-註解	qjjdo
 竹節	qjjdu
 助產	qjjf
 主產	qjjfo
@@ -77243,6 +77257,7 @@ sort: original
 逐漸	qjjm
 鑄件	qjjmi
 主見	qjjmo
+主鍵	qjjmoi
 竹簡	qjjmu
 諸宸	qjjn
 這幾句	qjjo
@@ -77325,7 +77340,6 @@ sort: original
 竹篾	qjmdu
 注滿	qjmf
 著名	qjmg
-注明	qjmga
 註明	qjmgo
 主脈	qjmh
 矚目	qjmj
@@ -77490,10 +77504,9 @@ sort: original
 主程序	qjx
 誅心	qjxb
 豬心	qjxbv
-注銷	qjxc
+註銷	qjxc
 住校	qjxci
 助銷	qjxcii
-註銷	qjxco
 逐謝	qjxd
 豬血	qjxdv
 折節下士	qjxe
@@ -78100,8 +78113,9 @@ sort: original
 氣象	qkxx
 氣相	qkxxu
 奇想	qkxxv
-其兄	qkxy
+齊胸	qkxy
 氣胸	qkxyu
+其兄	qkxyv
 奇奧	qkxz
 睜開眼	qky
 起因	qkyb
@@ -78227,7 +78241,6 @@ sort: original
 趨勢	qlek
 驅使	qleki
 去世	qlekv
-去屎	qlekva
 區市	qlekvo
 去勢	qlekvv
 趣事	qlekvv
@@ -78342,6 +78355,7 @@ sort: original
 去處	qljjvi
 區級	qljk
 屈居	qljl
+區局	qljlv
 區間	qljm
 去見	qljmv
 去建	qljmva
@@ -78640,10 +78654,10 @@ sort: original
 這麼大	qmdoov
 前燈	qmdr
 這麼多人	qmdro
+欠打	qmds
 前端	qmdt
 前段	qmdto
 起碼的	qmdv
-鉛酸電池	qmdw
 輕描淡寫	qmdx
 牽動	qmdy
 簽到	qmdz
@@ -80547,6 +80561,7 @@ sort: original
 恰當	qsdp
 掐斷	qsdt
 喬斯達	qsdu
+鉛酸電池	qsdw
 起訴書	qse
 恰是	qsek
 洽商	qsep
@@ -81595,6 +81610,7 @@ sort: original
 穹蒼	qycp
 棄醫從文	qycw
 窮村	qycwo
+正有此意	qycy
 這樣的	qyd
 注意的	qyda
 注意到	qydao
@@ -82463,6 +82479,7 @@ sort: original
 人生觀	reg
 熱狗	regd
 人神共憤	regf
+人参果	regi
 人身攻擊	regj
 熱鍋	regl
 熱管	regt
@@ -82566,6 +82583,7 @@ sort: original
 熱天	retm
 熱湯	retp
 人事網	rew
+妊娠紋	rewa
 熱車	rewe
 熱舞	rewj
 惹我	rewl
@@ -83607,6 +83625,7 @@ sort: original
 認了	rnle
 忍了	rnlea
 認領	rnlg
+認路	rnlj
 人力	rnlk
 人臉	rnlm
 人浪	rnlp
@@ -83970,7 +83989,6 @@ sort: original
 扔在	rrzhi
 人人自危	rrzw
 如斯般	rsb
-人参果	rsg
 人所共知	rsgf
 乳酸菌	rsj
 如喪考妣	rskb
@@ -84435,6 +84453,7 @@ sort: original
 饒沃	rzwl
 人走茶涼	rzwli
 人造衛星	rzwx
+蟯蟲	rzwy
 容祖兒	rzx
 繞行	rzxg
 擾襲	rzxk
@@ -85003,7 +85022,6 @@ sort: original
 四分之一	sffyi
 三分之一	sffyv
 三招	sffz
-四季歌	sfg
 三歸	sfgb
 三個	sfge
 三哥	sfgev
@@ -85023,7 +85041,7 @@ sort: original
 散光	sfgxv
 三公	sfgy
 三高	sfgz
-梭狀回	sfh
+梭狀迴	sfh
 散會	sfhb
 三河	sfhe
 散寒	sfhf
@@ -85757,7 +85775,7 @@ sort: original
 死檔	skdpv
 死等	skdr
 四大	skds
-廝打	skdsv
+廝打	skdso
 四段	skdt
 絲緞	skdta
 四噸	skdw
@@ -85769,8 +85787,8 @@ sort: original
 死守	sked
 四首	skedi
 四手	skedii
-廝守	skedv
-死手	skedvi
+廝守	skedo
+死手	skedv
 四射	skee
 私設	skeeu
 私塾	skej
@@ -85842,6 +85860,7 @@ sort: original
 四功	skgy
 私告	skgz
 撕毀	skhb
+私會	skhbu
 死灰	skhbv
 死後	skhd
 嘶吼	skhdo
@@ -85971,7 +85990,7 @@ sort: original
 四米	skmki
 斯密	skmkv
 死磨	skml
-廝磨	skmlv
+廝磨	skmlo
 四面	skmm
 似夢	skmr
 司馬	skms
@@ -86683,7 +86702,6 @@ sort: original
 僧鞋	srxd
 三人行，必有我師	srxe
 三日遊	sry
-殺人越貨	sryh
 僧衣	sryk
 僧院	sryt
 三人組	srz
@@ -87434,7 +87452,7 @@ sort: original
 嗓子眼	szyo
 搔癢	szyp
 瘙癢	szypo
-四則運算	szyw
+四則運算	szys
 三宗罪	szz
 嫂子	szzk
 臊子	szzku
@@ -88524,7 +88542,7 @@ sort: original
 特混	tehw
 碳水化合物	tehwv
 特好	tehz
-臺式機	tej
+台式機	tej
 特進	tejb
 特教	tejc
 特解	tejd
@@ -88584,7 +88602,7 @@ sort: original
 特納	tens
 特濃	teny
 特鬧	tenz
-臺上盆	tep
+台上盆	tep
 特聘	tepb
 特派	teph
 特批	tepk
@@ -89337,7 +89355,7 @@ sort: original
 同花順	thei
 臺數	thej
 臺屬	thejv
-臺式	thek
+台式	thek
 態勢	theka
 太師	thekv
 太爽	them
@@ -89370,7 +89388,7 @@ sort: original
 太壯	thfx
 太重	thfy
 臺中	thfyv
-臺照	thfz
+台照	thfz
 他還更	thg
 太貴	thgb
 太夠	thgd
@@ -89434,7 +89452,7 @@ sort: original
 太假	thjsv
 太君	thjw
 太蠢	thjwv
-臺江	thjx
+台江	thjx
 泰囧	thjy
 胎窘	thjyu
 太囧	thjyv
@@ -89490,7 +89508,7 @@ sort: original
 臺盟	thmrv
 太麻	thms
 太美	thmw
-臺妹	thmwv
+台妹	thmwa
 胎毛	thmz
 它還能	thn
 太難	thnf
@@ -89528,14 +89546,14 @@ sort: original
 臺前	thqm
 太淺	thqmv
 泰鎮	thqn
-臺賬	thqp
+台賬	thqp
 臺長	thqpv
 檯球	thqq
 太正	thqr
 泰拳	thqt
 太強	thqx
 太窮	thqy
-臺照	thqz
+台照	thqz
 泰瑞	thrb
 太柔	thrd
 太熱	thre
@@ -89678,6 +89696,7 @@ sort: original
 吐槽	tjcz
 突擊隊	tjd
 她覺得	tjda
+台積電	tjdau
 土堆	tjdb
 投機倒把	tjdbi
 塗掉	tjdc
@@ -89696,8 +89715,7 @@ sort: original
 圖檔	tjdp
 兔等	tjdr
 土斷	tjdt
-臺積電	tjdv
-太簡單	tjdvu
+太簡單	tjdv
 土墩	tjdw
 同濟大學	tjdx
 天津大學	tjdxv
@@ -90262,12 +90280,13 @@ sort: original
 提訊	tkxw
 踢向	tkxx
 體香	tkxxi
-它可以	tky
+碳烤魚	tky
 提因	tkyb
 體液	tkye
 體驗	tkyf
 題眼	tkyfo
 啼鶯	tkyg
+鈦空銀	tkyi
 提議	tkyk
 體育	tkyl
 剔牙	tkys
@@ -90302,6 +90321,7 @@ sort: original
 他力本願	tlbyi
 託詞	tlck
 屠龍刀	tld
+彈力帶	tlda
 脫掉	tldc
 拖斗	tldd
 拖得	tlde
@@ -90735,7 +90755,7 @@ sort: original
 天將	tmjx
 天降	tmjxv
 天朝	tmjz
-天癸	tmkb
+天葵	tmkb
 田客	tmke
 田坎	tmkf
 田塊	tmkg
@@ -93170,8 +93190,7 @@ sort: original
 車幫	webp
 車把	webs
 衛生部	webu
-查水表	webv
-查水錶	webva
+查水錶	webv
 為時不晚	webw
 無數次	wec
 車次	weck
@@ -93518,6 +93537,7 @@ sort: original
 無招勝有招	wfequ
 完勝	wfer
 萬升	wferi
+玩啥	wfes
 我只是	wfeu
 五指山	wfev
 未知數	wfevu
@@ -93928,7 +93948,7 @@ sort: original
 揣量	wglx
 歪瓜裂棗	wglz
 萬國碼	wgm
-吃幹抹淨	wgmj
+吃乾抹淨	wgmj
 揣摩	wgml
 搋麵	wgmm
 踹門	wgmn
@@ -94110,6 +94130,7 @@ sort: original
 外積	whjkuu
 文化交流	whjl
 外間	whjm
+外鍵	whjmu
 外臣	whjn
 文化界	whjo
 文化局	whjoi
@@ -94620,7 +94641,6 @@ sort: original
 物價局	wjju
 外交家	wjjuo
 五角場	wjjv
-超產獎	wjjvo
 無菌	wjjw
 無春	wjjwu
 誤將	wjjx
@@ -95118,6 +95138,7 @@ sort: original
 赤峰	wkfr
 叱吒	wkfs
 吃法	wkfso
+我看著	wkfu
 痴肥	wkfw
 齒狀	wkfx
 持重	wkfy
@@ -95191,7 +95212,6 @@ sort: original
 吃垮	wkkq
 持卡	wkks
 我看看	wkku
-我看著	wkkui
 痴狂	wkkx
 烏克蘭	wkl
 赤磷	wklb
@@ -95262,6 +95282,7 @@ sort: original
 痴長	wkqp
 持球	wkqq
 持證	wkqr
+我看著	wkqu
 吃準	wkqw
 持槍	wkqx
 池沼	wkqz
@@ -96546,7 +96567,7 @@ sort: original
 望頭	wptdo
 網壇	wptf
 網廳	wptg
-王臺	wpth
+王台	wpth
 妄圖	wptj
 罔替	wptk
 望天	wptm
@@ -97214,7 +97235,7 @@ sort: original
 傳導	wtdz
 傳道	wtdzi
 傳到	wtdziv
-五臺山	wte
+五台山	wte
 川水	wteb
 傳授	wted
 川攝	wtee
@@ -97563,7 +97584,6 @@ sort: original
 為霜	wwem
 委身	wwen
 為甚	wweno
-唯唯是諾	wwenoo
 微商	wwep
 為上	wwepo
 文武雙全	wweq
@@ -98162,7 +98182,6 @@ sort: original
 創編	wxbmi
 窗邊	wxbmo
 畏葸不前	wxbq
-畏崽不前	wxbqi
 瘡疤	wxbs
 王小波	wxbv
 床被	wxbw
@@ -98377,6 +98396,7 @@ sort: original
 創業	wxye
 文學藝術	wxyeo
 床沿	wxyf
+五險一金	wxyj
 創意	wxyk
 瘡痍	wxyko
 文學院	wxyo
@@ -98508,7 +98528,7 @@ sort: original
 重種	wyfy
 毋庸置疑	wyfya
 池魚之殃	wyfyau
-我應該	wyg
+我一個	wyg
 重歸	wygb
 重構	wygd
 五一國際勞動節	wygj
@@ -99264,7 +99284,7 @@ sort: original
 新番	xbffo
 新債	xbfh
 小部分	xbfi
-錫箔紙	xbfix
+錫箔紙	xbfiu
 信服	xbfj
 心腹	xbfjo
 心浮	xbfjoa
@@ -99745,6 +99765,7 @@ sort: original
 小菜	xcch
 消磁	xcck
 小錯	xccl
+暗搓搓	xcco
 小艙	xccp
 小村	xccw
 小蔥	xccy
@@ -99919,6 +99940,7 @@ sort: original
 小產	xcjf
 孝敬	xcjg
 小徑	xcjgi
+小差	xcjh
 消除	xcjj
 削除	xcjji
 笑出	xcjju
@@ -101371,6 +101393,7 @@ sort: original
 安家	xfjs
 俺家	xfjsi
 案卷	xfjt
+學分績	xfju
 二指禪	xfjv
 鵪鶉	xfjw
 西方經濟學	xfjx
@@ -102263,8 +102286,8 @@ sort: original
 學金	xhjbu
 礙腳	xhjc
 哀叫	xhjco
-學界	xhjd
-學姐	xhjdu
+學姐	xhjd
+學界	xhjdu
 愛借	xhjdui
 愛車	xhje
 懸壺濟世	xhjei
@@ -104102,6 +104125,7 @@ sort: original
 先比	xmbk
 先編	xmbm
 現編	xmbmv
+血脈賁張	xmbq
 先把	xmbs
 先輩	xmbw
 仙貝	xmbwi
@@ -104249,6 +104273,7 @@ sort: original
 險工	xmgya
 仙宮	xmgyi
 限高	xmgz
+線稿	xmgza
 笑面虎	xmh
 賢惠	xmhb
 先後	xmhd
@@ -104404,7 +104429,7 @@ sort: original
 先批	xmpk
 先騙	xmpm
 相貌平平	xmpp
-血脈賁張	xmpq
+血脈噴張	xmpq
 先賠	xmpw
 先跑	xmpz
 蕁麻疹	xmq
@@ -104517,7 +104542,6 @@ sort: original
 仙翁	xmwr
 先查	xmws
 先傳	xmwt
-牛魔王	xmwu
 纖維	xmww
 限位	xmwwa
 縣委	xmwwi
@@ -104805,6 +104829,7 @@ sort: original
 小助手	xqei
 鹹豬手	xqeiv
 修書	xqej
+休書	xqeji
 安全生產	xqejo
 修飾	xqek
 鏽蝕	xqeki
@@ -105398,6 +105423,7 @@ sort: original
 瞎看	xskf
 瞎快	xskg
 嚇哭	xskj
+細思恐極	xskja
 奧斯卡獎	xskju
 下框	xskm
 下炕	xskp
@@ -105733,6 +105759,7 @@ sort: original
 選手	xted
 二桃殺三士	xtee
 炫閃	xtef
+相談甚歡	xteh
 懸殊	xtej
 宣誓	xtek
 宣示	xteko
@@ -105820,6 +105847,7 @@ sort: original
 選礦	xtkm
 選框	xtkma
 懸跨	xtkq
+暗通款曲	xtkqo
 選礦	xtkx
 選框	xtkxa
 懸空	xtky
@@ -106276,8 +106304,7 @@ sort: original
 血細胞	xxbua
 血小板	xxbui
 先行版	xxbuu
-現世報	xxbv
-二向箔	xxbvu
+二向箔	xxbv
 相悖	xxbw
 向北	xxbwu
 向背	xxbwui
@@ -107203,7 +107230,7 @@ sort: original
 兄嫂	xysz
 嚇一跳	xyt
 胸透	xytd
-兄臺	xyth
+兄台	xyth
 小丫頭	xyti
 凶徒	xytj
 胸膛	xytp
@@ -107352,7 +107379,6 @@ sort: original
 凹進	xzjb
 傲嬌	xzjc
 凹鏡	xzjg
-笑傲江湖	xzjh
 凹處	xzjj
 澳籍	xzjk
 熬煎	xzjm
@@ -107473,8 +107499,10 @@ sort: original
 奧運	xzyw
 熬藥	xzyz
 喜滋滋	xzz
+洗澡澡	xzza
 愛咋咋地	xzzd
 奧在	xzzh
+小崽子	xzzi
 螯足	xzzj
 凹字	xzzk
 襖子	xzzko
@@ -107708,6 +107736,7 @@ sort: original
 印出	ybjju
 印記	ybjk
 陰極	ybjka
+引繼	ybjkaa
 印跡	ybjku
 隱居	ybjl
 由表及裡	ybjli
@@ -107988,7 +108017,6 @@ sort: original
 殷殷	ybybu
 一步一步	ybybv
 一遍一遍	ybybvu
-一兵一卒	ybybvuv
 引誘	ybyd
 隱憂	ybyda
 也不一定	ybydav
@@ -108043,6 +108071,7 @@ sort: original
 一步一個腳印	ybyyvi
 一板一眼	ybyyvv
 因要	ybyz
+一兵一卒	ybyzv
 一輩子	ybz
 也不在	ybza
 因在	ybzh
@@ -108675,7 +108704,6 @@ sort: original
 遊絲	ydsko
 憂思	ydskv
 有所	ydsl
-於死地	ydso
 遊僧	ydsr
 有酸	ydst
 油酸	ydsta
@@ -108971,6 +108999,7 @@ sort: original
 夜店	yedm
 葉典	yedmi
 意識到	yedo
+夜燈	yedr
 夜大	yeds
 冶鍛	yedt
 有深度	yedv
@@ -109867,7 +109896,7 @@ sort: original
 言談	yftf
 鹽亭	yftg
 一致通過	yftgv
-煙臺	yfth
+煙台	yfth
 硯臺	yfthv
 沿途	yftj
 岩土	yftji
@@ -110063,10 +110092,8 @@ sort: original
 雁過拔毛	ygbmv
 有關部門	ygbmvo
 影本	ygbn
-螢光筆	ygbo
-熒光筆	ygboi
-螢光棒	ygboiv
-熒光棒	ygboiv
+熒光筆	ygbo
+熒光棒	ygboi
 英鎊	ygbp
 一個鼻孔出氣	ygbq
 硬背	ygbw
@@ -110088,8 +110115,8 @@ sort: original
 贏得	ygde
 應得	ygdeo
 贏的	ygdeou
-嚴格地說	ygdeov
-一個多小時	ygdev
+硬的	ygdev
+一個多小時	ygdevi
 一個地方	ygdf
 硬頂	ygdg
 英國的	ygdi
@@ -110100,8 +110127,7 @@ sort: original
 一個道理	ygdlv
 應點	ygdm
 硬點	ygdmv
-螢光燈	ygdo
-熒光燈	ygdoi
+熒光燈	ygdo
 應當	ygdp
 一個多星期	ygdq
 應答	ygds
@@ -110197,15 +110223,13 @@ sort: original
 有關國家	yggjvo
 英國	yggl
 贏過	ygglo
-螢光	yggm
-熒光	yggmo
+熒光	yggm
 硬剛	yggp
 纓冠	yggt
 一根根	yggv
 應給	yggw
-螢光	yggx
+熒光	yggx
 因果關係	yggxi
-熒光	yggxo
 硬功	yggy
 硬搞	yggz
 應該會	ygh
@@ -110324,8 +110348,7 @@ sort: original
 英明	ygmg
 英名	ygmgi
 英畝	ygmj
-螢幕	ygmjo
-熒幕	ygmjoi
+熒幕	ygmjo
 影迷	ygmk
 英模	ygml
 迎面	ygmm
@@ -110348,21 +110371,19 @@ sort: original
 一股腦	ygnv
 一古腦	ygnvu
 一股腦兒	ygnx
-螢光屏	ygp
+熒光屏	ygp
 預告片	ygpa
 應聘	ygpb
 硬拼	ygpbv
 硬盤	ygpf
 陽光普照	ygpfa
 營盤	ygpfo
-螢屏	ygpg
-熒屏	ygpgo
-影評	ygpgoo
+熒屏	ygpg
+影評	ygpgo
 鷹派	ygph
 硬皮	ygpk
 英魄	ygpl
 影片	ygpm
-熒光屏	ygpo
 陽光普照	ygpq
 硬碰	ygpr
 英培	ygpw
@@ -110427,7 +110448,7 @@ sort: original
 鷹潭	ygtfo
 硬挺	ygtg
 英挺	ygtgi
-英臺	ygth
+英台	ygth
 異構體	ygti
 一個條件	ygtj
 硬體	ygtk
@@ -110838,7 +110859,7 @@ sort: original
 義和團	yhtou
 約他	yhts
 樂團	yhtt
-雨花臺	yhtv
+雨花台	yhtv
 用戶體驗	yhty
 螢火蟲	yhw
 浴火重生	yhwe
@@ -110941,6 +110962,7 @@ sort: original
 陽春白雪	yjbxa
 言出必行	yjbxo
 應屆畢業	yjby
+殷鑑不遠	yjbyu
 已經不再	yjbz
 有幾次	yjc
 引咎辭職	yjcf
@@ -111858,8 +111880,7 @@ sort: original
 眼看著	ykqi
 遺囑	ykqj
 挹注	ykqji
-譯注	ykqjo
-譯註	ykqjoo
+譯註	ykqjo
 易主	ykqjoo
 一株	ykqjv
 醫囑	ykqjvo
@@ -112431,8 +112452,7 @@ sort: original
 漁港	ylgpa
 魚缸	ylgpu
 魚貫	ylgt
-李玉剛	ylgv
-一兩個	ylgvv
+一兩個	ylgv
 與狼共舞	ylgw
 餘光	ylgx
 與共	ylgy
@@ -112850,8 +112870,8 @@ sort: original
 依賴於	ylyiv
 有理有據	ylyj
 由來已久	ylyji
-有稜有角	ylyjv
-越來越近	ylyjvv
+越來越近	ylyjv
+有稜有角	ylyjvu
 予以	ylyk
 羽翼	ylyka
 羽衣	ylykao
@@ -112974,6 +112994,7 @@ sort: original
 一馬平川	ympw
 羽毛球	ymq
 驗明正身	ymqe
+夜明珠	ymqo
 羽毛球拍	ymqp
 揠苗助長	ymqq
 以貌取人	ymqr
@@ -112984,7 +113005,6 @@ sort: original
 原木色	yms
 顏面掃地	ymsd
 一畝三分地	ymsdv
-一畝三分地	ymsf
 與民同樂	ymtl
 揚眉吐氣	ymtq
 有名無實	ymwe
@@ -113657,6 +113677,7 @@ sort: original
 壓低	ysdk
 雅典	ysdm
 壓電	ysdmv
+於死地	ysdo
 亞當	ysdp
 亞大	ysds
 壓斷	ysdt
@@ -113851,7 +113872,7 @@ sort: original
 啞特	yste
 丫挺	ystg
 亞太	ysth
-壓臺	ysthv
+壓台	ysthv
 雅圖	ystj
 押題	ystk
 牙疼	ystr
@@ -114237,7 +114258,7 @@ sort: original
 原帖	yttdv
 圓壇	yttf
 園亭	yttg
-遠臺	ytth
+遠台	ytth
 原圖	yttj
 願替	yttk
 圓體	yttki
@@ -114597,7 +114618,7 @@ sort: original
 有問題的	ywtdv
 勻攤	ywtf
 雲亭	ywtg
-雲臺	ywth
+雲台	ywth
 雲圖	ywtj
 雲梯	ywtk
 雲天	ywtm
@@ -116245,7 +116266,8 @@ sort: original
 走白	zdbh
 走步	zdbj
 走筆	zdbk
-走遍	zdbm
+驟變	zdbm
+走遍	zdbmv
 奏本	zdbn
 走吧	zdbs
 走背	zdbw
@@ -116257,7 +116279,8 @@ sort: original
 奏對	zddb
 走掉	zddc
 走調	zddcv
-走跌	zddd
+驟跌	zddd
+走跌	zdddv
 走得	zdde
 走帶	zddh
 走讀	zddj
@@ -116285,13 +116308,15 @@ sort: original
 走上	zdep
 自動上屏	zdepu
 最低生活保障	zdeq
-走聲	zder
+驟升	zder
+走聲	zderv
 最大值	zdf
 走著	zdfe
 奏摺	zdfev
 走訪	zdfp
 諏訪	zdfpo
-走風	zdfr
+驟風	zdfr
+走風	zdfrv
 坐地分贓	zdfz
 在德國	zdg
 走狗	zdgd
@@ -116321,8 +116346,10 @@ sort: original
 奏出	zdjjv
 鄒忌	zdjk
 奏技	zdjkv
-走見	zdjm
+驟減	zdjm
+走見	zdjmv
 鄒城	zdjr
+驟降	zdjx
 自大狂	zdk
 自動控制	zdkf
 走開	zdkh
@@ -116374,6 +116401,7 @@ sort: original
 最低氣溫	zdqw
 走強	zdqx
 做敵人	zdr
+驟然	zdrf
 走入	zdrj
 走弱	zdrl
 走人	zdrn
@@ -116385,6 +116413,7 @@ sort: original
 走私	zdsk
 走索	zdsl
 早稻田	zdt
+驟停	zdtg
 走臺	zdth
 走題	zdtk
 走脫	zdtl
@@ -116424,6 +116453,7 @@ sort: original
 走硬	zdyg
 奏樂	zdyh
 奏議	zdyk
+驟雨	zdyl
 走樣	zdyp
 走呀	zdys
 走遠	zdyt
@@ -116434,6 +116464,7 @@ sort: original
 走在	zdzh
 走卒	zdzj
 走子	zdzk
+驟增	zdzr
 自導自演	zdzy
 座上賓	zeb
 坐視不管	zebg
@@ -117241,6 +117272,7 @@ sort: original
 遵紀守法	zjef
 紫金山	zjei
 租書	zjej
+組數	zjeja
 最佳時機	zjejo
 祖師	zjek
 阻深	zjen
@@ -117473,7 +117505,6 @@ sort: original
 資本	zkbn
 自愧不如	zkbr
 自拔	zkbs
-餈粑	zkbso
 自卑	zkbw
 自備	zkbwu
 自保	zkbz
@@ -118855,7 +118886,7 @@ sort: original
 遭淘汰	ztt
 鑽頭	zttd
 鑽探	zttf
-鑽臺	ztth
+鑽台	ztth
 鑽塔	ztts
 組態王	ztw
 昨天晚上	ztwe
@@ -119260,6 +119291,7 @@ sort: original
 左右兩難	zyln
 最有力	zylo
 擇優錄取	zylq
+自由落體	zylt
 總論	zylw
 總類	zylwa
 總量	zylx
@@ -119567,7 +119599,7 @@ sort: original
 早退	zztb
 糟透	zztd
 早聽	zztg
-灶臺	zzth
+灶台	zzth
 造田	zztm
 澡堂	zztp
 糟蹋	zzts
